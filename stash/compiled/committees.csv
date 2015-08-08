@@ -1,0 +1,3754 @@
+code,bioguide_id,party,thomas_id,title,member_name,rank
+HSBA16,G000548,majority,01737,Chair,Scott Garrett,1
+HSBA16,H001060,majority,02069,Vice Chair,Robert Hurt,2
+HSBA16,K000210,majority,00635,,Peter T. King,3
+HSBA16,R000487,majority,00998,,Edward R. Royce,4
+HSBA16,N000182,majority,01758,,Randy Neugebauer,5
+HSBA16,M001156,majority,01792,,Patrick T. McHenry,6
+HSBA16,H001058,majority,02028,,Bill Huizenga,7
+HSBA16,D000614,majority,02072,,Sean P. Duffy,8
+HSBA16,S001187,majority,02047,,Steve Stivers,9
+HSBA16,F000458,majority,02064,,Stephen Lee Fincher,10
+HSBA16,H001059,majority,02015,,Randy Hultgren,11
+HSBA16,R000593,majority,02003,,Dennis A. Ross,12
+HSBA16,W000812,majority,02137,,Ann Wagner,13
+HSBA16,M001189,majority,02130,,Luke Messer,14
+HSBA16,S001183,majority,01994,,David Schweikert,15
+HSBA16,P000611,majority,02247,,Bruce Poliquin,16
+HSBA16,H001072,majority,02223,,J. French Hill,17
+HSBA16,H001036,majority,01749,Ex Officio,Jeb Hensarling,18
+HSBA16,M000087,minority,00729,Ranking Member,Carolyn B. Maloney,1
+HSBA16,S000344,minority,01526,,Brad Sherman,2
+HSBA16,H000636,minority,01490,,Rubén Hinojosa,3
+HSBA16,L000562,minority,01686,,Stephen F. Lynch,4
+HSBA16,P000593,minority,01835,,Ed Perlmutter,5
+HSBA16,S001157,minority,01722,,David Scott,6
+HSBA16,H001047,minority,01913,,James A. Himes,7
+HSBA16,E000288,minority,01857,,Keith Ellison,8
+HSBA16,F000454,minority,01888,,Bill Foster,9
+HSBA16,M001137,minority,01506,,Gregory W. Meeks,10
+HSBA16,C001083,minority,01999,,John C. Carney Jr.,11
+HSBA16,S001185,minority,01988,,Terri A. Sewell,12
+HSBA16,M001191,minority,02117,,Patrick Murphy,13
+HSBA16,W000187,minority,01205,Ex Officio,Maxine Waters,14
+SSHR11,I000055,majority,01608,Chairman,Johnny Isakson,1
+SSHR11,P000603,majority,02082,,Rand Paul,2
+SSHR11,S001184,majority,02056,,Tim Scott,3
+SSHR11,K000360,majority,01647,,Mark Kirk,4
+SSHR11,R000307,majority,00968,,Pat Roberts,5
+SSHR11,C001075,majority,01925,,Bill Cassidy,6
+SSHR11,A000360,majority,01695,Ex Officio,Lamar Alexander,7
+SSHR11,F000457,minority,01969,Ranking Member,Al Franken,1
+SSHR11,C001070,minority,01828,,"Robert P. Casey, Jr.",2
+SSHR11,W000802,minority,01823,,Sheldon Whitehouse,3
+SSHR11,B001230,minority,01558,,Tammy Baldwin,4
+SSHR11,M001111,minority,01409,Ex Officio,Patty Murray,5
+HSAG,C001062,majority,01805,Chair,K. Michael Conaway,1
+HSAG,G000289,majority,00446,,Bob Goodlatte,2
+HSAG,L000491,majority,00711,,Frank D. Lucas,3
+HSAG,K000362,majority,01724,,Steve King,4
+HSAG,N000182,majority,01758,Vice Chair,Randy Neugebauer,5
+HSAG,R000575,majority,01704,,Mike Rogers,6
+HSAG,T000467,majority,01952,,Glenn Thompson,7
+HSAG,G000563,majority,02049,,Bob Gibbs,8
+HSAG,S001189,majority,02009,,Austin Scott,9
+HSAG,C001087,majority,01989,,"Eric A. ""Rick"" Crawford",10
+HSAG,D000616,majority,02062,,Scott DesJarlais,11
+HSAG,G000564,majority,02043,,Christopher P. Gibson,12
+HSAG,H001053,majority,02032,,Vicky Hartzler,13
+HSAG,B001271,majority,02027,,Dan Benishek,14
+HSAG,D000612,majority,01995,,Jeff Denham,15
+HSAG,L000578,majority,02100,,Doug LaMalfa,16
+HSAG,D000619,majority,02126,,Rodney Davis,17
+HSAG,Y000065,majority,02115,,Ted S. Yoho,18
+HSAG,W000813,majority,02128,,Jackie Walorski,19
+HSAG,A000372,majority,02239,,Rick W. Allen,20
+HSAG,B001295,majority,02243,,Mike Bost,21
+HSAG,R000603,majority,02256,,David Rouzer,22
+HSAG,A000374,majority,02244,,Ralph Lee Abraham,23
+HSAG,M001194,majority,02248,,John R. Moolenaar,24
+HSAG,N000189,majority,02275,,Dan Newhouse,25
+HSAG,K000388,majority,02294,,Trent Kelly,26
+HSAG,P000258,minority,00910,Ranking Member,Collin C. Peterson,1
+HSAG,S001157,minority,01722,,David Scott,2
+HSAG,C001059,minority,01774,,Jim Costa,3
+HSAG,W000799,minority,01856,,Timothy J. Walz,4
+HSAG,F000455,minority,01895,,Marcia L. Fudge,5
+HSAG,M000312,minority,01504,,James P. McGovern,6
+HSAG,D000617,minority,02096,,Suzan K. DelBene,7
+HSAG,V000132,minority,02167,,Filemon Vela,8
+HSAG,L000580,minority,02146,,Michelle Lujan Grisham,9
+HSAG,K000382,minority,02145,,Ann M. Kuster,10
+HSAG,N000127,minority,00867,,Richard M. Nolan,11
+HSAG,B001286,minority,02127,,Cheri Bustos,12
+HSAG,M001185,minority,02150,,Sean Patrick Maloney,13
+HSAG,K000368,minority,01907,,Ann Kirkpatrick,14
+HSAG,A000371,minority,02229,,Pete Aguilar,15
+HSAG,P000610,minority,02274,,Stacey E. Plaskett,16
+HSAG,A000370,minority,02201,,Alma S. Adams,17
+HSAG,G000575,minority,02234,,Gwen Graham,18
+HSAG,A000373,minority,02257,,Brad Ashford,19
+HSSM24,H001070,majority,02260,Chair,Cresent Hardy,1
+HSSM24,R000597,majority,02160,,Tom Rice,2
+HSSM24,K000387,majority,02228,,Stephen Knight,3
+HSSM24,B001295,majority,02243,,Mike Bost,4
+HSSM24,A000370,minority,02201,Ranking Member,Alma S. Adams,1
+SSAP23,B001236,majority,01687,Chairman,John Boozman,1
+SSAP23,M000934,majority,01507,,Jerry Moran,2
+SSAP23,L000575,majority,02050,,James Lankford,3
+SSAP23,C000567,majority,00213,Ex Officio,Thad Cochran,4
+SSAP23,C001088,minority,01984,Ranking Member,Christopher A. Coons,1
+SSAP23,D000563,minority,00326,,Richard J. Durbin,2
+SSAP23,M000702,minority,00802,Ex Officio,Barbara A. Mikulski,3
+SSFI02,H001041,majority,01863,Chairman,Dean Heller,1
+SSFI02,I000055,majority,01608,,Johnny Isakson,2
+SSFI02,T000461,majority,02085,,Patrick J. Toomey,3
+SSFI02,S001184,majority,02056,,Tim Scott,4
+SSFI02,H000338,majority,01351,Ex Officio,Orrin G. Hatch,5
+SSFI02,B000944,minority,00136,Ranking Member,Sherrod Brown,1
+SSFI02,S000148,minority,01036,,Charles E. Schumer,2
+SSFI02,W000779,minority,01247,Ex Officio,Ron Wyden,3
+HSHM11,M001150,majority,01731,Chair,Candice S. Miller,1
+HSHM11,S000583,majority,01075,,Lamar Smith,2
+HSHM11,R000575,majority,01704,,Mike Rogers,3
+HSHM11,D000615,majority,02057,,Jeff Duncan,4
+HSHM11,B001269,majority,02054,,Lou Barletta,5
+HSHM11,H001073,majority,02269,,Will Hurd,6
+HSHM11,M001197,majority,02225,,Martha McSally,7
+HSHM11,M001157,majority,01804,Ex Officio,Michael T. McCaul,8
+HSHM11,V000132,minority,02167,Ranking Member,Filemon Vela,1
+HSHM11,S000030,minority,01522,,Loretta Sanchez,2
+HSHM11,J000032,minority,00588,,Sheila Jackson Lee,3
+HSHM11,H001038,minority,01794,,Brian Higgins,4
+HSHM11,T000474,minority,02231,,Norma J. Torres,5
+HSHM11,T000193,minority,01151,Ex Officio,Bennie G. Thompson,6
+HSSM27,R000597,majority,02160,Chair,Tom Rice,1
+HSSM27,H001051,majority,02044,,Richard L. Hanna,2
+HSSM27,H001057,majority,02020,,Tim Huelskamp,3
+HSSM27,B001290,majority,02203,,Dave Brat,4
+HSSM27,R000600,majority,02222,,Aumua Amata Coleman Radewagen,5
+HSSM27,K000388,majority,02294,,Trent Kelly,6
+HSSM27,C001080,minority,01970,Ranking Member,Judy Chu,1
+SSAF17,S001197,majority,02289,Chairman,Ben Sasse,1
+SSAF17,M000355,majority,01395,,Mitch McConnell,2
+SSAF17,E000295,majority,02283,,Joni Ernst,3
+SSAF17,T000476,majority,02291,,Thom Tillis,4
+SSAF17,T000250,majority,01534,,John Thune,5
+SSAF17,G000386,majority,00457,,Chuck Grassley,6
+SSAF17,R000307,majority,00968,Ex Officio,Pat Roberts,7
+SSAF17,G000555,minority,01866,Ranking Member,Kirsten E. Gillibrand,1
+SSAF17,L000174,minority,01383,,Patrick J. Leahy,2
+SSAF17,K000367,minority,01826,,Amy Klobuchar,3
+SSAF17,D000607,minority,01850,,Joe Donnelly,4
+SSAF17,C001070,minority,01828,,"Robert P. Casey, Jr.",5
+SSAF17,S000770,minority,01531,Ex Officio,Debbie Stabenow,6
+HSAP24,G000560,majority,01979,Chair,Tom Graves,1
+HSAP24,A000369,majority,02090,Vice Chair,Mark E. Amodei,2
+HSAP24,R000589,majority,02068,,E. Scott Rigell,3
+HSAP24,J000297,majority,02278,,Evan H. Jenkins,4
+HSAP24,P000601,majority,02035,,Steven M. Palazzo,5
+HSAP24,W000797,minority,01777,Ranking Member,Debbie Wasserman Schultz,1
+HSAP24,F000030,minority,00368,,Sam Farr,2
+HSAP24,M001143,minority,01653,,Betty McCollum,3
+SSEG03,B001261,majority,01881,Chairman,John Barrasso,1
+SSEG03,C001047,majority,01676,,Shelley Moore Capito,2
+SSEG03,R000584,majority,01896,,James E. Risch,3
+SSEG03,L000577,majority,02080,,Mike Lee,4
+SSEG03,D000618,majority,02138,,Steve Daines,5
+SSEG03,C001075,majority,01925,,Bill Cassidy,6
+SSEG03,G000562,majority,01998,,Cory Gardner,7
+SSEG03,H001061,majority,02079,,John Hoeven,8
+SSEG03,F000444,majority,01633,,Jeff Flake,9
+SSEG03,A000360,majority,01695,,Lamar Alexander,10
+SSEG03,M001153,majority,01694,Ex Officio,Lisa Murkowski,11
+SSEG03,W000779,minority,01247,Ranking Member,Ron Wyden,1
+SSEG03,S000770,minority,01531,,Debbie Stabenow,2
+SSEG03,F000457,minority,01969,,Al Franken,3
+SSEG03,M001183,minority,01983,,"Joe Manchin, III",4
+SSEG03,H001046,minority,01937,,Martin Heinrich,5
+SSEG03,H001042,minority,01844,,Mazie K. Hirono,6
+SSEG03,W000817,minority,02182,,Elizabeth Warren,7
+SSEG03,C000127,minority,00172,Ex Officio,Maria Cantwell,8
+HSSY20,W000814,majority,02161,Chair,Randy K. Weber Sr.,1
+HSSY20,R000409,majority,00979,,Dana Rohrabacher,2
+HSSY20,N000182,majority,01758,,Randy Neugebauer,3
+HSSY20,B001274,majority,01987,,Mo Brooks,4
+HSSY20,H001059,majority,02015,,Randy Hultgren,5
+HSSY20,M001184,majority,02094,,Thomas Massie,6
+HSSY20,K000387,majority,02228,Vice Chair,Stephen Knight,7
+HSSY20,C001105,majority,02273,,Barbara Comstock,8
+HSSY20,L000583,majority,02238,,Barry Loudermilk,9
+HSSY20,S000583,majority,01075,Ex Officio,Lamar Smith,10
+HSSY20,G000556,minority,01914,Ranking Member,Alan Grayson,1
+HSSY20,S001193,minority,02104,,Eric Swalwell,2
+HSSY20,V000131,minority,02166,,Marc A. Veasey,3
+HSSY20,L000563,minority,01781,,Daniel Lipinski,4
+HSSY20,C001101,minority,02196,,Katherine M. Clark,5
+HSSY20,P000593,minority,01835,,Ed Perlmutter,6
+HSSY20,J000126,minority,00599,Ex Officio,Eddie Bernice Johnson,7
+HSAP10,S001148,majority,01590,Chair,Michael K. Simpson,1
+HSAP10,F000372,majority,00414,,Rodney P. Frelinghuysen,2
+HSAP10,C000059,majority,00165,,Ken Calvert,3
+HSAP10,F000459,majority,02061,Vice Chair,"Charles J. ""Chuck"" Fleischmann",4
+HSAP10,F000449,majority,01793,,Jeff Fortenberry,5
+HSAP10,G000377,majority,01487,,Kay Granger,6
+HSAP10,H001056,majority,02071,,Jaime Herrera Beutler,7
+HSAP10,V000129,majority,02105,,David G. Valadao,8
+HSAP10,K000009,minority,00616,Ranking Member,Marcy Kaptur,1
+HSAP10,V000108,minority,01188,,Peter J. Visclosky,2
+HSAP10,H001034,minority,01634,,Michael M. Honda,3
+HSAP10,R000486,minority,00997,,Lucille Roybal-Allard,4
+HLIG02,W000796,majority,01779,Chair,Lynn A. Westmoreland,1
+HLIG02,M001144,majority,01685,,Jeff Miller,2
+HLIG02,C001062,majority,01805,,K. Michael Conaway,3
+HLIG02,K000210,majority,00635,,Peter T. King,4
+HLIG02,P000602,majority,02022,,Mike Pompeo,5
+HLIG02,R000435,majority,00985,,Ileana Ros-Lehtinen,6
+HLIG02,H001047,minority,01913,Ranking Member,James A. Himes,1
+HLIG02,S001175,minority,01890,,Jackie Speier,2
+HLIG02,Q000023,minority,01967,,Mike Quigley,3
+HLIG02,M001191,minority,02117,,Patrick Murphy,4
+HSED10,W000798,majority,01855,Chair,Tim Walberg,1
+HSED10,H001048,majority,01909,,Duncan Hunter,2
+HSED10,T000467,majority,01952,,Glenn Thompson,3
+HSED10,R000592,majority,02017,,Todd Rokita,4
+HSED10,B001290,majority,02203,,Dave Brat,5
+HSED10,B001293,majority,02249,,Mike Bishop,6
+HSED10,R000604,majority,02265,,Steve Russell,7
+HSED10,S001196,majority,02263,,Elise M. Stefanik,8
+HSED10,W000808,minority,02004,Ranking Member,Frederica S. Wilson,1
+HSED10,P000607,minority,02171,,Mark Pocan,2
+HSED10,C001101,minority,02196,,Katherine M. Clark,3
+HSED10,A000370,minority,02201,,Alma S. Adams,4
+HSED10,D000623,minority,02227,,Mark DeSaulnier,5
+HSED10,F000455,minority,01895,,Marcia L. Fudge,6
+HSPW07,H001048,majority,01909,Chair,Duncan Hunter,1
+HSPW07,Y000033,majority,01256,,Don Young,2
+HSPW07,L000554,majority,00699,,Frank A. LoBiondo,3
+HSPW07,G000563,majority,02049,,Bob Gibbs,4
+HSPW07,S000051,majority,01012,,Mark Sanford,5
+HSPW07,G000577,majority,02245,,Garret Graves,6
+HSPW07,C001107,majority,02235,,Carlos Curbelo,7
+HSPW07,R000603,majority,02256,,David Rouzer,8
+HSPW07,Z000017,majority,02261,,Lee M. Zeldin,9
+HSPW07,S001154,majority,01681,Ex Officio,Bill Shuster,10
+HSPW07,G000559,minority,01973,Ranking Member,John Garamendi,1
+HSPW07,C000984,minority,00256,,Elijah E. Cummings,2
+HSPW07,B000911,minority,00132,,Corrine Brown,3
+HSPW07,H001063,minority,02089,,Janice Hahn,4
+HSPW07,F000462,minority,02119,,Lois Frankel,5
+HSPW07,B001285,minority,02106,,Julia Brownley,6
+HSPW07,D000191,minority,00279,Ex Officio,Peter A. DeFazio,7
+HSFA13,R000435,majority,00985,Chair,Ileana Ros-Lehtinen,1
+HSFA13,C000266,majority,00186,,Steve Chabot,2
+HSFA13,W000795,majority,01688,,Joe Wilson,3
+HSFA13,I000056,majority,01640,,Darrell E. Issa,4
+HSFA13,W000814,majority,02161,,Randy K. Weber Sr.,5
+HSFA13,D000621,majority,02116,,Ron DeSantis,6
+HSFA13,M001187,majority,02142,,Mark Meadows,7
+HSFA13,Y000065,majority,02115,,Ted S. Yoho,8
+HSFA13,C001102,majority,02200,,Curt Clawson,9
+HSFA13,T000475,majority,02250,,David A. Trott,10
+HSFA13,Z000017,majority,02261,,Lee M. Zeldin,11
+HSFA13,D000610,minority,01976,Ranking Member,Theodore E. Deutch,1
+HSFA13,C001078,minority,01959,,Gerald E. Connolly,2
+HSFA13,H001038,minority,01794,,Brian Higgins,3
+HSFA13,C001084,minority,02055,,David N. Cicilline,4
+HSFA13,G000556,minority,01914,,Alan Grayson,5
+HSFA13,M001188,minority,02148,,Grace Meng,6
+HSFA13,F000462,minority,02119,,Lois Frankel,7
+HSFA13,B001296,minority,02267,,Brendan F. Boyle,8
+HSFA05,S000018,majority,01009,Chair,Matt Salmon,1
+HSFA05,R000409,majority,00979,,Dana Rohrabacher,2
+HSFA05,C000266,majority,00186,,Steve Chabot,3
+HSFA05,M001179,majority,02053,,Tom Marino,4
+HSFA05,D000615,majority,02057,,Jeff Duncan,5
+HSFA05,B001274,majority,01987,,Mo Brooks,6
+HSFA05,P000605,majority,02157,,Scott Perry,7
+HSFA05,D000616,majority,02062,,Scott DesJarlais,8
+HSFA05,S000344,minority,01526,Ranking Member,Brad Sherman,1
+HSFA05,B001287,minority,02102,,Ami Bera,2
+HSFA05,G000571,minority,02122,,Tulsi Gabbard,3
+HSFA05,L000579,minority,02111,,Alan S. Lowenthal,4
+HSFA05,C001078,minority,01959,,Gerald E. Connolly,5
+HSFA05,M001188,minority,02148,,Grace Meng,6
+JSTX,H000338,majority,01351,Vice Chairman,Orrin G. Hatch,1
+JSTX,G000386,majority,00457,,Chuck Grassley,2
+JSTX,C000880,majority,00250,,Mike Crapo,3
+JSTX,W000779,minority,01247,,Ron Wyden,1
+JSTX,S000770,minority,01531,,Debbie Stabenow,2
+JSTX,R000570,majority,01560,Chairman,Paul Ryan,1
+JSTX,J000174,majority,00603,,Sam Johnson,2
+JSTX,B000755,majority,01468,,Kevin Brady,3
+JSTX,L000263,minority,00683,,Sander Levin,1
+JSTX,R000053,minority,00944,,Charles Rangel,2
+SSBK12,H001041,majority,01863,Chairman,Dean Heller,1
+SSBK12,T000461,majority,02085,,Patrick J. Toomey,2
+SSBK12,C001095,majority,02098,,Tom Cotton,3
+SSBK12,R000605,majority,02288,,Mike Rounds,4
+SSBK12,S001197,majority,02289,,Ben Sasse,5
+SSBK12,M000934,majority,01507,,Jerry Moran,6
+SSBK12,S000320,majority,01049,Ex Officio,Richard C. Shelby,7
+SSBK12,W000817,minority,02182,Ranking Member,Elizabeth Warren,1
+SSBK12,T000464,minority,01829,,Jon Tester,2
+SSBK12,M001176,minority,01900,,Jeff Merkley,3
+SSBK12,H001069,minority,02174,,Heidi Heitkamp,4
+SSBK12,B000944,minority,00136,Ex Officio,Sherrod Brown,5
+SSAP,C000567,majority,00213,Chairman,Thad Cochran,1
+SSAP,M000355,majority,01395,,Mitch McConnell,2
+SSAP,S000320,majority,01049,,Richard C. Shelby,3
+SSAP,A000360,majority,01695,,Lamar Alexander,4
+SSAP,C001035,majority,01541,,Susan M. Collins,5
+SSAP,M001153,majority,01694,,Lisa Murkowski,6
+SSAP,G000359,majority,00452,,Lindsey Graham,7
+SSAP,K000360,majority,01647,,Mark Kirk,8
+SSAP,B000575,majority,01464,,Roy Blunt,9
+SSAP,M000934,majority,01507,,Jerry Moran,10
+SSAP,H001061,majority,02079,,John Hoeven,11
+SSAP,B001236,majority,01687,,John Boozman,12
+SSAP,C001047,majority,01676,,Shelley Moore Capito,13
+SSAP,C001075,majority,01925,,Bill Cassidy,14
+SSAP,L000575,majority,02050,,James Lankford,15
+SSAP,D000618,majority,02138,,Steve Daines,16
+SSAP,M000702,minority,00802,Ranking Member,Barbara A. Mikulski,1
+SSAP,L000174,minority,01383,,Patrick J. Leahy,2
+SSAP,M001111,minority,01409,,Patty Murray,3
+SSAP,F000062,minority,01332,,Dianne Feinstein,4
+SSAP,D000563,minority,00326,,Richard J. Durbin,5
+SSAP,R000122,minority,00949,,Jack Reed,6
+SSAP,T000464,minority,01829,,Jon Tester,7
+SSAP,U000039,minority,01567,,Tom Udall,8
+SSAP,S001181,minority,01901,,Jeanne Shaheen,9
+SSAP,M001176,minority,01900,,Jeff Merkley,10
+SSAP,C001088,minority,01984,,Christopher A. Coons,11
+SSAP,S001194,minority,02173,,Brian Schatz,12
+SSAP,B001230,minority,01558,,Tammy Baldwin,13
+SSAP,M001169,minority,01837,,Christopher Murphy,14
+SSHR09,P000603,majority,02082,Chairman,Rand Paul,1
+SSHR09,M001153,majority,01694,,Lisa Murkowski,2
+SSHR09,B001135,majority,00153,,Richard Burr,3
+SSHR09,K000360,majority,01647,,Mark Kirk,4
+SSHR09,H000338,majority,01351,,Orrin G. Hatch,5
+SSHR09,R000307,majority,00968,,Pat Roberts,6
+SSHR09,C001075,majority,01925,,Bill Cassidy,7
+SSHR09,A000360,majority,01695,Ex Officio,Lamar Alexander,8
+SSHR09,C001070,minority,01828,Ranking Member,"Robert P. Casey, Jr.",1
+SSHR09,M000702,minority,00802,,Barbara A. Mikulski,2
+SSHR09,S000033,minority,01010,,Bernard Sanders,3
+SSHR09,F000457,minority,01969,,Al Franken,4
+SSHR09,B001267,minority,01965,,Michael F. Bennet,5
+SSHR09,M001111,minority,01409,Ex Officio,Patty Murray,6
+HSSY21,L000583,majority,02238,Chair,Barry Loudermilk,1
+HSSY21,S000244,majority,01041,,F. James Sensenbrenner Jr.,2
+HSSY21,P000599,majority,01915,,Bill Posey,3
+HSSY21,M001184,majority,02094,,Thomas Massie,4
+HSSY21,J000292,majority,02046,Vice Chair,Bill Johnson,5
+HSSY21,N000189,majority,02275,,Dan Newhouse,6
+HSSY21,S000583,majority,01075,Ex Officio,Lamar Smith,7
+HSSY21,B001292,minority,02272,Ranking Member,Donald S. Beyer Jr.,1
+HSSY21,G000556,minority,01914,,Alan Grayson,2
+HSSY21,L000397,minority,00701,,Zoe Lofgren,3
+HSSY21,J000126,minority,00599,Ex Officio,Eddie Bernice Johnson,5
+HSSY18,B001283,majority,02155,Chair,Jim Bridenstine,1
+HSSY18,S000244,majority,01041,,F. James Sensenbrenner Jr.,2
+HSSY18,N000182,majority,01758,,Randy Neugebauer,3
+HSSY18,W000814,majority,02161,,Randy K. Weber Sr.,4
+HSSY18,M001194,majority,02248,,John R. Moolenaar,5
+HSSY18,B001291,majority,02270,,Brian Babin,6
+HSSY18,W000821,majority,02224,Vice Chair,Bruce Westerman,7
+HSSY18,P000609,majority,02221,,Gary J. Palmer,8
+HSSY18,A000374,majority,02244,,Ralph Lee Abraham,9
+HSSY18,S000583,majority,01075,Ex Officio,Lamar Smith,10
+HSSY18,B001278,minority,02092,Ranking Member,Suzanne Bonamici,1
+HSSY18,E000290,minority,01894,,Donna F. Edwards,2
+HSSY18,G000556,minority,01914,,Alan Grayson,3
+HSSY18,B001287,minority,02102,,Ami Bera,4
+HSSY18,T000472,minority,02110,,Mark Takano,5
+HSSY18,F000454,minority,01888,,Bill Foster,6
+HSSY18,J000126,minority,00599,Ex Officio,Eddie Bernice Johnson,7
+SSFR09,F000444,majority,01633,Chairman,Jeff Flake,1
+SSFR09,I000055,majority,01608,,Johnny Isakson,2
+SSFR09,P000603,majority,02082,,Rand Paul,3
+SSFR09,B001261,majority,01881,,John Barrasso,4
+SSFR09,R000595,majority,02084,,Marco Rubio,5
+SSFR09,C001071,majority,01825,Ex Officio,Bob Corker,6
+SSFR09,M000133,minority,00735,Ranking Member,Edward J. Markey,1
+SSFR09,C001088,minority,01984,,Christopher A. Coons,2
+SSFR09,U000039,minority,01567,,Tom Udall,3
+SSFR09,C000141,minority,00174,,Benjamin L. Cardin,4
+JSPR,B000575,majority,01464,Vice Chairman,Roy Blunt,1
+JSPR,R000307,majority,00968,,Pat Roberts,2
+JSPR,B001236,majority,01687,,John Boozman,3
+JSPR,S000148,minority,01036,,Charles E. Schumer,1
+JSPR,U000039,minority,01567,,Tom Udall,2
+JSPR,H001045,majority,01933,Vice Chairman,Gregg Harper,1
+JSPR,M001150,majority,01731,,Candice S. Miller,2
+JSPR,N000185,majority,02001,,Richard B. Nugent,3
+JSPR,B001227,minority,01469,,Robert A. Brady,1
+JSPR,V000130,minority,02112,,Juan Vargas,2
+HSII,B001250,majority,01753,Chair,Rob Bishop,1
+HSII,Y000033,majority,01256,,Don Young,2
+HSII,G000552,majority,01801,,Louie Gohmert,3
+HSII,L000564,majority,01834,,Doug Lamborn,4
+HSII,W000804,majority,01886,,Robert J. Wittman,5
+HSII,F000456,majority,01924,,John Fleming,6
+HSII,M001177,majority,01908,,Tom McClintock,7
+HSII,T000467,majority,01952,,Glenn Thompson,8
+HSII,L000571,majority,01960,,Cynthia M. Lummis,9
+HSII,B001271,majority,02027,,Dan Benishek,10
+HSII,D000615,majority,02057,,Jeff Duncan,11
+HSII,G000565,majority,01992,,Paul A. Gosar,12
+HSII,L000573,majority,02011,,Raúl R. Labrador,13
+HSII,L000578,majority,02100,,Doug LaMalfa,14
+HSII,D000612,majority,01995,,Jeff Denham,15
+HSII,C001094,majority,02103,,Paul Cook,16
+HSII,W000821,majority,02224,,Bruce Westerman,17
+HSII,G000577,majority,02245,,Garret Graves,18
+HSII,N000189,majority,02275,,Dan Newhouse,19
+HSII,Z000018,majority,02254,,Ryan K. Zinke,20
+HSII,H001071,majority,02237,,Jody B. Hice,21
+HSII,R000600,majority,02222,,Aumua Amata Coleman Radewagen,22
+HSII,M001193,majority,02258,,Thomas MacArthur,23
+HSII,M001195,majority,02277,,Alexander X. Mooney,24
+HSII,H001070,majority,02260,,Cresent Hardy,25
+HSII,G000551,minority,01708,Ranking Member,Raúl M. Grijalva,1
+HSII,N000179,minority,01602,,Grace F. Napolitano,2
+HSII,B001245,minority,01723,,Madeleine Z. Bordallo,3
+HSII,C001059,minority,01774,,Jim Costa,4
+HSII,S001177,minority,01962,,Gregorio Kilili Camacho Sablan,5
+HSII,T000465,minority,01884,,Niki Tsongas,6
+HSII,P000596,minority,01953,,Pedro R. Pierluisi,7
+HSII,H001068,minority,02101,,Jared Huffman,8
+HSII,R000599,minority,02109,,Raul Ruiz,9
+HSII,L000579,minority,02111,,Alan S. Lowenthal,10
+HSII,C001090,minority,02159,,Matt Cartwright,11
+HSII,B001292,minority,02272,,Donald S. Beyer Jr.,12
+HSII,T000474,minority,02231,,Norma J. Torres,13
+HSII,D000624,minority,02251,,Debbie Dingell,14
+HSII,G000574,minority,02226,,Ruben Gallego,15
+HSII,C001036,minority,01471,,Lois Capps,16
+HSII,P000598,minority,01910,,Jared Polis,17
+HSAP19,C001048,majority,01670,Chair,John Abney Culberson,1
+HSAP19,A000055,majority,01460,Vice Chair,Robert B. Aderholt,2
+HSAP19,C001051,majority,01752,,John R. Carter,3
+HSAP19,H001056,majority,02071,,Jaime Herrera Beutler,4
+HSAP19,R000591,majority,01986,,Martha Roby,5
+HSAP19,J000296,majority,02199,,David W. Jolly,6
+HSAP19,P000601,majority,02035,,Steven M. Palazzo,7
+HSAP19,F000043,minority,00371,Ranking Member,Chaka Fattah,1
+HSAP19,H001034,minority,01634,,Michael M. Honda,2
+HSAP19,S000248,minority,01042,,José E. Serrano,3
+HSAP19,K000381,minority,02169,,Derek Kilmer,4
+HSII10,M001177,majority,01908,Chair,Tom McClintock,1
+HSII10,Y000033,majority,01256,,Don Young,2
+HSII10,G000552,majority,01801,,Louie Gohmert,3
+HSII10,T000467,majority,01952,,Glenn Thompson,4
+HSII10,L000571,majority,01960,,Cynthia M. Lummis,5
+HSII10,L000573,majority,02011,,Raúl R. Labrador,6
+HSII10,L000578,majority,02100,,Doug LaMalfa,7
+HSII10,W000821,majority,02224,,Bruce Westerman,8
+HSII10,N000189,majority,02275,,Dan Newhouse,9
+HSII10,Z000018,majority,02254,,Ryan K. Zinke,10
+HSII10,H001071,majority,02237,,Jody B. Hice,11
+HSII10,M001193,majority,02258,,Thomas MacArthur,12
+HSII10,H001070,majority,02260,,Cresent Hardy,13
+HSII10,B001250,majority,01753,Ex Officio,Rob Bishop,15
+HSII10,T000465,minority,01884,Ranking Member,Niki Tsongas,1
+HSII10,C001090,minority,02159,,Matt Cartwright,2
+HSII10,B001292,minority,02272,,Donald S. Beyer Jr.,3
+HSII10,P000596,minority,01953,,Pedro R. Pierluisi,4
+HSII10,H001068,minority,02101,,Jared Huffman,5
+HSII10,L000579,minority,02111,,Alan S. Lowenthal,6
+HSII10,D000624,minority,02251,,Debbie Dingell,7
+HSII10,C001036,minority,01471,,Lois Capps,8
+HSII10,P000598,minority,01910,,Jared Polis,9
+HSII10,G000551,minority,01708,Ex Officio,Raúl M. Grijalva,13
+SSAP20,G000359,majority,00452,Chairman,Lindsey Graham,1
+SSAP20,M000355,majority,01395,,Mitch McConnell,2
+SSAP20,K000360,majority,01647,,Mark Kirk,3
+SSAP20,B000575,majority,01464,,Roy Blunt,4
+SSAP20,B001236,majority,01687,,John Boozman,5
+SSAP20,M000934,majority,01507,,Jerry Moran,6
+SSAP20,L000575,majority,02050,,James Lankford,7
+SSAP20,D000618,majority,02138,,Steve Daines,8
+SSAP20,C000567,majority,00213,Ex Officio,Thad Cochran,9
+SSAP20,L000174,minority,01383,Ranking Member,Patrick J. Leahy,1
+SSAP20,M000702,minority,00802,,Barbara A. Mikulski,2
+SSAP20,D000563,minority,00326,,Richard J. Durbin,3
+SSAP20,S001181,minority,01901,,Jeanne Shaheen,4
+SSAP20,C001088,minority,01984,,Christopher A. Coons,5
+SSAP20,M001176,minority,01900,,Jeff Merkley,6
+SSAP20,M001169,minority,01837,,Christopher Murphy,7
+SSAS13,W000437,majority,01226,Chairman,Roger F. Wicker,1
+SSAS13,S001141,majority,01548,,Jeff Sessions,2
+SSAS13,A000368,majority,02075,,Kelly Ayotte,3
+SSAS13,R000605,majority,02288,,Mike Rounds,4
+SSAS13,T000476,majority,02291,,Thom Tillis,5
+SSAS13,S001198,majority,02290,,Daniel Sullivan,6
+SSAS13,C001098,majority,02175,,Ted Cruz,7
+SSAS13,M000303,majority,00754,Ex Officio,John McCain,8
+SSAS13,H001042,minority,01844,Ranking Member,Mazie K. Hirono,1
+SSAS13,N000032,minority,00859,,Bill Nelson,2
+SSAS13,S001181,minority,01901,,Jeanne Shaheen,3
+SSAS13,B001277,minority,02076,,Richard Blumenthal,4
+SSAS13,K000384,minority,02176,,Tim Kaine,5
+SSAS13,K000383,minority,02185,,"Angus S. King, Jr.",6
+SSAS13,R000122,minority,00949,Ex Officio,Jack Reed,7
+HSIF16,W000791,majority,01596,Chair,Greg Walden,1
+HSIF16,L000566,majority,01885,Vice Chair,Robert E. Latta,2
+HSIF16,S000364,majority,01527,,John Shimkus,3
+HSIF16,B001243,majority,01748,,Marsha Blackburn,4
+HSIF16,S001176,majority,01892,,Steve Scalise,5
+HSIF16,L000567,majority,01936,,Leonard Lance,6
+HSIF16,G000558,majority,01922,,Brett Guthrie,7
+HSIF16,O000168,majority,01955,,Pete Olson,8
+HSIF16,P000602,majority,02022,,Mike Pompeo,9
+HSIF16,K000378,majority,02014,,Adam Kinzinger,10
+HSIF16,B001257,majority,01838,,Gus M. Bilirakis,11
+HSIF16,J000292,majority,02046,,Bill Johnson,12
+HSIF16,L000576,majority,02033,,Billy Long,13
+HSIF16,E000291,majority,02036,,Renee L. Ellmers,14
+HSIF16,C001092,majority,02151,,Chris Collins,15
+HSIF16,C001096,majority,02144,,Kevin Cramer,16
+HSIF16,B000213,majority,00062,,Joe Barton,17
+HSIF16,U000031,majority,01177,Ex Officio,Fred Upton,18
+HSIF16,E000215,minority,00355,Ranking Member,Anna G. Eshoo,1
+HSIF16,D000482,minority,00316,,Michael F. Doyle,2
+HSIF16,W000800,minority,01879,,Peter Welch,3
+HSIF16,Y000062,minority,01853,,John A. Yarmuth,4
+HSIF16,C001067,minority,01864,,Yvette D. Clarke,5
+HSIF16,L000565,minority,01846,,David Loebsack,6
+HSIF16,R000515,minority,01003,,Bobby L. Rush,7
+HSIF16,D000197,minority,01479,,Diana DeGette,8
+HSIF16,B001251,minority,01761,,G. K. Butterfield,9
+HSIF16,M001163,minority,01814,,Doris O. Matsui,10
+HSIF16,M001166,minority,01832,,Jerry McNerney,11
+HSIF16,L000570,minority,01939,,Ben Ray Luján,12
+HSIF16,P000034,minority,00887,Ex Officio,Frank Pallone Jr.,13
+SSVA,I000055,majority,01608,Chairman,Johnny Isakson,1
+SSVA,M000934,majority,01507,,Jerry Moran,2
+SSVA,B001236,majority,01687,,John Boozman,3
+SSVA,H001041,majority,01863,,Dean Heller,4
+SSVA,C001075,majority,01925,,Bill Cassidy,5
+SSVA,R000605,majority,02288,,Mike Rounds,6
+SSVA,T000476,majority,02291,,Thom Tillis,7
+SSVA,S001198,majority,02290,,Daniel Sullivan,8
+SSVA,B001277,minority,02076,Ranking Member,Richard Blumenthal,1
+SSVA,M001111,minority,01409,,Patty Murray,2
+SSVA,S000033,minority,01010,,Bernard Sanders,3
+SSVA,B000944,minority,00136,,Sherrod Brown,4
+SSVA,T000464,minority,01829,,Jon Tester,5
+SSVA,H001042,minority,01844,,Mazie K. Hirono,6
+SSVA,M001183,minority,01983,,"Joe Manchin, III",7
+HSPW02,G000563,majority,02049,Chair,Bob Gibbs,1
+HSPW02,M001150,majority,01731,,Candice S. Miller,2
+HSPW02,H001048,majority,01909,,Duncan Hunter,3
+HSPW02,C001087,majority,01989,,"Eric A. ""Rick"" Crawford",4
+HSPW02,W000806,majority,02002,,Daniel Webster,5
+HSPW02,D000612,majority,01995,,Jeff Denham,6
+HSPW02,R000587,majority,02073,,Reid J. Ribble,7
+HSPW02,M001184,majority,02094,,Thomas Massie,8
+HSPW02,R000597,majority,02160,,Tom Rice,9
+HSPW02,D000619,majority,02126,,Rodney Davis,10
+HSPW02,S000051,majority,01012,,Mark Sanford,11
+HSPW02,R000592,majority,02017,,Todd Rokita,12
+HSPW02,K000386,majority,02264,,John Katko,13
+HSPW02,B001291,majority,02270,,Brian Babin,14
+HSPW02,H001070,majority,02260,,Cresent Hardy,15
+HSPW02,G000577,majority,02245,,Garret Graves,16
+HSPW02,R000603,majority,02256,,David Rouzer,17
+HSPW02,S001154,majority,01681,Ex Officio,Bill Shuster,18
+HSPW02,N000179,minority,01602,Ranking Member,Grace F. Napolitano,1
+HSPW02,E000290,minority,01894,,Donna F. Edwards,2
+HSPW02,G000559,minority,01973,,John Garamendi,3
+HSPW02,F000462,minority,02119,,Lois Frankel,4
+HSPW02,H001068,minority,02101,,Jared Huffman,5
+HSPW02,J000126,minority,00599,,Eddie Bernice Johnson,6
+HSPW02,K000368,minority,01907,,Ann Kirkpatrick,7
+HSPW02,T000468,minority,01940,,Dina Titus,8
+HSPW02,M001185,minority,02150,,Sean Patrick Maloney,9
+HSPW02,E000293,minority,02114,,Elizabeth H. Esty,10
+HSPW02,N000147,minority,00868,,Eleanor Holmes Norton,11
+HSPW02,N000127,minority,00867,,Richard M. Nolan,12
+HSPW02,D000191,minority,00279,Ex Officio,Peter A. DeFazio,13
+HSBU,P000591,majority,01778,Chair,Tom Price,1
+HSBU,G000548,majority,01737,,Scott Garrett,2
+HSBU,D000600,majority,01717,,Mario Diaz-Balart,3
+HSBU,C001053,majority,01742,,Tom Cole,4
+HSBU,M001177,majority,01908,,Tom McClintock,5
+HSBU,B001273,majority,02063,,Diane Black,6
+HSBU,R000592,majority,02017,Vice Chair,Todd Rokita,7
+HSBU,W000810,majority,02008,,Rob Woodall,8
+HSBU,B001243,majority,01748,,Marsha Blackburn,9
+HSBU,H001053,majority,02032,,Vicky Hartzler,10
+HSBU,R000597,majority,02160,,Tom Rice,11
+HSBU,S001188,majority,01981,,Marlin A. Stutzman,12
+HSBU,S000051,majority,01012,,Mark Sanford,13
+HSBU,W000809,majority,01991,,Steve Womack,14
+HSBU,B001290,majority,02203,,Dave Brat,15
+HSBU,B001294,majority,02241,,Rod Blum,16
+HSBU,M001195,majority,02277,,Alexander X. Mooney,17
+HSBU,G000576,majority,02276,,Glenn Grothman,18
+HSBU,P000609,majority,02221,,Gary J. Palmer,19
+HSBU,M001194,majority,02248,,John R. Moolenaar,20
+HSBU,W000821,majority,02224,,Bruce Westerman,21
+HSBU,B001260,majority,01840,,Vern Buchanan,22
+HSBU,V000128,minority,01729,Ranking Member,Chris Van Hollen,1
+HSBU,Y000062,minority,01853,,John A. Yarmuth,2
+HSBU,P000096,minority,01510,,Bill Pascrell Jr.,3
+HSBU,R000577,minority,01756,,Tim Ryan,4
+HSBU,M001160,minority,01811,,Gwen Moore,5
+HSBU,C001066,minority,01839,,Kathy Castor,6
+HSBU,M000404,minority,00766,,Jim McDermott,7
+HSBU,L000551,minority,01501,,Barbara Lee,8
+HSBU,P000607,minority,02171,,Mark Pocan,9
+HSBU,L000580,minority,02146,,Michelle Lujan Grisham,10
+HSBU,D000624,minority,02251,,Debbie Dingell,11
+HSBU,L000582,minority,02230,,Ted Lieu,12
+HSBU,N000188,minority,02202,,Donald Norcross,13
+HSBU,M001196,minority,02246,,Seth Moulton,14
+SLET,I000055,majority,01608,Chairman,Johnny Isakson,1
+SLET,R000307,majority,00968,,Pat Roberts,2
+SLET,R000584,majority,01896,,James E. Risch,3
+SLET,B000711,minority,00116,Vice Chairman,Barbara Boxer,1
+SLET,C001088,minority,01984,,Christopher A. Coons,2
+SLET,S001194,minority,02173,,Brian Schatz,3
+HSPW12,G000546,majority,01656,Chair,Sam Graves,1
+HSPW12,Y000033,majority,01256,,Don Young,2
+HSPW12,D000533,majority,00322,,John J. Duncan Jr.,3
+HSPW12,M000689,majority,00800,,John L. Mica,4
+HSPW12,L000554,majority,00699,,Frank A. LoBiondo,5
+HSPW12,H001048,majority,01909,,Duncan Hunter,6
+HSPW12,C001087,majority,01989,,"Eric A. ""Rick"" Crawford",7
+HSPW12,B001269,majority,02054,,Lou Barletta,8
+HSPW12,F000460,majority,02067,,Blake Farenthold,9
+HSPW12,G000563,majority,02049,,Bob Gibbs,10
+HSPW12,H001051,majority,02044,,Richard L. Hanna,11
+HSPW12,W000806,majority,02002,,Daniel Webster,12
+HSPW12,D000612,majority,01995,,Jeff Denham,13
+HSPW12,R000587,majority,02073,,Reid J. Ribble,14
+HSPW12,M001184,majority,02094,,Thomas Massie,15
+HSPW12,R000597,majority,02160,,Tom Rice,16
+HSPW12,M001187,majority,02142,,Mark Meadows,17
+HSPW12,P000605,majority,02157,,Scott Perry,18
+HSPW12,D000619,majority,02126,,Rodney Davis,19
+HSPW12,W000810,majority,02008,,Rob Woodall,20
+HSPW12,K000386,majority,02264,,John Katko,21
+HSPW12,B001291,majority,02270,,Brian Babin,22
+HSPW12,H001070,majority,02260,,Cresent Hardy,23
+HSPW12,C001106,majority,02266,,Ryan A. Costello,24
+HSPW12,G000577,majority,02245,,Garret Graves,25
+HSPW12,W000820,majority,02232,,Mimi Walters,26
+HSPW12,C001105,majority,02273,,Barbara Comstock,27
+HSPW12,S001154,majority,01681,Ex Officio,Bill Shuster,28
+HSPW12,N000147,minority,00868,Ranking Member,Eleanor Holmes Norton,1
+HSPW12,N000002,minority,00850,,Jerrold Nadler,2
+HSPW12,J000126,minority,00599,,Eddie Bernice Johnson,3
+HSPW12,C001068,minority,01878,,Steve Cohen,4
+HSPW12,S001165,minority,01818,,Albio Sires,5
+HSPW12,E000290,minority,01894,,Donna F. Edwards,6
+HSPW12,H001063,minority,02089,,Janice Hahn,7
+HSPW12,N000127,minority,00867,,Richard M. Nolan,8
+HSPW12,K000368,minority,01907,,Ann Kirkpatrick,9
+HSPW12,T000468,minority,01940,,Dina Titus,10
+HSPW12,M001185,minority,02150,,Sean Patrick Maloney,11
+HSPW12,E000293,minority,02114,,Elizabeth H. Esty,12
+HSPW12,F000462,minority,02119,,Lois Frankel,13
+HSPW12,B001286,minority,02127,,Cheri Bustos,14
+HSPW12,H001068,minority,02101,,Jared Huffman,15
+HSPW12,B001285,minority,02106,,Julia Brownley,16
+HSPW12,C001037,minority,01564,,Michael E. Capuano,17
+HSPW12,N000179,minority,01602,,Grace F. Napolitano,18
+HSPW12,B000911,minority,00132,,Corrine Brown,19
+HSPW12,L000563,minority,01781,,Daniel Lipinski,20
+HSPW12,D000191,minority,00279,Ex Officio,Peter A. DeFazio,21
+HSAP01,A000055,majority,01460,Chair,Robert B. Aderholt,1
+HSAP01,Y000063,majority,02021,,Kevin Yoder,2
+HSAP01,R000583,majority,01916,,Thomas J. Rooney,3
+HSAP01,V000129,majority,02105,Vice Chair,David G. Valadao,4
+HSAP01,H001052,majority,02026,,Andy Harris,5
+HSAP01,Y000066,majority,02242,,David Young,6
+HSAP01,P000601,majority,02035,,Steven M. Palazzo,7
+HSAP01,F000030,minority,00368,Ranking Member,Sam Farr,1
+HSAP01,D000216,minority,00281,,Rosa L. DeLauro,2
+HSAP01,B000490,minority,00091,,Sanford D. Bishop Jr.,3
+HSAP01,P000597,minority,01927,,Chellie Pingree,4
+HSHM,M001157,majority,01804,Chair,Michael T. McCaul,1
+HSHM,S000583,majority,01075,,Lamar Smith,2
+HSHM,K000210,majority,00635,,Peter T. King,3
+HSHM,R000575,majority,01704,,Mike Rogers,4
+HSHM,M001150,majority,01731,Vice Chair,Candice S. Miller,5
+HSHM,D000615,majority,02057,,Jeff Duncan,6
+HSHM,M001179,majority,02053,,Tom Marino,7
+HSHM,B001269,majority,02054,,Lou Barletta,8
+HSHM,P000605,majority,02157,,Scott Perry,9
+HSHM,C001102,majority,02200,,Curt Clawson,10
+HSHM,K000386,majority,02264,,John Katko,11
+HSHM,H001073,majority,02269,,Will Hurd,12
+HSHM,C001103,majority,02236,,"Earl L. ""Buddy"" Carter",13
+HSHM,W000819,majority,02255,,Mark Walker,14
+HSHM,L000583,majority,02238,,Barry Loudermilk,15
+HSHM,M001197,majority,02225,,Martha McSally,16
+HSHM,R000601,majority,02268,,John Ratcliffe,17
+HSHM,D000625,majority,02293,,Daniel M. Donovan Jr.,18
+HSHM,T000193,minority,01151,Ranking Member,Bennie G. Thompson,1
+HSHM,S000030,minority,01522,,Loretta Sanchez,2
+HSHM,J000032,minority,00588,,Sheila Jackson Lee,3
+HSHM,L000559,minority,01668,,James R. Langevin,4
+HSHM,H001038,minority,01794,,Brian Higgins,5
+HSHM,R000588,minority,02023,,Cedric L. Richmond,6
+HSHM,K000375,minority,02025,,William R. Keating,7
+HSHM,P000604,minority,02097,,Donald M. Payne Jr.,8
+HSHM,V000132,minority,02167,,Filemon Vela,9
+HSHM,W000822,minority,02259,,Bonnie Watson Coleman,10
+HSHM,R000602,minority,02262,,Kathleen M. Rice,11
+HSHM,T000474,minority,02231,,Norma J. Torres,12
+HSAP,R000395,majority,00977,Chair,Harold Rogers,1
+HSAP,F000372,majority,00414,,Rodney P. Frelinghuysen,2
+HSAP,A000055,majority,01460,,Robert B. Aderholt,3
+HSAP,G000377,majority,01487,,Kay Granger,4
+HSAP,S001148,majority,01590,,Michael K. Simpson,5
+HSAP,C001048,majority,01670,,John Abney Culberson,6
+HSAP,C001045,majority,01643,,Ander Crenshaw,7
+HSAP,C001051,majority,01752,,John R. Carter,8
+HSAP,C000059,majority,00165,,Ken Calvert,9
+HSAP,C001053,majority,01742,,Tom Cole,10
+HSAP,D000600,majority,01717,,Mario Diaz-Balart,11
+HSAP,D000604,majority,01799,,Charles W. Dent,12
+HSAP,G000560,majority,01979,,Tom Graves,13
+HSAP,Y000063,majority,02021,,Kevin Yoder,14
+HSAP,W000809,majority,01991,,Steve Womack,15
+HSAP,F000449,majority,01793,,Jeff Fortenberry,16
+HSAP,R000583,majority,01916,,Thomas J. Rooney,17
+HSAP,F000459,majority,02061,,"Charles J. ""Chuck"" Fleischmann",18
+HSAP,H001056,majority,02071,,Jaime Herrera Beutler,19
+HSAP,J000295,majority,02154,,David P. Joyce,20
+HSAP,V000129,majority,02105,,David G. Valadao,21
+HSAP,H001052,majority,02026,,Andy Harris,22
+HSAP,R000591,majority,01986,,Martha Roby,23
+HSAP,A000369,majority,02090,,Mark E. Amodei,24
+HSAP,S001192,majority,02168,,Chris Stewart,25
+HSAP,R000589,majority,02068,,E. Scott Rigell,26
+HSAP,J000296,majority,02199,,David W. Jolly,27
+HSAP,Y000066,majority,02242,,David Young,28
+HSAP,J000297,majority,02278,,Evan H. Jenkins,29
+HSAP,P000601,majority,02035,,Steven M. Palazzo,30
+HSAP,L000480,minority,00709,Ranking Member,Nita M. Lowey,1
+HSAP,K000009,minority,00616,,Marcy Kaptur,2
+HSAP,V000108,minority,01188,,Peter J. Visclosky,3
+HSAP,S000248,minority,01042,,José E. Serrano,4
+HSAP,D000216,minority,00281,,Rosa L. DeLauro,5
+HSAP,P000523,minority,00930,,David E. Price,6
+HSAP,R000486,minority,00997,,Lucille Roybal-Allard,7
+HSAP,F000030,minority,00368,,Sam Farr,8
+HSAP,F000043,minority,00371,,Chaka Fattah,9
+HSAP,B000490,minority,00091,,Sanford D. Bishop Jr.,10
+HSAP,L000551,minority,01501,,Barbara Lee,11
+HSAP,H001034,minority,01634,,Michael M. Honda,12
+HSAP,M001143,minority,01653,,Betty McCollum,13
+HSAP,I000057,minority,01663,,Steve Israel,14
+HSAP,R000577,minority,01756,,Tim Ryan,15
+HSAP,R000576,minority,01728,,C. A. Dutch Ruppersberger,16
+HSAP,W000797,minority,01777,,Debbie Wasserman Schultz,17
+HSAP,C001063,minority,01807,,Henry Cuellar,18
+HSAP,P000597,minority,01927,,Chellie Pingree,19
+HSAP,Q000023,minority,01967,,Mike Quigley,20
+HSAP,K000381,minority,02169,,Derek Kilmer,21
+SSJU25,C001098,majority,02175,Chairman,Ted Cruz,1
+SSJU25,G000386,majority,00457,,Chuck Grassley,2
+SSJU25,H000338,majority,01351,,Orrin G. Hatch,3
+SSJU25,S001141,majority,01548,,Jeff Sessions,4
+SSJU25,F000444,majority,01633,,Jeff Flake,5
+SSJU25,G000359,majority,00452,,Lindsey Graham,6
+SSJU25,L000577,majority,02080,,Mike Lee,7
+SSJU25,V000127,majority,01609,,David Vitter,8
+SSJU25,C001088,minority,01984,Ranking Member,Christopher A. Coons,1
+SSJU25,F000062,minority,01332,,Dianne Feinstein,2
+SSJU25,D000563,minority,00326,,Richard J. Durbin,3
+SSJU25,S000148,minority,01036,,Charles E. Schumer,4
+SSJU25,W000802,minority,01823,,Sheldon Whitehouse,5
+SSJU25,K000367,minority,01826,,Amy Klobuchar,6
+SSJU25,B001277,minority,02076,,Richard Blumenthal,7
+SSEG01,R000584,majority,01896,Chairman,James E. Risch,1
+SSEG01,F000444,majority,01633,,Jeff Flake,2
+SSEG01,D000618,majority,02138,,Steve Daines,3
+SSEG01,C001075,majority,01925,,Bill Cassidy,4
+SSEG01,G000562,majority,01998,,Cory Gardner,5
+SSEG01,H001061,majority,02079,,John Hoeven,6
+SSEG01,A000360,majority,01695,,Lamar Alexander,7
+SSEG01,P000449,majority,00924,,Rob Portman,8
+SSEG01,C001047,majority,01676,,Shelley Moore Capito,9
+SSEG01,M001153,majority,01694,Ex Officio,Lisa Murkowski,10
+SSEG01,M001183,minority,01983,Ranking Member,"Joe Manchin, III",1
+SSEG01,S000033,minority,01010,,Bernard Sanders,2
+SSEG01,S000770,minority,01531,,Debbie Stabenow,3
+SSEG01,F000457,minority,01969,,Al Franken,4
+SSEG01,H001046,minority,01937,,Martin Heinrich,5
+SSEG01,H001042,minority,01844,,Mazie K. Hirono,6
+SSEG01,K000383,minority,02185,,"Angus S. King, Jr.",7
+SSEG01,W000817,minority,02182,,Elizabeth Warren,8
+SSEG01,C000127,minority,00172,Ex Officio,Maria Cantwell,9
+HSVR09,A000374,majority,02244,Chair,Ralph Lee Abraham,1
+HSVR09,L000564,majority,01834,,Doug Lamborn,2
+HSVR09,Z000017,majority,02261,,Lee M. Zeldin,3
+HSVR09,C001106,majority,02266,,Ryan A. Costello,4
+HSVR09,B001295,majority,02243,,Mike Bost,5
+HSVR09,T000468,minority,01940,Ranking Member,Dina Titus,1
+HSVR09,B001285,minority,02106,,Julia Brownley,2
+HSVR09,R000599,minority,02109,,Raul Ruiz,3
+HSBA15,N000182,majority,01758,Chair,Randy Neugebauer,1
+HSBA15,P000588,majority,01738,Vice Chair,Stevan Pearce,2
+HSBA15,L000491,majority,00711,,Frank D. Lucas,3
+HSBA15,P000599,majority,01915,,Bill Posey,4
+HSBA15,F000451,majority,01797,,Michael G. Fitzpatrick,5
+HSBA15,W000796,majority,01779,,Lynn A. Westmoreland,6
+HSBA15,L000569,majority,01931,,Blaine Luetkemeyer,7
+HSBA15,S001188,majority,01981,,Marlin A. Stutzman,8
+HSBA15,M001182,majority,02059,,Mick Mulvaney,9
+HSBA15,P000606,majority,02141,,Robert Pittenger,10
+HSBA15,B001282,majority,02131,,Andy Barr,11
+HSBA15,R000598,majority,02158,,Keith J. Rothfus,12
+HSBA15,G000570,majority,02038,,Frank C. Guinta,13
+HSBA15,T000470,majority,01997,,Scott R. Tipton,14
+HSBA15,W000816,majority,02165,,Roger Williams,15
+HSBA15,L000584,majority,02271,,Mia B. Love,16
+HSBA15,E000294,majority,02253,,Tom Emmer,17
+HSBA15,H001036,majority,01749,Ex Officio,Jeb Hensarling,18
+HSBA15,C001049,minority,01654,Ranking Member,Wm. Lacy Clay,1
+HSBA15,M001137,minority,01506,,Gregory W. Meeks,2
+HSBA15,H000636,minority,01490,,Rubén Hinojosa,3
+HSBA15,S001157,minority,01722,,David Scott,4
+HSBA15,M000087,minority,00729,,Carolyn B. Maloney,5
+HSBA15,V000081,minority,01184,,Nydia M. Velázquez,6
+HSBA15,S000344,minority,01526,,Brad Sherman,7
+HSBA15,L000562,minority,01686,,Stephen F. Lynch,8
+HSBA15,C001037,minority,01564,,Michael E. Capuano,9
+HSBA15,D000620,minority,02133,,John K. Delaney,10
+HSBA15,H001064,minority,02170,,Denny Heck,11
+HSBA15,S001191,minority,02099,,Kyrsten Sinema,12
+HSBA15,V000130,minority,02112,,Juan Vargas,13
+HSBA15,W000187,minority,01205,Ex Officio,Maxine Waters,14
+HLIG01,L000554,majority,00699,Chair,Frank A. LoBiondo,1
+HLIG01,C001062,majority,01805,,K. Michael Conaway,2
+HLIG01,K000210,majority,00635,,Peter T. King,3
+HLIG01,W000796,majority,01779,,Lynn A. Westmoreland,4
+HLIG01,R000583,majority,01916,,Thomas J. Rooney,5
+HLIG01,P000602,majority,02022,,Mike Pompeo,6
+HLIG01,S001193,minority,02104,Ranking Member,Eric Swalwell,1
+HLIG01,G000535,minority,00478,,Luis V. Gutiérrez,2
+HLIG01,H001047,minority,01913,,James A. Himes,3
+HLIG01,C001072,minority,01889,,André Carson,4
+SSFR,C001071,majority,01825,Chairman,Bob Corker,1
+SSFR,R000584,majority,01896,,James E. Risch,2
+SSFR,R000595,majority,02084,,Marco Rubio,3
+SSFR,J000293,majority,02086,,Ron Johnson,4
+SSFR,F000444,majority,01633,,Jeff Flake,5
+SSFR,G000562,majority,01998,,Cory Gardner,6
+SSFR,P000612,majority,02286,,David Perdue,7
+SSFR,I000055,majority,01608,,Johnny Isakson,8
+SSFR,P000603,majority,02082,,Rand Paul,9
+SSFR,B001261,majority,01881,,John Barrasso,10
+SSFR,C000141,minority,00174,Ranking Member,Benjamin L. Cardin,1
+SSFR,B000711,minority,00116,,Barbara Boxer,2
+SSFR,M000639,minority,00791,,Robert Menendez,3
+SSFR,S001181,minority,01901,,Jeanne Shaheen,4
+SSFR,C001088,minority,01984,,Christopher A. Coons,5
+SSFR,U000039,minority,01567,,Tom Udall,6
+SSFR,M001169,minority,01837,,Christopher Murphy,7
+SSFR,K000384,minority,02176,,Tim Kaine,8
+SSFR,M000133,minority,00735,,Edward J. Markey,9
+SSAP24,C001035,majority,01541,Chairman,Susan M. Collins,1
+SSAP24,S000320,majority,01049,,Richard C. Shelby,2
+SSAP24,A000360,majority,01695,,Lamar Alexander,3
+SSAP24,K000360,majority,01647,,Mark Kirk,4
+SSAP24,B000575,majority,01464,,Roy Blunt,5
+SSAP24,B001236,majority,01687,,John Boozman,6
+SSAP24,C001047,majority,01676,,Shelley Moore Capito,7
+SSAP24,C001075,majority,01925,,Bill Cassidy,8
+SSAP24,D000618,majority,02138,,Steve Daines,9
+SSAP24,C000567,majority,00213,Ex Officio,Thad Cochran,10
+SSAP24,R000122,minority,00949,Ranking Member,Jack Reed,1
+SSAP24,M000702,minority,00802,,Barbara A. Mikulski,2
+SSAP24,M001111,minority,01409,,Patty Murray,3
+SSAP24,D000563,minority,00326,,Richard J. Durbin,4
+SSAP24,F000062,minority,01332,,Dianne Feinstein,5
+SSAP24,C001088,minority,01984,,Christopher A. Coons,6
+SSAP24,S001194,minority,02173,,Brian Schatz,7
+SSAP24,M001169,minority,01837,,Christopher Murphy,8
+SSBK09,S001184,majority,02056,Chairman,Tim Scott,1
+SSBK09,C000880,majority,00250,,Mike Crapo,2
+SSBK09,H001041,majority,01863,,Dean Heller,3
+SSBK09,M000934,majority,01507,,Jerry Moran,4
+SSBK09,C001071,majority,01825,,Bob Corker,5
+SSBK09,C001095,majority,02098,,Tom Cotton,6
+SSBK09,R000605,majority,02288,,Mike Rounds,7
+SSBK09,V000127,majority,01609,,David Vitter,8
+SSBK09,S000320,majority,01049,Ex Officio,Richard C. Shelby,9
+SSBK09,M000639,minority,00791,Ranking Member,Robert Menendez,1
+SSBK09,R000122,minority,00949,,Jack Reed,2
+SSBK09,S000148,minority,01036,,Charles E. Schumer,3
+SSBK09,T000464,minority,01829,,Jon Tester,4
+SSBK09,M001176,minority,01900,,Jeff Merkley,5
+SSBK09,H001069,minority,02174,,Heidi Heitkamp,6
+SSBK09,D000607,minority,01850,,Joe Donnelly,7
+SSBK09,B000944,minority,00136,Ex Officio,Sherrod Brown,8
+HSVR10,W000815,majority,02152,Chair,Brad R. Wenstrup,1
+HSVR10,Z000017,majority,02261,,Lee M. Zeldin,2
+HSVR10,R000600,majority,02222,,Aumua Amata Coleman Radewagen,3
+HSVR10,C001106,majority,02266,,Ryan A. Costello,4
+HSVR10,B001295,majority,02243,,Mike Bost,5
+HSVR10,T000472,minority,02110,Ranking Member,Mark Takano,1
+HSVR10,T000468,minority,01940,,Dina Titus,2
+HSVR10,R000602,minority,02262,,Kathleen M. Rice,3
+HSVR10,M001166,minority,01832,,Jerry McNerney,4
+HSAG14,D000619,majority,02126,Chair,Rodney Davis,1
+HSAG14,T000467,majority,01952,,Glenn Thompson,2
+HSAG14,S001189,majority,02009,,Austin Scott,3
+HSAG14,G000564,majority,02043,,Christopher P. Gibson,4
+HSAG14,D000612,majority,01995,,Jeff Denham,5
+HSAG14,Y000065,majority,02115,,Ted S. Yoho,6
+HSAG14,M001194,majority,02248,,John R. Moolenaar,7
+HSAG14,N000189,majority,02275,,Dan Newhouse,8
+HSAG14,D000617,minority,02096,Ranking Member,Suzan K. DelBene,1
+HSAG14,F000455,minority,01895,,Marcia L. Fudge,2
+HSAG14,M000312,minority,01504,,James P. McGovern,3
+HSAG14,K000382,minority,02145,,Ann M. Kuster,4
+HSAG14,G000575,minority,02234,,Gwen Graham,5
+SSFI10,T000461,majority,02085,Chairman,Patrick J. Toomey,1
+SSFI10,G000386,majority,00457,,Chuck Grassley,2
+SSFI10,R000307,majority,00968,,Pat Roberts,3
+SSFI10,E000285,majority,01542,,Michael B. Enzi,4
+SSFI10,B001135,majority,00153,,Richard Burr,5
+SSFI10,C000542,majority,00209,,Daniel Coats,6
+SSFI10,H001041,majority,01863,,Dean Heller,7
+SSFI10,S001184,majority,02056,,Tim Scott,8
+SSFI10,H000338,majority,01351,Ex Officio,Orrin G. Hatch,9
+SSFI10,S000770,minority,01531,Ranking Member,Debbie Stabenow,1
+SSFI10,C000127,minority,00172,,Maria Cantwell,2
+SSFI10,M000639,minority,00791,,Robert Menendez,3
+SSFI10,C000141,minority,00174,,Benjamin L. Cardin,4
+SSFI10,B000944,minority,00136,,Sherrod Brown,5
+SSFI10,W000805,minority,01897,,Mark R. Warner,6
+SSFI10,W000779,minority,01247,Ex Officio,Ron Wyden,7
+SSCM01,A000368,majority,02075,Chairman,Kelly Ayotte,1
+SSCM01,W000437,majority,01226,,Roger F. Wicker,2
+SSCM01,B000575,majority,01464,,Roy Blunt,3
+SSCM01,R000595,majority,02084,,Marco Rubio,4
+SSCM01,C001098,majority,02175,,Ted Cruz,5
+SSCM01,F000463,majority,02179,,Deb Fischer,6
+SSCM01,M000934,majority,01507,,Jerry Moran,7
+SSCM01,S001198,majority,02290,,Daniel Sullivan,8
+SSCM01,J000293,majority,02086,,Ron Johnson,9
+SSCM01,H001041,majority,01863,,Dean Heller,10
+SSCM01,G000562,majority,01998,,Cory Gardner,11
+SSCM01,T000250,majority,01534,Ex Officio,John Thune,12
+SSCM01,C000127,minority,00172,Ranking Member,Maria Cantwell,1
+SSCM01,K000367,minority,01826,,Amy Klobuchar,2
+SSCM01,B001277,minority,02076,,Richard Blumenthal,3
+SSCM01,S001194,minority,02173,,Brian Schatz,4
+SSCM01,M000133,minority,00735,,Edward J. Markey,5
+SSCM01,B001288,minority,02194,,Cory A. Booker,6
+SSCM01,U000039,minority,01567,,Tom Udall,7
+SSCM01,M001183,minority,01983,,"Joe Manchin, III",8
+SSCM01,P000595,minority,01929,,Gary Peters,9
+SSCM01,N000032,minority,00859,Ex Officio,Bill Nelson,10
+HSSY15,C001105,majority,02273,Chair,Barbara Comstock,1
+HSSY15,L000491,majority,00711,,Frank D. Lucas,2
+HSSY15,M001157,majority,01804,,Michael T. McCaul,3
+HSSY15,H001059,majority,02015,,Randy Hultgren,4
+HSSY15,M001194,majority,02248,Vice Chair,John R. Moolenaar,5
+HSSY15,W000821,majority,02224,,Bruce Westerman,6
+HSSY15,N000189,majority,02275,,Dan Newhouse,7
+HSSY15,P000609,majority,02221,,Gary J. Palmer,8
+HSSY15,A000374,majority,02244,,Ralph Lee Abraham,9
+HSSY15,S000583,majority,01075,Ex Officio,Lamar Smith,10
+HSSY15,L000563,minority,01781,Ranking Member,Daniel Lipinski,1
+HSSY15,E000293,minority,02114,,Elizabeth H. Esty,2
+HSSY15,C001101,minority,02196,,Katherine M. Clark,3
+HSSY15,T000469,minority,01942,,Paul Tonko,4
+HSSY15,B001278,minority,02092,,Suzanne Bonamici,5
+HSSY15,S001193,minority,02104,,Eric Swalwell,6
+HSSY15,J000126,minority,00599,Ex Officio,Eddie Bernice Johnson,7
+HSHA,M001150,majority,01731,Chair,Candice S. Miller,1
+HSHA,H001045,majority,01933,,Gregg Harper,2
+HSHA,N000185,majority,02001,,Richard B. Nugent,3
+HSHA,D000619,majority,02126,,Rodney Davis,4
+HSHA,C001105,majority,02273,,Barbara Comstock,5
+HSHA,W000819,majority,02255,,Mark Walker,6
+HSHA,B001227,minority,01469,Ranking Member,Robert A. Brady,1
+HSHA,L000397,minority,00701,,Zoe Lofgren,2
+HSHA,V000130,minority,02112,,Juan Vargas,3
+HSSO,D000604,majority,01799,Chair,Charles W. Dent,1
+HSSO,M001181,majority,02052,,Patrick Meehan,2
+HSSO,G000566,majority,02058,,Trey Gowdy,3
+HSSO,B001284,majority,02129,,Susan W. Brooks,4
+HSSO,M001158,majority,01806,,Kenny Marchant,5
+HSSO,S001156,minority,01757,Ranking Member,Linda T. Sánchez,1
+HSSO,C001037,minority,01564,,Michael E. Capuano,2
+HSSO,C001067,minority,01864,,Yvette D. Clarke,3
+HSSO,D000610,minority,01976,,Theodore E. Deutch,4
+HSSO,L000557,minority,01583,,John B. Larson,5
+HSIF14,P000373,majority,01514,Chair,Joseph R. Pitts,1
+HSIF14,G000558,majority,01922,Vice Chair,Brett Guthrie,2
+HSIF14,W000413,majority,01222,,Ed Whitfield,3
+HSIF14,S000364,majority,01527,,John Shimkus,4
+HSIF14,M001151,majority,01744,,Tim Murphy,5
+HSIF14,B001248,majority,01751,,Michael C. Burgess,6
+HSIF14,B001243,majority,01748,,Marsha Blackburn,7
+HSIF14,M001159,majority,01809,,Cathy McMorris Rodgers,8
+HSIF14,L000567,majority,01936,,Leonard Lance,9
+HSIF14,G000568,majority,02070,,H. Morgan Griffith,10
+HSIF14,B001257,majority,01838,,Gus M. Bilirakis,11
+HSIF14,L000576,majority,02033,,Billy Long,12
+HSIF14,E000291,majority,02036,,Renee L. Ellmers,13
+HSIF14,B001275,majority,02018,,Larry Bucshon,14
+HSIF14,B001284,majority,02129,,Susan W. Brooks,15
+HSIF14,C001092,majority,02151,,Chris Collins,16
+HSIF14,B000213,majority,00062,,Joe Barton,17
+HSIF14,U000031,majority,01177,Ex Officio,Fred Upton,18
+HSIF14,G000410,minority,00462,Ranking Member,Gene Green,1
+HSIF14,E000179,minority,00344,,Eliot L. Engel,2
+HSIF14,C001036,minority,01471,,Lois Capps,3
+HSIF14,S001145,minority,01588,,Janice D. Schakowsky,4
+HSIF14,B001251,minority,01761,,G. K. Butterfield,5
+HSIF14,C001066,minority,01839,,Kathy Castor,6
+HSIF14,S001168,minority,01854,,John P. Sarbanes,7
+HSIF14,M001163,minority,01814,,Doris O. Matsui,8
+HSIF14,L000570,minority,01939,,Ben Ray Luján,9
+HSIF14,S001180,minority,01950,,Kurt Schrader,10
+HSIF14,K000379,minority,02172,,Joseph P. Kennedy III,11
+HSIF14,C001097,minority,02107,,Tony Cárdenas,12
+HSIF14,P000034,minority,00887,Ex Officio,Frank Pallone Jr.,13
+SSFR01,J000293,majority,02086,Chairman,Ron Johnson,1
+SSFR01,P000603,majority,02082,,Rand Paul,2
+SSFR01,R000584,majority,01896,,James E. Risch,3
+SSFR01,G000562,majority,01998,,Cory Gardner,4
+SSFR01,B001261,majority,01881,,John Barrasso,5
+SSFR01,C001071,majority,01825,Ex Officio,Bob Corker,6
+SSFR01,S001181,minority,01901,Ranking Member,Jeanne Shaheen,1
+SSFR01,M001169,minority,01837,,Christopher Murphy,2
+SSFR01,K000384,minority,02176,,Tim Kaine,3
+SSFR01,M000133,minority,00735,,Edward J. Markey,4
+SSFR01,C000141,minority,00174,Ex Officio,Benjamin L. Cardin,5
+SSAP22,A000360,majority,01695,Chairman,Lamar Alexander,1
+SSAP22,C000567,majority,00213,,Thad Cochran,2
+SSAP22,M000355,majority,01395,,Mitch McConnell,3
+SSAP22,S000320,majority,01049,,Richard C. Shelby,4
+SSAP22,C001035,majority,01541,,Susan M. Collins,5
+SSAP22,M001153,majority,01694,,Lisa Murkowski,6
+SSAP22,G000359,majority,00452,,Lindsey Graham,7
+SSAP22,H001061,majority,02079,,John Hoeven,8
+SSAP22,L000575,majority,02050,,James Lankford,9
+SSAP22,F000062,minority,01332,Ranking Member,Dianne Feinstein,1
+SSAP22,M001111,minority,01409,,Patty Murray,2
+SSAP22,T000464,minority,01829,,Jon Tester,3
+SSAP22,D000563,minority,00326,,Richard J. Durbin,4
+SSAP22,U000039,minority,01567,,Tom Udall,5
+SSAP22,S001181,minority,01901,,Jeanne Shaheen,6
+SSAP22,M001176,minority,01900,,Jeff Merkley,7
+SSAP22,C001088,minority,01984,,Christopher A. Coons,8
+SSAP22,M000702,minority,00802,Ex Officio,Barbara A. Mikulski,9
+SSAP02,C000567,majority,00213,Chairman,Thad Cochran,1
+SSAP02,M000355,majority,01395,,Mitch McConnell,2
+SSAP02,S000320,majority,01049,,Richard C. Shelby,3
+SSAP02,A000360,majority,01695,,Lamar Alexander,4
+SSAP02,C001035,majority,01541,,Susan M. Collins,5
+SSAP02,M001153,majority,01694,,Lisa Murkowski,6
+SSAP02,G000359,majority,00452,,Lindsey Graham,7
+SSAP02,B000575,majority,01464,,Roy Blunt,8
+SSAP02,D000618,majority,02138,,Steve Daines,9
+SSAP02,M000934,majority,01507,,Jerry Moran,10
+SSAP02,D000563,minority,00326,Ranking Member,Richard J. Durbin,1
+SSAP02,L000174,minority,01383,,Patrick J. Leahy,2
+SSAP02,F000062,minority,01332,,Dianne Feinstein,3
+SSAP02,M000702,minority,00802,,Barbara A. Mikulski,4
+SSAP02,M001111,minority,01409,,Patty Murray,5
+SSAP02,R000122,minority,00949,,Jack Reed,6
+SSAP02,T000464,minority,01829,,Jon Tester,7
+SSAP02,U000039,minority,01567,,Tom Udall,8
+SSAP02,S001194,minority,02173,,Brian Schatz,9
+SSJU01,L000577,majority,02080,Chairman,Mike Lee,1
+SSJU01,P000612,majority,02286,,David Perdue,2
+SSJU01,T000476,majority,02291,,Thom Tillis,3
+SSJU01,G000386,majority,00457,,Chuck Grassley,4
+SSJU01,H000338,majority,01351,,Orrin G. Hatch,5
+SSJU01,K000367,minority,01826,Ranking Member,Amy Klobuchar,1
+SSJU01,C001088,minority,01984,,Christopher A. Coons,2
+SSJU01,F000457,minority,01969,,Al Franken,3
+SSJU01,B001277,minority,02076,,Richard Blumenthal,4
+HSHM07,K000386,majority,02264,Chair,John Katko,1
+HSHM07,R000575,majority,01704,,Mike Rogers,2
+HSHM07,C001103,majority,02236,,"Earl L. ""Buddy"" Carter",3
+HSHM07,W000819,majority,02255,,Mark Walker,4
+HSHM07,R000601,majority,02268,,John Ratcliffe,5
+HSHM07,M001157,majority,01804,Ex Officio,Michael T. McCaul,6
+HSHM07,R000602,minority,02262,Ranking Member,Kathleen M. Rice,1
+HSHM07,K000375,minority,02025,,William R. Keating,2
+HSHM07,P000604,minority,02097,,Donald M. Payne Jr.,3
+HSHM07,T000193,minority,01151,Ex Officio,Bennie G. Thompson,4
+HSAS06,H001053,majority,02032,Chair,Vicky Hartzler,1
+HSAS06,M001144,majority,01685,,Jeff Miller,2
+HSAS06,C001062,majority,01805,,K. Michael Conaway,3
+HSAS06,H001055,majority,02040,,Joseph J. Heck,4
+HSAS06,S001189,majority,02009,,Austin Scott,5
+HSAS06,M001197,majority,02225,,Martha McSally,6
+HSAS06,S001175,minority,01890,Ranking Member,Jackie Speier,1
+HSAS06,C000754,minority,00231,,Jim Cooper,2
+HSAS06,J000288,minority,01843,,"Henry C. ""Hank"" Johnson Jr.",3
+HSAS06,G000575,minority,02234,,Gwen Graham,4
+HSVR03,B001271,majority,02027,Chair,Dan Benishek,1
+HSVR03,B001257,majority,01838,,Gus M. Bilirakis,2
+HSVR03,R000582,majority,01954,,David P. Roe,3
+HSVR03,H001057,majority,02020,,Tim Huelskamp,4
+HSVR03,C001077,majority,01912,,Mike Coffman,5
+HSVR03,W000815,majority,02152,,Brad R. Wenstrup,6
+HSVR03,A000374,majority,02244,,Ralph Lee Abraham,7
+HSVR03,B001285,minority,02106,Ranking Member,Julia Brownley,1
+HSVR03,T000472,minority,02110,,Mark Takano,2
+HSVR03,R000599,minority,02109,,Raul Ruiz,3
+HSVR03,K000382,minority,02145,,Ann M. Kuster,4
+HSVR03,O000170,minority,02162,,Beto O'Rourke,5
+HSAS28,F000445,majority,01683,Chair,J. Randy Forbes,1
+HSAS28,C001062,majority,01805,,K. Michael Conaway,2
+HSAS28,B001289,majority,02197,,Bradley Byrne,3
+HSAS28,W000804,majority,01886,,Robert J. Wittman,4
+HSAS28,H001048,majority,01909,Vice Chair,Duncan Hunter,5
+HSAS28,H001053,majority,02032,,Vicky Hartzler,6
+HSAS28,C001094,majority,02103,,Paul Cook,7
+HSAS28,B001283,majority,02155,,Jim Bridenstine,8
+HSAS28,W000813,majority,02128,,Jackie Walorski,9
+HSAS28,Z000018,majority,02254,,Ryan K. Zinke,10
+HSAS28,K000387,majority,02228,,Stephen Knight,11
+HSAS28,R000604,majority,02265,,Steve Russell,12
+HSAS28,C001069,minority,01836,Ranking Member,Joe Courtney,1
+HSAS28,L000559,minority,01668,,James R. Langevin,2
+HSAS28,L000560,minority,01675,,Rick Larsen,3
+HSAS28,B001245,minority,01723,,Madeleine Z. Bordallo,4
+HSAS28,J000288,minority,01843,,"Henry C. ""Hank"" Johnson Jr.",5
+HSAS28,P000608,minority,02113,,Scott H. Peters,6
+HSAS28,G000571,minority,02122,,Tulsi Gabbard,7
+HSAS28,G000575,minority,02234,,Gwen Graham,8
+HSAS28,M001196,minority,02246,,Seth Moulton,9
+HSFA14,R000409,majority,00979,Chair,Dana Rohrabacher,1
+HSFA14,P000592,majority,01802,,Ted Poe,2
+HSFA14,M001179,majority,02053,,Tom Marino,3
+HSFA14,B001274,majority,01987,,Mo Brooks,4
+HSFA14,C001094,majority,02103,,Paul Cook,5
+HSFA14,W000814,majority,02161,,Randy K. Weber Sr.,6
+HSFA14,R000587,majority,02073,,Reid J. Ribble,7
+HSFA14,T000475,majority,02250,,David A. Trott,8
+HSFA14,M001137,minority,01506,Ranking Member,Gregory W. Meeks,1
+HSFA14,S001165,minority,01818,,Albio Sires,2
+HSFA14,D000610,minority,01976,,Theodore E. Deutch,3
+HSFA14,K000375,minority,02025,,William R. Keating,4
+HSFA14,F000462,minority,02119,,Lois Frankel,5
+HSFA14,G000571,minority,02122,,Tulsi Gabbard,6
+HSWM02,B000755,majority,01468,Chair,Kevin Brady,1
+HSWM02,J000174,majority,00603,,Sam Johnson,2
+HSWM02,N000181,majority,01710,,Devin Nunes,3
+HSWM02,R000580,majority,01848,,Peter J. Roskam,4
+HSWM02,P000591,majority,01778,,Tom Price,5
+HSWM02,B001260,majority,01840,,Vern Buchanan,6
+HSWM02,S001172,majority,01860,,Adrian Smith,7
+HSWM02,J000290,majority,01921,,Lynn Jenkins,8
+HSWM02,M001158,majority,01806,,Kenny Marchant,9
+HSWM02,B001273,majority,02063,,Diane Black,10
+HSWM02,M000404,minority,00766,Ranking Member,Jim McDermott,1
+HSWM02,T000460,minority,01593,,Mike Thompson,2
+HSWM02,K000188,minority,01498,,Ron Kind,3
+HSWM02,B000574,minority,00099,,Earl Blumenauer,4
+HSWM02,P000096,minority,01510,,Bill Pascrell Jr.,5
+HSWM02,D000096,minority,01477,,Danny K. Davis,6
+HSED02,R000582,majority,01954,Chair,David P. Roe,1
+HSED02,W000795,majority,01688,,Joe Wilson,2
+HSED02,F000450,majority,01791,,Virginia Foxx,3
+HSED02,W000798,majority,01855,,Tim Walberg,4
+HSED02,S000018,majority,01009,,Matt Salmon,5
+HSED02,G000558,majority,01922,,Brett Guthrie,6
+HSED02,B001269,majority,02054,,Lou Barletta,7
+HSED02,H001055,majority,02040,,Joseph J. Heck,8
+HSED02,M001189,majority,02130,,Luke Messer,9
+HSED02,B001289,majority,02197,,Bradley Byrne,10
+HSED02,C001103,majority,02236,,"Earl L. ""Buddy"" Carter",11
+HSED02,G000576,majority,02276,,Glenn Grothman,12
+HSED02,A000372,majority,02239,,Rick W. Allen,13
+HSED02,P000598,minority,01910,Ranking Member,Jared Polis,1
+HSED02,C001069,minority,01836,,Joe Courtney,2
+HSED02,P000607,minority,02171,,Mark Pocan,3
+HSED02,H000636,minority,01490,,Rubén Hinojosa,4
+HSED02,S001177,minority,01962,,Gregorio Kilili Camacho Sablan,5
+HSED02,W000808,minority,02004,,Frederica S. Wilson,6
+HSED02,B001278,minority,02092,,Suzanne Bonamici,7
+HSED02,T000472,minority,02110,,Mark Takano,8
+HSED02,J000294,minority,02149,,Hakeem S. Jeffries,9
+HSED02,S000185,minority,01037,,"Robert C. ""Bobby"" Scott",10
+SSAP18,B000575,majority,01464,Chairman,Roy Blunt,1
+SSAP18,M000934,majority,01507,,Jerry Moran,2
+SSAP18,S000320,majority,01049,,Richard C. Shelby,3
+SSAP18,C000567,majority,00213,,Thad Cochran,4
+SSAP18,A000360,majority,01695,,Lamar Alexander,5
+SSAP18,G000359,majority,00452,,Lindsey Graham,6
+SSAP18,K000360,majority,01647,,Mark Kirk,7
+SSAP18,C001075,majority,01925,,Bill Cassidy,8
+SSAP18,C001047,majority,01676,,Shelley Moore Capito,9
+SSAP18,L000575,majority,02050,,James Lankford,10
+SSAP18,M001111,minority,01409,Ranking Member,Patty Murray,1
+SSAP18,D000563,minority,00326,,Richard J. Durbin,2
+SSAP18,R000122,minority,00949,,Jack Reed,3
+SSAP18,M000702,minority,00802,,Barbara A. Mikulski,4
+SSAP18,S001181,minority,01901,,Jeanne Shaheen,5
+SSAP18,M001176,minority,01900,,Jeff Merkley,6
+SSAP18,S001194,minority,02173,,Brian Schatz,7
+SSAP18,B001230,minority,01558,,Tammy Baldwin,8
+SSEG07,L000577,majority,02080,Chairman,Mike Lee,1
+SSEG07,F000444,majority,01633,,Jeff Flake,2
+SSEG07,B001261,majority,01881,,John Barrasso,3
+SSEG07,R000584,majority,01896,,James E. Risch,4
+SSEG07,D000618,majority,02138,,Steve Daines,5
+SSEG07,G000562,majority,01998,,Cory Gardner,6
+SSEG07,P000449,majority,00924,,Rob Portman,7
+SSEG07,M001153,majority,01694,Ex Officio,Lisa Murkowski,8
+SSEG07,H001042,minority,01844,Ranking Member,Mazie K. Hirono,1
+SSEG07,W000779,minority,01247,,Ron Wyden,2
+SSEG07,S000033,minority,01010,,Bernard Sanders,3
+SSEG07,F000457,minority,01969,,Al Franken,4
+SSEG07,M001183,minority,01983,,"Joe Manchin, III",5
+SSEG07,K000383,minority,02185,,"Angus S. King, Jr.",6
+SSEG07,C000127,minority,00172,Ex Officio,Maria Cantwell,7
+SSRA,B000575,majority,01464,Chairman,Roy Blunt,1
+SSRA,A000360,majority,01695,,Lamar Alexander,2
+SSRA,M000355,majority,01395,,Mitch McConnell,3
+SSRA,C000567,majority,00213,,Thad Cochran,4
+SSRA,R000307,majority,00968,,Pat Roberts,5
+SSRA,S000320,majority,01049,,Richard C. Shelby,6
+SSRA,C001098,majority,02175,,Ted Cruz,7
+SSRA,C001047,majority,01676,,Shelley Moore Capito,8
+SSRA,B001236,majority,01687,,John Boozman,9
+SSRA,W000437,majority,01226,,Roger F. Wicker,10
+SSRA,S000148,minority,01036,Ranking Member,Charles E. Schumer,1
+SSRA,F000062,minority,01332,,Dianne Feinstein,2
+SSRA,D000563,minority,00326,,Richard J. Durbin,3
+SSRA,U000039,minority,01567,,Tom Udall,4
+SSRA,W000805,minority,01897,,Mark R. Warner,5
+SSRA,L000174,minority,01383,,Patrick J. Leahy,6
+SSRA,K000367,minority,01826,,Amy Klobuchar,7
+SSRA,K000383,minority,02185,,"Angus S. King, Jr.",8
+HSAG15,T000467,majority,01952,Chair,Glenn Thompson,1
+HSAG15,L000491,majority,00711,,Frank D. Lucas,2
+HSAG15,K000362,majority,01724,,Steve King,3
+HSAG15,D000616,majority,02062,,Scott DesJarlais,4
+HSAG15,G000564,majority,02043,,Christopher P. Gibson,5
+HSAG15,B001271,majority,02027,,Dan Benishek,6
+HSAG15,A000372,majority,02239,,Rick W. Allen,7
+HSAG15,B001295,majority,02243,,Mike Bost,8
+HSAG15,L000580,minority,02146,Ranking Member,Michelle Lujan Grisham,1
+HSAG15,K000382,minority,02145,,Ann M. Kuster,2
+HSAG15,N000127,minority,00867,,Richard M. Nolan,3
+HSAG15,D000617,minority,02096,,Suzan K. DelBene,4
+HSAG15,K000368,minority,01907,,Ann Kirkpatrick,5
+SSEV09,R000605,majority,02288,Chairman,Mike Rounds,1
+SSEV09,V000127,majority,01609,,David Vitter,2
+SSEV09,C000880,majority,00250,Ranking Member,Mike Crapo,3
+SSEV09,B001236,majority,01687,,John Boozman,4
+SSEV09,S001198,majority,02290,,Daniel Sullivan,5
+SSEV09,I000024,majority,00583,Ex Officio,James M. Inhofe,6
+SSEV09,M000133,minority,00735,Ranking Member,Edward J. Markey,1
+SSEV09,C000174,minority,00179,,Thomas R. Carper,2
+SSEV09,M001176,minority,01900,,Jeff Merkley,3
+SSEV09,B001288,minority,02194,,Cory A. Booker,4
+SSEV09,B000711,minority,00116,Ex Officio,Barbara Boxer,5
+SSEV,I000024,majority,00583,Chairman,James M. Inhofe,1
+SSEV,V000127,majority,01609,,David Vitter,2
+SSEV,B001261,majority,01881,,John Barrasso,3
+SSEV,C001047,majority,01676,,Shelley Moore Capito,4
+SSEV,C000880,majority,00250,,Mike Crapo,5
+SSEV,B001236,majority,01687,,John Boozman,6
+SSEV,S001141,majority,01548,,Jeff Sessions,7
+SSEV,W000437,majority,01226,,Roger F. Wicker,8
+SSEV,F000463,majority,02179,,Deb Fischer,9
+SSEV,R000605,majority,02288,,Mike Rounds,10
+SSEV,S001198,majority,02290,,Daniel Sullivan,11
+SSEV,B000711,minority,00116,Ranking Member,Barbara Boxer,1
+SSEV,C000174,minority,00179,,Thomas R. Carper,2
+SSEV,C000141,minority,00174,,Benjamin L. Cardin,3
+SSEV,S000033,minority,01010,,Bernard Sanders,4
+SSEV,W000802,minority,01823,,Sheldon Whitehouse,5
+SSEV,M001176,minority,01900,,Jeff Merkley,6
+SSEV,G000555,minority,01866,,Kirsten E. Gillibrand,7
+SSEV,B001288,minority,02194,,Cory A. Booker,8
+SSEV,M000133,minority,00735,,Edward J. Markey,9
+SSBK,S000320,majority,01049,Chairman,Richard C. Shelby,1
+SSBK,C000880,majority,00250,,Mike Crapo,2
+SSBK,C001071,majority,01825,,Bob Corker,3
+SSBK,V000127,majority,01609,,David Vitter,4
+SSBK,T000461,majority,02085,,Patrick J. Toomey,5
+SSBK,K000360,majority,01647,,Mark Kirk,6
+SSBK,H001041,majority,01863,,Dean Heller,7
+SSBK,S001184,majority,02056,,Tim Scott,8
+SSBK,S001197,majority,02289,,Ben Sasse,9
+SSBK,C001095,majority,02098,,Tom Cotton,10
+SSBK,R000605,majority,02288,,Mike Rounds,11
+SSBK,M000934,majority,01507,,Jerry Moran,12
+SSBK,B000944,minority,00136,Ranking Member,Sherrod Brown,1
+SSBK,R000122,minority,00949,,Jack Reed,2
+SSBK,S000148,minority,01036,,Charles E. Schumer,3
+SSBK,M000639,minority,00791,,Robert Menendez,4
+SSBK,T000464,minority,01829,,Jon Tester,5
+SSBK,W000805,minority,01897,,Mark R. Warner,6
+SSBK,M001176,minority,01900,,Jeff Merkley,7
+SSBK,W000817,minority,02182,,Elizabeth Warren,8
+SSBK,H001069,minority,02174,,Heidi Heitkamp,9
+SSBK,D000607,minority,01850,,Joe Donnelly,10
+SSAF15,E000295,majority,02283,Chairman,Joni Ernst,1
+SSAF15,C000567,majority,00213,,Thad Cochran,2
+SSAF15,H001061,majority,02079,,John Hoeven,3
+SSAF15,P000612,majority,02286,,David Perdue,4
+SSAF15,T000476,majority,02291,,Thom Tillis,5
+SSAF15,T000250,majority,01534,,John Thune,6
+SSAF15,R000307,majority,00968,Ex Officio,Pat Roberts,7
+SSAF15,H001069,minority,02174,Ranking Member,Heidi Heitkamp,1
+SSAF15,B000944,minority,00136,,Sherrod Brown,2
+SSAF15,K000367,minority,01826,,Amy Klobuchar,3
+SSAF15,B001267,minority,01965,,Michael F. Bennet,4
+SSAF15,D000607,minority,01850,,Joe Donnelly,5
+SSAF15,S000770,minority,01531,Ex Officio,Debbie Stabenow,6
+JCSE,W000437,majority,01226,Cochairman,Roger F. Wicker,1
+JCSE,B001135,majority,00153,,Richard Burr,2
+JCSE,B001236,majority,01687,,John Boozman,3
+JCSE,C000141,minority,00174,,Benjamin L. Cardin,1
+JCSE,W000802,minority,01823,,Sheldon Whitehouse,2
+JCSE,U000039,minority,01567,,Tom Udall,3
+JCSE,S001181,minority,01901,,Jeanne Shaheen,4
+JCSE,S000522,majority,01071,Co-Chairman,Christopher H. Smith,1
+JCSE,P000373,majority,01514,,Joseph R. Pitts,2
+JCSE,A000055,majority,01460,,Robert Aderholt,3
+JCSE,B001248,majority,01751,,Michael C. Burgess,4
+JCSE,H000324,minority,00511,,Alcee L. Hastings,1
+JCSE,S000480,minority,01069,,Louise McIntosh Slaughter,2
+JCSE,C001068,minority,01878,,Steve Cohen,3
+HSFA16,S000522,majority,01071,Chair,Christopher H. Smith,1
+HSFA16,M001187,majority,02142,,Mark Meadows,2
+HSFA16,C001102,majority,02200,,Curt Clawson,3
+HSFA16,D000616,majority,02062,,Scott DesJarlais,4
+HSFA16,D000625,majority,02293,,Daniel M. Donovan Jr.,5
+HSFA16,B001270,minority,01996,Ranking Member,Karen Bass,1
+HSFA16,C001084,minority,02055,,David N. Cicilline,2
+HSFA16,B001287,minority,02102,,Ami Bera,3
+HSAP23,C001045,majority,01643,Chair,Ander Crenshaw,1
+HSAP23,G000560,majority,01979,,Tom Graves,2
+HSAP23,Y000063,majority,02021,,Kevin Yoder,3
+HSAP23,W000809,majority,01991,,Steve Womack,4
+HSAP23,H001056,majority,02071,Vice Chair,Jaime Herrera Beutler,5
+HSAP23,A000369,majority,02090,,Mark E. Amodei,6
+HSAP23,R000589,majority,02068,,E. Scott Rigell,7
+HSAP23,S000248,minority,01042,Ranking Member,José E. Serrano,1
+HSAP23,Q000023,minority,01967,,Mike Quigley,2
+HSAP23,F000043,minority,00371,,Chaka Fattah,3
+HSAP23,B000490,minority,00091,,Sanford D. Bishop Jr.,4
+HSSM,C000266,majority,00186,Chair,Steve Chabot,1
+HSSM,K000362,majority,01724,,Steve King,2
+HSSM,L000569,majority,01931,,Blaine Luetkemeyer,3
+HSSM,H001051,majority,02044,,Richard L. Hanna,4
+HSSM,H001057,majority,02020,,Tim Huelskamp,5
+HSSM,R000597,majority,02160,,Tom Rice,6
+HSSM,G000564,majority,02043,,Christopher P. Gibson,7
+HSSM,B001290,majority,02203,,Dave Brat,8
+HSSM,R000600,majority,02222,,Aumua Amata Coleman Radewagen,9
+HSSM,K000387,majority,02228,,Stephen Knight,10
+HSSM,C001107,majority,02235,,Carlos Curbelo,11
+HSSM,B001295,majority,02243,,Mike Bost,12
+HSSM,H001070,majority,02260,,Cresent Hardy,13
+HSSM,K000388,majority,02294,,Trent Kelly,14
+HSSM,V000081,minority,01184,Ranking Member,Nydia M. Velázquez,1
+HSSM,C001080,minority,01970,,Judy Chu,2
+HSSM,H001063,minority,02089,,Janice Hahn,3
+HSSM,P000604,minority,02097,,Donald M. Payne Jr.,4
+HSSM,M001188,minority,02148,,Grace Meng,5
+HSSM,L000581,minority,02252,,Brenda L. Lawrence,6
+HSSM,A000370,minority,02201,,Alma S. Adams,7
+HSSM,C001067,minority,01864,,Yvette D. Clarke,8
+HSSM,M001196,minority,02246,,Seth Moulton,9
+HSSM,T000473,minority,02240,,Mark Takai,10
+HSPW13,B001269,majority,02054,Chair,Lou Barletta,1
+HSPW13,C001087,majority,01989,,"Eric A. ""Rick"" Crawford",2
+HSPW13,M001184,majority,02094,,Thomas Massie,3
+HSPW13,M001187,majority,02142,,Mark Meadows,4
+HSPW13,P000605,majority,02157,,Scott Perry,5
+HSPW13,C001106,majority,02266,,Ryan A. Costello,6
+HSPW13,C001105,majority,02273,,Barbara Comstock,7
+HSPW13,C001107,majority,02235,,Carlos Curbelo,8
+HSPW13,R000603,majority,02256,,David Rouzer,9
+HSPW13,S001154,majority,01681,Ex Officio,Bill Shuster,10
+HSPW13,C001072,minority,01889,Ranking Member,André Carson,1
+HSPW13,N000147,minority,00868,,Eleanor Holmes Norton,2
+HSPW13,S001165,minority,01818,,Albio Sires,3
+HSPW13,E000290,minority,01894,,Donna F. Edwards,4
+HSPW13,T000468,minority,01940,,Dina Titus,5
+HSPW13,D000191,minority,00279,Ex Officio,Peter A. DeFazio,6
+HSPW14,D000612,majority,01995,Chair,Jeff Denham,1
+HSPW14,D000533,majority,00322,,John J. Duncan Jr.,2
+HSPW14,M000689,majority,00800,,John L. Mica,3
+HSPW14,G000546,majority,01656,,Sam Graves,4
+HSPW14,M001150,majority,01731,,Candice S. Miller,5
+HSPW14,B001269,majority,02054,,Lou Barletta,6
+HSPW14,F000460,majority,02067,,Blake Farenthold,7
+HSPW14,H001051,majority,02044,,Richard L. Hanna,8
+HSPW14,W000806,majority,02002,,Daniel Webster,9
+HSPW14,R000597,majority,02160,,Tom Rice,10
+HSPW14,P000605,majority,02157,,Scott Perry,11
+HSPW14,R000592,majority,02017,,Todd Rokita,12
+HSPW14,K000386,majority,02264,,John Katko,13
+HSPW14,B001291,majority,02270,,Brian Babin,14
+HSPW14,H001070,majority,02260,,Cresent Hardy,15
+HSPW14,W000820,majority,02232,,Mimi Walters,16
+HSPW14,Z000017,majority,02261,,Lee M. Zeldin,17
+HSPW14,S001154,majority,01681,Ex Officio,Bill Shuster,18
+HSPW14,C001037,minority,01564,Ranking Member,Michael E. Capuano,1
+HSPW14,B000911,minority,00132,,Corrine Brown,2
+HSPW14,L000563,minority,01781,,Daniel Lipinski,3
+HSPW14,N000002,minority,00850,,Jerrold Nadler,4
+HSPW14,C000984,minority,00256,,Elijah E. Cummings,5
+HSPW14,L000560,minority,01675,,Rick Larsen,6
+HSPW14,C001068,minority,01878,,Steve Cohen,7
+HSPW14,S001165,minority,01818,,Albio Sires,8
+HSPW14,N000127,minority,00867,,Richard M. Nolan,9
+HSPW14,E000293,minority,02114,,Elizabeth H. Esty,10
+HSPW14,N000179,minority,01602,,Grace F. Napolitano,11
+HSPW14,H001063,minority,02089,,Janice Hahn,12
+HSPW14,D000191,minority,00279,Ex Officio,Peter A. DeFazio,13
+HSAP04,G000377,majority,01487,Chair,Kay Granger,1
+HSAP04,D000600,majority,01717,,Mario Diaz-Balart,2
+HSAP04,D000604,majority,01799,Vice Chair,Charles W. Dent,3
+HSAP04,C001045,majority,01643,,Ander Crenshaw,4
+HSAP04,R000583,majority,01916,,Thomas J. Rooney,5
+HSAP04,F000449,majority,01793,,Jeff Fortenberry,6
+HSAP04,S001192,majority,02168,,Chris Stewart,7
+HSAP04,L000480,minority,00709,Ranking Member,Nita M. Lowey,1
+HSAP04,L000551,minority,01501,,Barbara Lee,2
+HSAP04,R000576,minority,01728,,C. A. Dutch Ruppersberger,3
+HSAP04,W000797,minority,01777,,Debbie Wasserman Schultz,4
+HSAP04,S000248,minority,01042,,José E. Serrano,5
+HSAP15,C001051,majority,01752,Chair,John R. Carter,1
+HSAP15,C001048,majority,01670,,John Abney Culberson,2
+HSAP15,F000372,majority,00414,Vice Chair,Rodney P. Frelinghuysen,3
+HSAP15,F000459,majority,02061,,"Charles J. ""Chuck"" Fleischmann",4
+HSAP15,H001052,majority,02026,,Andy Harris,5
+HSAP15,S001192,majority,02168,,Chris Stewart,6
+HSAP15,Y000066,majority,02242,,David Young,7
+HSAP15,R000486,minority,00997,Ranking Member,Lucille Roybal-Allard,1
+HSAP15,P000523,minority,00930,,David E. Price,2
+HSAP15,C001063,minority,01807,,Henry Cuellar,3
+HSAP15,K000009,minority,00616,,Marcy Kaptur,4
+HSED,K000363,majority,01733,Chair,John Kline,1
+HSED,W000795,majority,01688,,Joe Wilson,2
+HSED,F000450,majority,01791,,Virginia Foxx,3
+HSED,H001048,majority,01909,,Duncan Hunter,4
+HSED,R000582,majority,01954,,David P. Roe,5
+HSED,T000467,majority,01952,,Glenn Thompson,6
+HSED,W000798,majority,01855,,Tim Walberg,7
+HSED,S000018,majority,01009,,Matt Salmon,8
+HSED,G000558,majority,01922,,Brett Guthrie,9
+HSED,R000592,majority,02017,,Todd Rokita,10
+HSED,B001269,majority,02054,,Lou Barletta,11
+HSED,H001055,majority,02040,,Joseph J. Heck,12
+HSED,M001189,majority,02130,,Luke Messer,13
+HSED,B001289,majority,02197,,Bradley Byrne,14
+HSED,B001290,majority,02203,,Dave Brat,15
+HSED,C001103,majority,02236,,"Earl L. ""Buddy"" Carter",16
+HSED,B001293,majority,02249,,Mike Bishop,17
+HSED,G000576,majority,02276,,Glenn Grothman,18
+HSED,R000604,majority,02265,,Steve Russell,19
+HSED,C001107,majority,02235,,Carlos Curbelo,20
+HSED,S001196,majority,02263,,Elise M. Stefanik,21
+HSED,A000372,majority,02239,,Rick W. Allen,22
+HSED,S000185,minority,01037,Ranking Member,"Robert C. ""Bobby"" Scott",1
+HSED,H000636,minority,01490,,Rubén Hinojosa,2
+HSED,D000598,minority,01641,,Susan A. Davis,3
+HSED,G000551,minority,01708,,Raúl M. Grijalva,4
+HSED,C001069,minority,01836,,Joe Courtney,5
+HSED,F000455,minority,01895,,Marcia L. Fudge,6
+HSED,P000598,minority,01910,,Jared Polis,7
+HSED,S001177,minority,01962,,Gregorio Kilili Camacho Sablan,8
+HSED,W000808,minority,02004,,Frederica S. Wilson,9
+HSED,B001278,minority,02092,,Suzanne Bonamici,10
+HSED,P000607,minority,02171,,Mark Pocan,11
+HSED,T000472,minority,02110,,Mark Takano,12
+HSED,J000294,minority,02149,,Hakeem S. Jeffries,13
+HSED,C001101,minority,02196,,Katherine M. Clark,14
+HSED,A000370,minority,02201,,Alma S. Adams,15
+HSED,D000623,minority,02227,,Mark DeSaulnier,16
+SSAS20,F000463,majority,02179,Chairman,Deb Fischer,1
+SSAS20,A000368,majority,02075,,Kelly Ayotte,2
+SSAS20,C001095,majority,02098,,Tom Cotton,3
+SSAS20,E000295,majority,02283,,Joni Ernst,4
+SSAS20,T000476,majority,02291,,Thom Tillis,5
+SSAS20,G000359,majority,00452,,Lindsey Graham,6
+SSAS20,C001098,majority,02175,,Ted Cruz,7
+SSAS20,M000303,majority,00754,Ex Officio,John McCain,8
+SSAS20,N000032,minority,00859,Ranking Member,Bill Nelson,1
+SSAS20,M001183,minority,01983,,"Joe Manchin, III",2
+SSAS20,S001181,minority,01901,,Jeanne Shaheen,3
+SSAS20,G000555,minority,01866,,Kirsten E. Gillibrand,4
+SSAS20,D000607,minority,01850,,Joe Donnelly,5
+SSAS20,K000384,minority,02176,,Tim Kaine,6
+SSAS20,R000122,minority,00949,Ex Officio,Jack Reed,7
+SSEG,M001153,majority,01694,Chairman,Lisa Murkowski,1
+SSEG,B001261,majority,01881,,John Barrasso,2
+SSEG,R000584,majority,01896,,James E. Risch,3
+SSEG,L000577,majority,02080,,Mike Lee,4
+SSEG,F000444,majority,01633,,Jeff Flake,5
+SSEG,D000618,majority,02138,,Steve Daines,6
+SSEG,C001075,majority,01925,,Bill Cassidy,7
+SSEG,G000562,majority,01998,,Cory Gardner,8
+SSEG,P000449,majority,00924,,Rob Portman,9
+SSEG,H001061,majority,02079,,John Hoeven,10
+SSEG,A000360,majority,01695,,Lamar Alexander,11
+SSEG,C001047,majority,01676,,Shelley Moore Capito,12
+SSEG,C000127,minority,00172,Ranking Member,Maria Cantwell,1
+SSEG,W000779,minority,01247,,Ron Wyden,2
+SSEG,S000033,minority,01010,,Bernard Sanders,3
+SSEG,S000770,minority,01531,,Debbie Stabenow,4
+SSEG,F000457,minority,01969,,Al Franken,5
+SSEG,M001183,minority,01983,,"Joe Manchin, III",6
+SSEG,H001046,minority,01937,,Martin Heinrich,7
+SSEG,H001042,minority,01844,,Mazie K. Hirono,8
+SSEG,K000383,minority,02185,,"Angus S. King, Jr.",9
+SSEG,W000817,minority,02182,,Elizabeth Warren,10
+HSGO06,D000621,majority,02116,Chair,Ron DeSantis,1
+HSGO06,M000689,majority,00800,,John L. Mica,2
+HSGO06,D000533,majority,00322,,John J. Duncan Jr.,3
+HSGO06,H001071,majority,02237,,Jody B. Hice,4
+HSGO06,R000604,majority,02265,Vice Chair,Steve Russell,5
+HSGO06,H001073,majority,02269,,Will Hurd,6
+HSGO06,L000562,minority,01686,Ranking Member,Stephen F. Lynch,1
+HSGO06,K000385,minority,02190,,Robin L. Kelly,2
+HSGO06,L000581,minority,02252,,Brenda L. Lawrence,3
+HSGO06,L000582,minority,02230,,Ted Lieu,4
+SSFI13,C001056,majority,01692,Chairman,John Cornyn,1
+SSFI13,G000386,majority,00457,,Chuck Grassley,2
+SSFI13,R000307,majority,00968,,Pat Roberts,3
+SSFI13,T000250,majority,01534,,John Thune,4
+SSFI13,I000055,majority,01608,,Johnny Isakson,5
+SSFI13,P000449,majority,00924,,Rob Portman,6
+SSFI13,H000338,majority,01351,Ex Officio,Orrin G. Hatch,7
+SSFI13,W000779,minority,01247,Ranking Member,Ron Wyden,1
+SSFI13,S000148,minority,01036,,Charles E. Schumer,2
+SSFI13,S000770,minority,01531,,Debbie Stabenow,3
+SSFI13,N000032,minority,00859,,Bill Nelson,4
+HSAS02,H001055,majority,02040,Chair,Joseph J. Heck,1
+HSAS02,J000255,majority,00612,,Walter B. Jones,2
+HSAS02,K000363,majority,01733,,John Kline,3
+HSAS02,C001077,majority,01912,,Mike Coffman,4
+HSAS02,M001193,majority,02258,Vice Chair,Thomas MacArthur,5
+HSAS02,S001196,majority,02263,,Elise M. Stefanik,6
+HSAS02,C001094,majority,02103,,Paul Cook,7
+HSAS02,K000387,majority,02228,,Stephen Knight,8
+HSAS02,D000598,minority,01641,Ranking Member,Susan A. Davis,1
+HSAS02,B001227,minority,01469,,Robert A. Brady,2
+HSAS02,T000465,minority,01884,,Niki Tsongas,3
+HSAS02,S001175,minority,01890,,Jackie Speier,4
+HSAS02,W000799,minority,01856,,Timothy J. Walz,5
+HSAS02,O000170,minority,02162,,Beto O'Rourke,6
+SSAF14,P000612,majority,02286,Chairman,David Perdue,1
+SSAF14,C000567,majority,00213,,Thad Cochran,2
+SSAF14,M000355,majority,01395,,Mitch McConnell,3
+SSAF14,B001236,majority,01687,,John Boozman,4
+SSAF14,S001197,majority,02289,,Ben Sasse,5
+SSAF14,G000386,majority,00457,,Chuck Grassley,6
+SSAF14,R000307,majority,00968,Ex Officio,Pat Roberts,7
+SSAF14,B001267,minority,01965,Ranking Member,Michael F. Bennet,1
+SSAF14,K000367,minority,01826,,Amy Klobuchar,2
+SSAF14,L000174,minority,01383,,Patrick J. Leahy,3
+SSAF14,H001069,minority,02174,,Heidi Heitkamp,4
+SSAF14,C001070,minority,01828,,"Robert P. Casey, Jr.",5
+SSAF14,S000770,minority,01531,Ex Officio,Debbie Stabenow,6
+HSAG29,R000603,majority,02256,Chair,David Rouzer,1
+HSAG29,G000289,majority,00446,,Bob Goodlatte,2
+HSAG29,K000362,majority,01724,,Steve King,3
+HSAG29,D000616,majority,02062,,Scott DesJarlais,4
+HSAG29,H001053,majority,02032,,Vicky Hartzler,5
+HSAG29,Y000065,majority,02115,,Ted S. Yoho,6
+HSAG29,N000189,majority,02275,,Dan Newhouse,7
+HSAG29,K000388,majority,02294,,Trent Kelly,8
+HSAG29,C001059,minority,01774,Ranking Member,Jim Costa,1
+HSAG29,P000610,minority,02274,,Stacey E. Plaskett,2
+HSAG29,V000132,minority,02167,,Filemon Vela,3
+HSAG29,N000127,minority,00867,,Richard M. Nolan,4
+HSAG29,B001286,minority,02127,,Cheri Bustos,5
+SSCM24,C001098,majority,02175,Chairman,Ted Cruz,1
+SSCM24,R000595,majority,02084,,Marco Rubio,2
+SSCM24,M000934,majority,01507,,Jerry Moran,3
+SSCM24,S001198,majority,02290,,Daniel Sullivan,4
+SSCM24,G000562,majority,01998,,Cory Gardner,5
+SSCM24,D000618,majority,02138,,Steve Daines,6
+SSCM24,T000250,majority,01534,Ex Officio,John Thune,7
+SSCM24,P000595,minority,01929,Ranking Member,Gary Peters,1
+SSCM24,M000133,minority,00735,,Edward J. Markey,2
+SSCM24,B001288,minority,02194,,Cory A. Booker,3
+SSCM24,S001194,minority,02173,,Brian Schatz,4
+SSCM24,U000039,minority,01567,,Tom Udall,5
+SSCM24,N000032,minority,00859,Ex Officio,Bill Nelson,6
+HSHM08,R000601,majority,02268,Chair,John Ratcliffe,1
+HSHM08,K000210,majority,00635,,Peter T. King,2
+HSHM08,M001179,majority,02053,,Tom Marino,3
+HSHM08,P000605,majority,02157,,Scott Perry,4
+HSHM08,C001102,majority,02200,,Curt Clawson,5
+HSHM08,D000625,majority,02293,,Daniel M. Donovan Jr.,6
+HSHM08,M001157,majority,01804,Ex Officio,Michael T. McCaul,7
+HSHM08,R000588,minority,02023,Ranking Member,Cedric L. Richmond,1
+HSHM08,S000030,minority,01522,,Loretta Sanchez,2
+HSHM08,J000032,minority,00588,,Sheila Jackson Lee,3
+HSHM08,L000559,minority,01668,,James R. Langevin,4
+HSHM08,T000193,minority,01151,Ex Officio,Bennie G. Thompson,5
+SSFR06,R000595,majority,02084,Chairman,Marco Rubio,1
+SSFR06,F000444,majority,01633,,Jeff Flake,2
+SSFR06,G000562,majority,01998,,Cory Gardner,3
+SSFR06,P000612,majority,02286,,David Perdue,4
+SSFR06,I000055,majority,01608,,Johnny Isakson,5
+SSFR06,C001071,majority,01825,Ex Officio,Bob Corker,6
+SSFR06,B000711,minority,00116,Ranking Member,Barbara Boxer,1
+SSFR06,U000039,minority,01567,,Tom Udall,2
+SSFR06,K000384,minority,02176,,Tim Kaine,3
+SSFR06,M000133,minority,00735,,Edward J. Markey,4
+SSFR06,C000141,minority,00174,Ex Officio,Benjamin L. Cardin,5
+HSWM,R000570,majority,01560,Chair,Paul Ryan,1
+HSWM,J000174,majority,00603,,Sam Johnson,2
+HSWM,B000755,majority,01468,,Kevin Brady,3
+HSWM,N000181,majority,01710,,Devin Nunes,4
+HSWM,T000462,majority,01664,,Patrick J. Tiberi,5
+HSWM,R000578,majority,01810,,David G. Reichert,6
+HSWM,B001255,majority,01787,,Charles W. Boustany Jr.,7
+HSWM,R000580,majority,01848,,Peter J. Roskam,8
+HSWM,P000591,majority,01778,,Tom Price,9
+HSWM,B001260,majority,01840,,Vern Buchanan,10
+HSWM,S001172,majority,01860,,Adrian Smith,11
+HSWM,J000290,majority,01921,,Lynn Jenkins,12
+HSWM,P000594,majority,01930,,Erik Paulsen,13
+HSWM,M001158,majority,01806,,Kenny Marchant,14
+HSWM,B001273,majority,02063,,Diane Black,15
+HSWM,R000585,majority,01982,,Tom Reed,16
+HSWM,Y000064,majority,02019,,Todd C. Young,17
+HSWM,K000376,majority,02051,,Mike Kelly,18
+HSWM,R000586,majority,02048,,James B. Renacci,19
+HSWM,M001181,majority,02052,,Patrick Meehan,20
+HSWM,N000184,majority,02060,,Kristi L. Noem,21
+HSWM,H001065,majority,02143,,George Holding,22
+HSWM,S001195,majority,02191,,Jason Smith,23
+HSWM,D000613,majority,02013,,Robert J. Dold,24
+HSWM,L000263,minority,00683,Ranking Member,Sander M. Levin,1
+HSWM,R000053,minority,00944,,Charles B. Rangel,2
+HSWM,M000404,minority,00766,,Jim McDermott,3
+HSWM,L000287,minority,00688,,John Lewis,4
+HSWM,N000015,minority,00854,,Richard E. Neal,5
+HSWM,B000287,minority,00070,,Xavier Becerra,6
+HSWM,D000399,minority,00303,,Lloyd Doggett,7
+HSWM,T000460,minority,01593,,Mike Thompson,8
+HSWM,L000557,minority,01583,,John B. Larson,9
+HSWM,B000574,minority,00099,,Earl Blumenauer,10
+HSWM,K000188,minority,01498,,Ron Kind,11
+HSWM,P000096,minority,01510,,Bill Pascrell Jr.,12
+HSWM,C001038,minority,01604,,Joseph Crowley,13
+HSWM,D000096,minority,01477,,Danny K. Davis,14
+HSWM,S001156,minority,01757,,Linda T. Sánchez,15
+SSGA,J000293,majority,02086,Chairman,Ron Johnson,1
+SSGA,M000303,majority,00754,,John McCain,2
+SSGA,P000449,majority,00924,,Rob Portman,3
+SSGA,P000603,majority,02082,,Rand Paul,4
+SSGA,L000575,majority,02050,,James Lankford,5
+SSGA,A000368,majority,02075,,Kelly Ayotte,6
+SSGA,E000285,majority,01542,,Michael B. Enzi,7
+SSGA,E000295,majority,02283,,Joni Ernst,8
+SSGA,S001197,majority,02289,,Ben Sasse,9
+SSGA,C000174,minority,00179,Ranking Member,Thomas R. Carper,1
+SSGA,M001170,minority,01820,,Claire McCaskill,2
+SSGA,T000464,minority,01829,,Jon Tester,3
+SSGA,B001230,minority,01558,,Tammy Baldwin,4
+SSGA,H001069,minority,02174,,Heidi Heitkamp,5
+SSGA,B001288,minority,02194,,Cory A. Booker,6
+SSGA,P000595,minority,01929,,Gary Peters,7
+HLIG,N000181,majority,01710,Chair,Devin Nunes,1
+HLIG,M001144,majority,01685,,Jeff Miller,2
+HLIG,C001062,majority,01805,,K. Michael Conaway,3
+HLIG,K000210,majority,00635,,Peter T. King,4
+HLIG,L000554,majority,00699,,Frank A. LoBiondo,5
+HLIG,W000796,majority,01779,,Lynn A. Westmoreland,6
+HLIG,R000583,majority,01916,,Thomas J. Rooney,7
+HLIG,H001055,majority,02040,,Joseph J. Heck,8
+HLIG,P000602,majority,02022,,Mike Pompeo,9
+HLIG,R000435,majority,00985,,Ileana Ros-Lehtinen,10
+HLIG,T000463,majority,01741,,Michael R. Turner,11
+HLIG,W000815,majority,02152,,Brad R. Wenstrup,12
+HLIG,S001192,majority,02168,,Chris Stewart,13
+HLIG,S001150,minority,01635,Ranking Member,Adam B. Schiff,1
+HLIG,G000535,minority,00478,,Luis V. Gutiérrez,2
+HLIG,H001047,minority,01913,,James A. Himes,3
+HLIG,S001185,minority,01988,,Terri A. Sewell,4
+HLIG,C001072,minority,01889,,André Carson,5
+HLIG,S001175,minority,01890,,Jackie Speier,6
+HLIG,Q000023,minority,01967,,Mike Quigley,7
+HLIG,S001193,minority,02104,,Eric Swalwell,8
+HLIG,M001191,minority,02117,,Patrick Murphy,9
+SSEV08,V000127,majority,01609,Chairman,David Vitter,1
+SSEV08,B001261,majority,01881,,John Barrasso,2
+SSEV08,C001047,majority,01676,,Shelley Moore Capito,3
+SSEV08,C000880,majority,00250,,Mike Crapo,4
+SSEV08,B001236,majority,01687,,John Boozman,5
+SSEV08,S001141,majority,01548,,Jeff Sessions,6
+SSEV08,W000437,majority,01226,,Roger F. Wicker,7
+SSEV08,F000463,majority,02179,,Deb Fischer,8
+SSEV08,I000024,majority,00583,Ex Officio,James M. Inhofe,9
+SSEV08,B000711,minority,00116,Ranking Member,Barbara Boxer,1
+SSEV08,C000174,minority,00179,,Thomas R. Carper,2
+SSEV08,C000141,minority,00174,,Benjamin L. Cardin,3
+SSEV08,S000033,minority,01010,,Bernard Sanders,4
+SSEV08,W000802,minority,01823,,Sheldon Whitehouse,5
+SSEV08,M001176,minority,01900,,Jeff Merkley,6
+SSEV08,G000555,minority,01866,,Kirsten E. Gillibrand,7
+SSAF16,H001061,majority,02079,Chairman,John Hoeven,1
+SSAF16,M000355,majority,01395,,Mitch McConnell,2
+SSAF16,B001236,majority,01687,,John Boozman,3
+SSAF16,E000295,majority,02283,,Joni Ernst,4
+SSAF16,T000476,majority,02291,,Thom Tillis,5
+SSAF16,S001197,majority,02289,,Ben Sasse,6
+SSAF16,R000307,majority,00968,Ex Officio,Pat Roberts,7
+SSAF16,C001070,minority,01828,Ranking Member,"Robert P. Casey, Jr.",1
+SSAF16,L000174,minority,01383,,Patrick J. Leahy,2
+SSAF16,B000944,minority,00136,,Sherrod Brown,3
+SSAF16,G000555,minority,01866,,Kirsten E. Gillibrand,4
+SSAF16,B001267,minority,01965,,Michael F. Bennet,5
+SSAF16,S000770,minority,01531,Ex Officio,Debbie Stabenow,6
+SSFR02,G000562,majority,01998,Chairman,Cory Gardner,1
+SSFR02,R000595,majority,02084,,Marco Rubio,2
+SSFR02,J000293,majority,02086,,Ron Johnson,3
+SSFR02,I000055,majority,01608,,Johnny Isakson,4
+SSFR02,F000444,majority,01633,,Jeff Flake,5
+SSFR02,C001071,majority,01825,Ex Officio,Bob Corker,6
+SSFR02,C000141,minority,00174,Ranking Member,Benjamin L. Cardin,1
+SSFR02,B000711,minority,00116,,Barbara Boxer,2
+SSFR02,C001088,minority,01984,,Christopher A. Coons,3
+SSFR02,U000039,minority,01567,,Tom Udall,4
+SSGA01,P000449,majority,00924,Chairman,Rob Portman,1
+SSGA01,M000303,majority,00754,,John McCain,2
+SSGA01,P000603,majority,02082,,Rand Paul,3
+SSGA01,L000575,majority,02050,,James Lankford,4
+SSGA01,A000368,majority,02075,,Kelly Ayotte,5
+SSGA01,S001197,majority,02289,,Ben Sasse,6
+SSGA01,J000293,majority,02086,Ex Officio,Ron Johnson,7
+SSGA01,M001170,minority,01820,Ranking Member,Claire McCaskill,1
+SSGA01,T000464,minority,01829,,Jon Tester,2
+SSGA01,B001230,minority,01558,,Tammy Baldwin,3
+SSGA01,H001069,minority,02174,,Heidi Heitkamp,4
+SSGA01,C000174,minority,00179,Ex Officio,Thomas R. Carper,5
+SSSB,V000127,majority,01609,Chairman,David Vitter,1
+SSSB,R000584,majority,01896,,James E. Risch,2
+SSSB,R000595,majority,02084,,Marco Rubio,3
+SSSB,P000603,majority,02082,,Rand Paul,4
+SSSB,S001184,majority,02056,,Tim Scott,5
+SSSB,F000463,majority,02179,,Deb Fischer,6
+SSSB,G000562,majority,01998,,Cory Gardner,7
+SSSB,E000295,majority,02283,,Joni Ernst,8
+SSSB,A000368,majority,02075,,Kelly Ayotte,9
+SSSB,E000285,majority,01542,,Michael B. Enzi,10
+SSSB,S001181,minority,01901,Ranking Member,Jeanne Shaheen,1
+SSSB,C000127,minority,00172,,Maria Cantwell,2
+SSSB,C000141,minority,00174,,Benjamin L. Cardin,3
+SSSB,H001069,minority,02174,,Heidi Heitkamp,4
+SSSB,M000133,minority,00735,,Edward J. Markey,5
+SSSB,B001288,minority,02194,,Cory A. Booker,6
+SSSB,C001088,minority,01984,,Christopher A. Coons,7
+SSSB,H001042,minority,01844,,Mazie K. Hirono,8
+SSSB,P000595,minority,01929,,Gary Peters,9
+SSEG04,C001075,majority,01925,Chairman,Bill Cassidy,1
+SSEG04,P000449,majority,00924,,Rob Portman,2
+SSEG04,B001261,majority,01881,,John Barrasso,3
+SSEG04,A000360,majority,01695,,Lamar Alexander,4
+SSEG04,L000577,majority,02080,,Mike Lee,5
+SSEG04,H001061,majority,02079,,John Hoeven,6
+SSEG04,C001047,majority,01676,,Shelley Moore Capito,7
+SSEG04,M001153,majority,01694,Ex Officio,Lisa Murkowski,8
+SSEG04,H001046,minority,01937,Ranking Member,Martin Heinrich,1
+SSEG04,W000779,minority,01247,,Ron Wyden,2
+SSEG04,S000033,minority,01010,,Bernard Sanders,3
+SSEG04,S000770,minority,01531,,Debbie Stabenow,4
+SSEG04,K000383,minority,02185,,"Angus S. King, Jr.",5
+SSEG04,W000817,minority,02182,,Elizabeth Warren,6
+SSEG04,C000127,minority,00172,Ex Officio,Maria Cantwell,7
+HSWM01,J000174,majority,00603,Chair,Sam Johnson,1
+HSWM01,R000585,majority,01982,,Tom Reed,2
+HSWM01,D000613,majority,02013,,Robert J. Dold,3
+HSWM01,Y000064,majority,02019,,Todd C. Young,4
+HSWM01,K000376,majority,02051,,Mike Kelly,5
+HSWM01,R000586,majority,02048,,James B. Renacci,6
+HSWM01,B000755,majority,01468,,Kevin Brady,7
+HSWM01,B000287,minority,00070,Ranking Member,Xavier Becerra,1
+HSWM01,D000399,minority,00303,,Lloyd Doggett,2
+HSWM01,L000557,minority,01583,,John B. Larson,3
+HSWM01,B000574,minority,00099,,Earl Blumenauer,4
+SSBU,E000285,majority,01542,Chairman,Michael B. Enzi,1
+SSBU,G000386,majority,00457,,Chuck Grassley,2
+SSBU,S001141,majority,01548,,Jeff Sessions,3
+SSBU,C000880,majority,00250,,Mike Crapo,4
+SSBU,G000359,majority,00452,,Lindsey Graham,5
+SSBU,P000449,majority,00924,,Rob Portman,6
+SSBU,T000461,majority,02085,,Patrick J. Toomey,7
+SSBU,J000293,majority,02086,,Ron Johnson,8
+SSBU,A000368,majority,02075,,Kelly Ayotte,9
+SSBU,W000437,majority,01226,,Roger F. Wicker,10
+SSBU,C001071,majority,01825,,Bob Corker,11
+SSBU,P000612,majority,02286,,David Perdue,12
+SSBU,S000033,minority,01010,Ranking Member,Bernard Sanders,1
+SSBU,M001111,minority,01409,,Patty Murray,2
+SSBU,W000779,minority,01247,,Ron Wyden,3
+SSBU,S000770,minority,01531,,Debbie Stabenow,4
+SSBU,W000802,minority,01823,,Sheldon Whitehouse,5
+SSBU,W000805,minority,01897,,Mark R. Warner,6
+SSBU,M001176,minority,01900,,Jeff Merkley,7
+SSBU,B001230,minority,01558,,Tammy Baldwin,8
+SSBU,K000384,minority,02176,,Tim Kaine,9
+SSBU,K000383,minority,02185,,"Angus S. King, Jr.",10
+HSGO29,M000689,majority,00800,Chair,John L. Mica,1
+HSGO29,T000463,majority,01741,,Michael R. Turner,2
+HSGO29,D000533,majority,00322,,John J. Duncan Jr.,3
+HSGO29,A000367,majority,02029,,Justin Amash,4
+HSGO29,M001184,majority,02094,,Thomas Massie,5
+HSGO29,G000576,majority,02276,Vice Chair,Glenn Grothman,6
+HSGO29,D000622,minority,02123,Ranking Member,Tammy Duckworth,1
+HSGO29,W000822,minority,02259,,Bonnie Watson Coleman,2
+HSGO29,D000623,minority,02227,,Mark DeSaulnier,3
+HSGO29,B001296,minority,02267,,Brendan F. Boyle,4
+HSAP18,D000604,majority,01799,Chair,Charles W. Dent,1
+HSAP18,F000449,majority,01793,Vice Chair,Jeff Fortenberry,2
+HSAP18,R000583,majority,01916,,Thomas J. Rooney,3
+HSAP18,R000591,majority,01986,,Martha Roby,4
+HSAP18,V000129,majority,02105,,David G. Valadao,5
+HSAP18,J000295,majority,02154,,David P. Joyce,6
+HSAP18,J000296,majority,02199,,David W. Jolly,7
+HSAP18,B000490,minority,00091,Ranking Member,Sanford D. Bishop Jr.,1
+HSAP18,F000030,minority,00368,,Sam Farr,2
+HSAP18,P000523,minority,00930,,David E. Price,3
+HSAP18,L000551,minority,01501,,Barbara Lee,4
+HSRU,S000250,majority,01525,Chair,Pete Sessions,1
+HSRU,F000450,majority,01791,Vice Chair,Virginia Foxx,2
+HSRU,C001053,majority,01742,,Tom Cole,3
+HSRU,W000810,majority,02008,,Rob Woodall,4
+HSRU,B001248,majority,01751,,Michael C. Burgess,5
+HSRU,S001187,majority,02047,,Steve Stivers,6
+HSRU,C001093,majority,02121,,Doug Collins,7
+HSRU,B001289,majority,02197,,Bradley Byrne,8
+HSRU,N000189,majority,02275,,Dan Newhouse,9
+HSRU,S000480,minority,01069,Ranking Member,Louise McIntosh Slaughter,1
+HSRU,M000312,minority,01504,,James P. McGovern,2
+HSRU,H000324,minority,00511,,Alcee L. Hastings,3
+HSRU,P000598,minority,01910,,Jared Polis,4
+HSJU05,M001179,majority,02053,Chair,Tom Marino,1
+HSJU05,F000460,majority,02067,Vice Chair,Blake Farenthold,2
+HSJU05,I000056,majority,01640,,Darrell E. Issa,3
+HSJU05,C001093,majority,02121,,Doug Collins,4
+HSJU05,W000820,majority,02232,,Mimi Walters,5
+HSJU05,R000601,majority,02268,,John Ratcliffe,6
+HSJU05,T000475,majority,02250,,David A. Trott,7
+HSJU05,B001293,majority,02249,,Mike Bishop,8
+HSJU05,J000288,minority,01843,Ranking Member,"Henry C. ""Hank"" Johnson Jr.",1
+HSJU05,D000617,minority,02096,,Suzan K. DelBene,2
+HSJU05,J000294,minority,02149,,Hakeem S. Jeffries,3
+HSJU05,C001084,minority,02055,,David N. Cicilline,4
+HSJU05,P000608,minority,02113,,Scott H. Peters,5
+HSBA04,L000569,majority,01931,Chair,Blaine Luetkemeyer,1
+HSBA04,W000796,majority,01779,Vice Chair,Lynn A. Westmoreland,2
+HSBA04,R000487,majority,00998,,Edward R. Royce,3
+HSBA04,G000548,majority,01737,,Scott Garrett,4
+HSBA04,P000588,majority,01738,,Stevan Pearce,5
+HSBA04,P000599,majority,01915,,Bill Posey,6
+HSBA04,H001060,majority,02069,,Robert Hurt,7
+HSBA04,S001187,majority,02047,,Steve Stivers,8
+HSBA04,R000593,majority,02003,,Dennis A. Ross,9
+HSBA04,B001282,majority,02131,,Andy Barr,10
+HSBA04,R000598,majority,02158,,Keith J. Rothfus,11
+HSBA04,W000816,majority,02165,,Roger Williams,12
+HSBA04,H001036,majority,01749,Ex Officio,Jeb Hensarling,13
+HSBA04,C001061,minority,01790,Ranking Member,Emanuel Cleaver,1
+HSBA04,V000081,minority,01184,,Nydia M. Velázquez,2
+HSBA04,C001037,minority,01564,,Michael E. Capuano,3
+HSBA04,C001049,minority,01654,,Wm. Lacy Clay,4
+HSBA04,G000553,minority,01803,,Al Green,5
+HSBA04,M001160,minority,01811,,Gwen Moore,6
+HSBA04,E000288,minority,01857,,Keith Ellison,7
+HSBA04,B001281,minority,02153,,Joyce Beatty,8
+HSBA04,K000380,minority,02134,,Daniel T. Kildee,9
+HSBA04,W000187,minority,01205,Ex Officio,Maxine Waters,10
+SSGA19,L000575,majority,02050,Chairman,James Lankford,1
+SSGA19,M000303,majority,00754,,John McCain,2
+SSGA19,P000449,majority,00924,,Rob Portman,3
+SSGA19,E000285,majority,01542,,Michael B. Enzi,4
+SSGA19,E000295,majority,02283,,Joni Ernst,5
+SSGA19,S001197,majority,02289,,Ben Sasse,6
+SSGA19,J000293,majority,02086,Ex Officio,Ron Johnson,7
+SSGA19,H001069,minority,02174,Ranking Member,Heidi Heitkamp,1
+SSGA19,T000464,minority,01829,,Jon Tester,2
+SSGA19,B001288,minority,02194,,Cory A. Booker,3
+SSGA19,P000595,minority,01929,,Gary Peters,4
+SSGA19,C000174,minority,00179,Ex Officio,Thomas R. Carper,5
+SSCM,T000250,majority,01534,Chairman,John Thune,1
+SSCM,W000437,majority,01226,,Roger F. Wicker,2
+SSCM,B000575,majority,01464,,Roy Blunt,3
+SSCM,R000595,majority,02084,,Marco Rubio,4
+SSCM,A000368,majority,02075,,Kelly Ayotte,5
+SSCM,C001098,majority,02175,,Ted Cruz,6
+SSCM,F000463,majority,02179,,Deb Fischer,7
+SSCM,M000934,majority,01507,,Jerry Moran,8
+SSCM,S001198,majority,02290,,Daniel Sullivan,9
+SSCM,J000293,majority,02086,,Ron Johnson,10
+SSCM,H001041,majority,01863,,Dean Heller,11
+SSCM,G000562,majority,01998,,Cory Gardner,12
+SSCM,D000618,majority,02138,,Steve Daines,13
+SSCM,N000032,minority,00859,Ranking Member,Bill Nelson,1
+SSCM,C000127,minority,00172,,Maria Cantwell,2
+SSCM,M001170,minority,01820,,Claire McCaskill,3
+SSCM,K000367,minority,01826,,Amy Klobuchar,4
+SSCM,B001277,minority,02076,,Richard Blumenthal,5
+SSCM,S001194,minority,02173,,Brian Schatz,6
+SSCM,M000133,minority,00735,,Edward J. Markey,7
+SSCM,B001288,minority,02194,,Cory A. Booker,8
+SSCM,U000039,minority,01567,,Tom Udall,9
+SSCM,M001183,minority,01983,,"Joe Manchin, III",10
+SSCM,P000595,minority,01929,,Gary Peters,11
+SSAP08,C001047,majority,01676,Chairman,Shelley Moore Capito,1
+SSAP08,K000360,majority,01647,,Mark Kirk,2
+SSAP08,M000934,majority,01507,,Jerry Moran,3
+SSAP08,C000567,majority,00213,Ex Officio,Thad Cochran,4
+SSAP08,S001194,minority,02173,Ranking Member,Brian Schatz,1
+SSAP08,M001169,minority,01837,,Christopher Murphy,2
+SSAP08,M000702,minority,00802,Ex Officio,Barbara A. Mikulski,3
+SLIN,B001135,majority,00153,Chairman,Richard Burr,1
+SLIN,R000584,majority,01896,,James E. Risch,2
+SLIN,C000542,majority,00209,,Daniel Coats,3
+SLIN,R000595,majority,02084,,Marco Rubio,4
+SLIN,C001035,majority,01541,,Susan M. Collins,5
+SLIN,B000575,majority,01464,,Roy Blunt,6
+SLIN,L000575,majority,02050,,James Lankford,7
+SLIN,C001095,majority,02098,,Tom Cotton,8
+SLIN,M000355,majority,01395,Ex Officio,Mitch McConnell,9
+SLIN,M000303,majority,00754,Ex Officio,John McCain,10
+SLIN,F000062,minority,01332,Vice Chairman,Dianne Feinstein,1
+SLIN,W000779,minority,01247,,Ron Wyden,2
+SLIN,M000702,minority,00802,,Barbara A. Mikulski,3
+SLIN,W000805,minority,01897,,Mark R. Warner,4
+SLIN,H001046,minority,01937,,Martin Heinrich,5
+SLIN,K000383,minority,02185,,"Angus S. King, Jr.",6
+SLIN,H001042,minority,01844,,Mazie K. Hirono,7
+SLIN,R000146,minority,00952,Ex Officio,Harry Reid,8
+SLIN,R000122,minority,00949,Ex Officio,Jack Reed,9
+SSFI14,P000449,majority,00924,Chairman,Rob Portman,1
+SSFI14,C000880,majority,00250,,Mike Crapo,2
+SSFI14,B001135,majority,00153,,Richard Burr,3
+SSFI14,H000338,majority,01351,Ex Officio,Orrin G. Hatch,4
+SSFI14,W000805,minority,01897,Ranking Member,Mark R. Warner,1
+SSFI14,W000779,minority,01247,Ex Officio,Ron Wyden,2
+HSAP07,C001053,majority,01742,Chair,Tom Cole,1
+HSAP07,S001148,majority,01590,,Michael K. Simpson,2
+HSAP07,W000809,majority,01991,Vice Chair,Steve Womack,3
+HSAP07,F000459,majority,02061,,"Charles J. ""Chuck"" Fleischmann",4
+HSAP07,H001052,majority,02026,,Andy Harris,5
+HSAP07,R000591,majority,01986,,Martha Roby,6
+HSAP07,D000604,majority,01799,,Charles W. Dent,7
+HSAP07,R000589,majority,02068,,E. Scott Rigell,8
+HSAP07,D000216,minority,00281,Ranking Member,Rosa L. DeLauro,1
+HSAP07,R000486,minority,00997,,Lucille Roybal-Allard,2
+HSAP07,L000551,minority,01501,,Barbara Lee,3
+HSAP07,F000043,minority,00371,,Chaka Fattah,4
+SSAP19,K000360,majority,01647,Chairman,Mark Kirk,1
+SSAP19,M000355,majority,01395,,Mitch McConnell,2
+SSAP19,M001153,majority,01694,,Lisa Murkowski,3
+SSAP19,H001061,majority,02079,,John Hoeven,4
+SSAP19,C001035,majority,01541,,Susan M. Collins,5
+SSAP19,B001236,majority,01687,,John Boozman,6
+SSAP19,C001047,majority,01676,,Shelley Moore Capito,7
+SSAP19,C001075,majority,01925,,Bill Cassidy,8
+SSAP19,C000567,majority,00213,Ex Officio,Thad Cochran,9
+SSAP19,T000464,minority,01829,Ranking Member,Jon Tester,1
+SSAP19,M001111,minority,01409,,Patty Murray,2
+SSAP19,R000122,minority,00949,,Jack Reed,3
+SSAP19,U000039,minority,01567,,Tom Udall,4
+SSAP19,S001194,minority,02173,,Brian Schatz,5
+SSAP19,B001230,minority,01558,,Tammy Baldwin,6
+SSAP19,M001169,minority,01837,,Christopher Murphy,7
+SSAP19,M000702,minority,00802,Ex Officio,Barbara A. Mikulski,8
+SSCM22,R000595,majority,02084,Chairman,Marco Rubio,1
+SSCM22,W000437,majority,01226,,Roger F. Wicker,2
+SSCM22,A000368,majority,02075,,Kelly Ayotte,3
+SSCM22,C001098,majority,02175,,Ted Cruz,4
+SSCM22,S001198,majority,02290,,Daniel Sullivan,5
+SSCM22,J000293,majority,02086,,Ron Johnson,6
+SSCM22,T000250,majority,01534,Ex Officio,John Thune,7
+SSCM22,B001288,minority,02194,Ranking Member,Cory A. Booker,1
+SSCM22,C000127,minority,00172,,Maria Cantwell,2
+SSCM22,B001277,minority,02076,,Richard Blumenthal,3
+SSCM22,M000133,minority,00735,,Edward J. Markey,4
+SSCM22,S001194,minority,02173,,Brian Schatz,5
+SSCM22,P000595,minority,01929,,Gary Peters,6
+SSCM22,N000032,minority,00859,Ex Officio,Bill Nelson,7
+HSAS29,R000575,majority,01704,Chair,Mike Rogers,1
+HSAS29,F000448,majority,01707,,Trent Franks,2
+HSAS29,L000564,majority,01834,Vice Chair,Doug Lamborn,3
+HSAS29,C001077,majority,01912,,Mike Coffman,4
+HSAS29,B001274,majority,01987,,Mo Brooks,5
+HSAS29,B001283,majority,02155,,Jim Bridenstine,6
+HSAS29,F000445,majority,01683,,J. Randy Forbes,7
+HSAS29,B001250,majority,01753,,Rob Bishop,8
+HSAS29,T000463,majority,01741,,Michael R. Turner,9
+HSAS29,F000456,majority,01924,,John Fleming,10
+HSAS29,C000754,minority,00231,Ranking Member,Jim Cooper,1
+HSAS29,S000030,minority,01522,,Loretta Sanchez,2
+HSAS29,L000560,minority,01675,,Rick Larsen,3
+HSAS29,G000559,minority,01973,,John Garamendi,4
+HSAS29,T000473,minority,02240,,Mark Takai,5
+HSAS29,A000373,minority,02257,,Brad Ashford,6
+HSAS29,A000371,minority,02229,,Pete Aguilar,7
+HSJU03,I000056,majority,01640,Chair,Darrell E. Issa,1
+HSJU03,C001093,majority,02121,Vice Chair,Doug Collins,2
+HSJU03,S000244,majority,01041,,F. James Sensenbrenner Jr.,3
+HSJU03,S000583,majority,01075,,Lamar Smith,4
+HSJU03,C000266,majority,00186,,Steve Chabot,5
+HSJU03,F000445,majority,01683,,J. Randy Forbes,6
+HSJU03,F000448,majority,01707,,Trent Franks,7
+HSJU03,J000289,majority,01868,,Jim Jordan,8
+HSJU03,P000592,majority,01802,,Ted Poe,9
+HSJU03,C001076,majority,01956,,Jason Chaffetz,10
+HSJU03,M001179,majority,02053,,Tom Marino,11
+HSJU03,F000460,majority,02067,,Blake Farenthold,12
+HSJU03,D000621,majority,02116,,Ron DeSantis,13
+HSJU03,W000820,majority,02232,,Mimi Walters,14
+HSJU03,N000002,minority,00850,Ranking Member,Jerrold Nadler,1
+HSJU03,C001080,minority,01970,,Judy Chu,2
+HSJU03,D000610,minority,01976,,Theodore E. Deutch,3
+HSJU03,B001270,minority,01996,,Karen Bass,4
+HSJU03,R000588,minority,02023,,Cedric L. Richmond,5
+HSJU03,D000617,minority,02096,,Suzan K. DelBene,6
+HSJU03,J000294,minority,02149,,Hakeem S. Jeffries,7
+HSJU03,C001084,minority,02055,,David N. Cicilline,8
+HSJU03,P000608,minority,02113,,Scott H. Peters,9
+HSJU03,L000397,minority,00701,,Zoe Lofgren,10
+HSJU03,C001068,minority,01878,,Steve Cohen,11
+HSJU03,J000288,minority,01843,,"Henry C. ""Hank"" Johnson Jr.",12
+SSCM25,F000463,majority,02179,Chairman,Deb Fischer,1
+SSCM25,W000437,majority,01226,,Roger F. Wicker,2
+SSCM25,B000575,majority,01464,,Roy Blunt,3
+SSCM25,A000368,majority,02075,,Kelly Ayotte,4
+SSCM25,M000934,majority,01507,,Jerry Moran,5
+SSCM25,S001198,majority,02290,,Daniel Sullivan,6
+SSCM25,J000293,majority,02086,,Ron Johnson,7
+SSCM25,H001041,majority,01863,,Dean Heller,8
+SSCM25,D000618,majority,02138,,Steve Daines,9
+SSCM25,T000250,majority,01534,Ex Officio,John Thune,10
+SSCM25,B001288,minority,02194,Ranking Member,Cory A. Booker,1
+SSCM25,C000127,minority,00172,,Maria Cantwell,2
+SSCM25,M001170,minority,01820,,Claire McCaskill,3
+SSCM25,K000367,minority,01826,,Amy Klobuchar,4
+SSCM25,B001277,minority,02076,,Richard Blumenthal,5
+SSCM25,S001194,minority,02173,,Brian Schatz,6
+SSCM25,M000133,minority,00735,,Edward J. Markey,7
+SSCM25,U000039,minority,01567,,Tom Udall,8
+SSCM25,N000032,minority,00859,Ex Officio,Bill Nelson,9
+SSBK08,T000461,majority,02085,Chairman,Patrick J. Toomey,1
+SSBK08,C000880,majority,00250,,Mike Crapo,2
+SSBK08,H001041,majority,01863,,Dean Heller,3
+SSBK08,R000605,majority,02288,,Mike Rounds,4
+SSBK08,C001071,majority,01825,,Bob Corker,5
+SSBK08,V000127,majority,01609,,David Vitter,6
+SSBK08,K000360,majority,01647,,Mark Kirk,7
+SSBK08,S001184,majority,02056,,Tim Scott,8
+SSBK08,S000320,majority,01049,Ex Officio,Richard C. Shelby,9
+SSBK08,M001176,minority,01900,Ranking Member,Jeff Merkley,1
+SSBK08,R000122,minority,00949,,Jack Reed,2
+SSBK08,S000148,minority,01036,,Charles E. Schumer,3
+SSBK08,M000639,minority,00791,,Robert Menendez,4
+SSBK08,W000805,minority,01897,,Mark R. Warner,5
+SSBK08,W000817,minority,02182,,Elizabeth Warren,6
+SSBK08,D000607,minority,01850,,Joe Donnelly,7
+SSBK08,B000944,minority,00136,Ex Officio,Sherrod Brown,8
+HSFA,R000487,majority,00998,Chair,Edward R. Royce,1
+HSFA,S000522,majority,01071,,Christopher H. Smith,2
+HSFA,R000435,majority,00985,,Ileana Ros-Lehtinen,3
+HSFA,R000409,majority,00979,,Dana Rohrabacher,4
+HSFA,C000266,majority,00186,,Steve Chabot,5
+HSFA,W000795,majority,01688,,Joe Wilson,6
+HSFA,M001157,majority,01804,,Michael T. McCaul,7
+HSFA,P000592,majority,01802,,Ted Poe,8
+HSFA,S000018,majority,01009,,Matt Salmon,9
+HSFA,I000056,majority,01640,,Darrell E. Issa,10
+HSFA,M001179,majority,02053,,Tom Marino,11
+HSFA,D000615,majority,02057,,Jeff Duncan,12
+HSFA,B001274,majority,01987,,Mo Brooks,13
+HSFA,C001094,majority,02103,,Paul Cook,14
+HSFA,W000814,majority,02161,,Randy K. Weber Sr.,15
+HSFA,P000605,majority,02157,,Scott Perry,16
+HSFA,D000621,majority,02116,,Ron DeSantis,17
+HSFA,M001187,majority,02142,,Mark Meadows,18
+HSFA,Y000065,majority,02115,,Ted S. Yoho,19
+HSFA,C001102,majority,02200,,Curt Clawson,20
+HSFA,D000616,majority,02062,,Scott DesJarlais,21
+HSFA,R000587,majority,02073,,Reid J. Ribble,22
+HSFA,T000475,majority,02250,,David A. Trott,23
+HSFA,Z000017,majority,02261,,Lee M. Zeldin,24
+HSFA,D000625,majority,02293,,Daniel M. Donovan Jr.,25
+HSFA,E000179,minority,00344,Ranking Member,Eliot L. Engel,1
+HSFA,S000344,minority,01526,,Brad Sherman,2
+HSFA,M001137,minority,01506,,Gregory W. Meeks,3
+HSFA,S001165,minority,01818,,Albio Sires,4
+HSFA,C001078,minority,01959,,Gerald E. Connolly,5
+HSFA,D000610,minority,01976,,Theodore E. Deutch,6
+HSFA,H001038,minority,01794,,Brian Higgins,7
+HSFA,B001270,minority,01996,,Karen Bass,8
+HSFA,K000375,minority,02025,,William R. Keating,9
+HSFA,C001084,minority,02055,,David N. Cicilline,10
+HSFA,G000556,minority,01914,,Alan Grayson,11
+HSFA,B001287,minority,02102,,Ami Bera,12
+HSFA,L000579,minority,02111,,Alan S. Lowenthal,13
+HSFA,M001188,minority,02148,,Grace Meng,14
+HSFA,F000462,minority,02119,,Lois Frankel,15
+HSFA,G000571,minority,02122,,Tulsi Gabbard,16
+HSFA,C001091,minority,02163,,Joaquin Castro,17
+HSFA,K000385,minority,02190,,Robin L. Kelly,18
+HSFA,B001296,minority,02267,,Brendan F. Boyle,19
+SSAS,M000303,majority,00754,Chairman,John McCain,1
+SSAS,I000024,majority,00583,,James M. Inhofe,2
+SSAS,S001141,majority,01548,,Jeff Sessions,3
+SSAS,W000437,majority,01226,,Roger F. Wicker,4
+SSAS,A000368,majority,02075,,Kelly Ayotte,5
+SSAS,F000463,majority,02179,,Deb Fischer,6
+SSAS,C001095,majority,02098,,Tom Cotton,7
+SSAS,R000605,majority,02288,,Mike Rounds,8
+SSAS,E000295,majority,02283,,Joni Ernst,9
+SSAS,T000476,majority,02291,,Thom Tillis,10
+SSAS,S001198,majority,02290,,Daniel Sullivan,11
+SSAS,L000577,majority,02080,,Mike Lee,12
+SSAS,G000359,majority,00452,,Lindsey Graham,13
+SSAS,C001098,majority,02175,,Ted Cruz,14
+SSAS,R000122,minority,00949,Ranking Member,Jack Reed,1
+SSAS,N000032,minority,00859,,Bill Nelson,2
+SSAS,M001170,minority,01820,,Claire McCaskill,3
+SSAS,M001183,minority,01983,,"Joe Manchin, III",4
+SSAS,S001181,minority,01901,,Jeanne Shaheen,5
+SSAS,G000555,minority,01866,,Kirsten E. Gillibrand,6
+SSAS,B001277,minority,02076,,Richard Blumenthal,7
+SSAS,D000607,minority,01850,,Joe Donnelly,8
+SSAS,H001042,minority,01844,,Mazie K. Hirono,9
+SSAS,K000384,minority,02176,,Tim Kaine,10
+SSAS,K000383,minority,02185,,"Angus S. King, Jr.",11
+SSAS,H001046,minority,01937,,Martin Heinrich,12
+JSEC,C000542,majority,00209,Chairman,Daniel Coats,1
+JSEC,L000577,majority,02080,,Mike Lee,2
+JSEC,C001095,majority,02098,,Tom Cotton,3
+JSEC,S001197,majority,02289,,Ben Sasse,4
+JSEC,C001098,majority,02175,,Ted Cruz,5
+JSEC,C001075,majority,01925,,Bill Cassidy,6
+JSEC,K000367,minority,01826,,Amy Klobuchar,1
+JSEC,C001070,minority,01828,,"Robert P. Casey, Jr.",2
+JSEC,H001046,minority,01937,,Martin Heinrich,3
+JSEC,P000595,minority,01929,,Gary Peters,4
+JSEC,B000755,majority,01468,Chairman,Kevin Brady,1
+JSEC,D000614,majority,02072,,Sean P. Duffy,3
+JSEC,A000367,majority,02029,,Justin Amash,4
+JSEC,P000594,majority,01930,,Erik Paulsen,5
+JSEC,H001051,majority,02044,,Richard L. Hanna,6
+JSEC,M000087,minority,00729,,Carolyn B. Maloney,1
+JSEC,S000030,minority,01522,,Loretta Sanchez,2
+JSEC,C000984,minority,00256,,Elijah E. Cummings,3
+JSEC,D000620,minority,02133,,John K. Delaney,4
+HSGO25,H001073,majority,02269,Chair,Will Hurd,1
+HSGO25,F000460,majority,02067,Vice Chair,Blake Farenthold,2
+HSGO25,W000819,majority,02255,,Mark Walker,3
+HSGO25,B001294,majority,02241,,Rod Blum,4
+HSGO25,G000565,majority,01992,,Paul A. Gosar,5
+HSGO25,K000385,minority,02190,Ranking Member,Robin L. Kelly,1
+HSGO25,C001078,minority,01959,,Gerald E. Connolly,2
+HSGO25,D000622,minority,02123,,Tammy Duckworth,3
+HSGO25,L000582,minority,02230,,Ted Lieu,4
+HSIF,U000031,majority,01177,Chair,Fred Upton,1
+HSIF,B000213,majority,00062,,Joe Barton,2
+HSIF,W000413,majority,01222,,Ed Whitfield,3
+HSIF,S000364,majority,01527,,John Shimkus,4
+HSIF,P000373,majority,01514,,Joseph R. Pitts,5
+HSIF,W000791,majority,01596,,Greg Walden,6
+HSIF,M001151,majority,01744,,Tim Murphy,7
+HSIF,B001248,majority,01751,,Michael C. Burgess,8
+HSIF,B001243,majority,01748,Vice Chair,Marsha Blackburn,9
+HSIF,S001176,majority,01892,,Steve Scalise,10
+HSIF,L000566,majority,01885,,Robert E. Latta,11
+HSIF,M001159,majority,01809,,Cathy McMorris Rodgers,12
+HSIF,H001045,majority,01933,,Gregg Harper,13
+HSIF,L000567,majority,01936,,Leonard Lance,14
+HSIF,G000558,majority,01922,,Brett Guthrie,15
+HSIF,O000168,majority,01955,,Pete Olson,16
+HSIF,M001180,majority,02074,,David B. McKinley,17
+HSIF,P000602,majority,02022,,Mike Pompeo,18
+HSIF,K000378,majority,02014,,Adam Kinzinger,19
+HSIF,G000568,majority,02070,,H. Morgan Griffith,20
+HSIF,B001257,majority,01838,,Gus M. Bilirakis,21
+HSIF,J000292,majority,02046,,Bill Johnson,22
+HSIF,L000576,majority,02033,,Billy Long,23
+HSIF,E000291,majority,02036,,Renee L. Ellmers,24
+HSIF,B001275,majority,02018,,Larry Bucshon,25
+HSIF,F000461,majority,02065,,Bill Flores,26
+HSIF,B001284,majority,02129,,Susan W. Brooks,27
+HSIF,M001190,majority,02156,,Markwayne Mullin,28
+HSIF,H001067,majority,02140,,Richard Hudson,29
+HSIF,C001092,majority,02151,,Chris Collins,30
+HSIF,C001096,majority,02144,,Kevin Cramer,31
+HSIF,P000034,minority,00887,Ranking Member,Frank Pallone Jr.,1
+HSIF,R000515,minority,01003,,Bobby L. Rush,2
+HSIF,E000215,minority,00355,,Anna G. Eshoo,3
+HSIF,E000179,minority,00344,,Eliot L. Engel,4
+HSIF,G000410,minority,00462,,Gene Green,5
+HSIF,D000197,minority,01479,,Diana DeGette,6
+HSIF,C001036,minority,01471,,Lois Capps,7
+HSIF,D000482,minority,00316,,Michael F. Doyle,8
+HSIF,S001145,minority,01588,,Janice D. Schakowsky,9
+HSIF,B001251,minority,01761,,G. K. Butterfield,10
+HSIF,M001163,minority,01814,,Doris O. Matsui,11
+HSIF,C001066,minority,01839,,Kathy Castor,12
+HSIF,S001168,minority,01854,,John P. Sarbanes,13
+HSIF,M001166,minority,01832,,Jerry McNerney,14
+HSIF,W000800,minority,01879,,Peter Welch,15
+HSIF,L000570,minority,01939,,Ben Ray Luján,16
+HSIF,T000469,minority,01942,,Paul Tonko,17
+HSIF,Y000062,minority,01853,,John A. Yarmuth,18
+HSIF,C001067,minority,01864,,Yvette D. Clarke,19
+HSIF,L000565,minority,01846,,David Loebsack,20
+HSIF,S001180,minority,01950,,Kurt Schrader,21
+HSIF,K000379,minority,02172,,Joseph P. Kennedy III,22
+HSIF,C001097,minority,02107,,Tony Cárdenas,23
+HSII06,L000564,majority,01834,Chair,Doug Lamborn,1
+HSII06,G000552,majority,01801,,Louie Gohmert,2
+HSII06,W000804,majority,01886,,Robert J. Wittman,3
+HSII06,F000456,majority,01924,,John Fleming,4
+HSII06,T000467,majority,01952,,Glenn Thompson,5
+HSII06,L000571,majority,01960,,Cynthia M. Lummis,6
+HSII06,B001271,majority,02027,,Dan Benishek,7
+HSII06,D000615,majority,02057,,Jeff Duncan,8
+HSII06,G000565,majority,01992,,Paul A. Gosar,9
+HSII06,L000573,majority,02011,,Raúl R. Labrador,10
+HSII06,C001094,majority,02103,,Paul Cook,11
+HSII06,G000577,majority,02245,,Garret Graves,12
+HSII06,Z000018,majority,02254,,Ryan K. Zinke,13
+HSII06,H001071,majority,02237,,Jody B. Hice,14
+HSII06,M001195,majority,02277,,Alexander X. Mooney,15
+HSII06,H001070,majority,02260,,Cresent Hardy,16
+HSII06,B001250,majority,01753,Ex Officio,Rob Bishop,17
+HSII06,L000579,minority,02111,Ranking Member,Alan S. Lowenthal,1
+HSII06,C001059,minority,01774,,Jim Costa,2
+HSII06,T000465,minority,01884,,Niki Tsongas,3
+HSII06,C001090,minority,02159,,Matt Cartwright,4
+HSII06,B001292,minority,02272,,Donald S. Beyer Jr.,5
+HSII06,G000574,minority,02226,,Ruben Gallego,6
+HSII06,C001036,minority,01471,,Lois Capps,7
+HSII06,P000598,minority,01910,,Jared Polis,8
+HSII06,G000551,minority,01708,Ex Officio,Raúl M. Grijalva,15
+HSWM06,R000580,majority,01848,Chair,Peter J. Roskam,1
+HSWM06,K000376,majority,02051,,Mike Kelly,2
+HSWM06,M001181,majority,02052,,Patrick Meehan,3
+HSWM06,H001065,majority,02143,,George Holding,4
+HSWM06,S001195,majority,02191,,Jason Smith,5
+HSWM06,N000184,majority,02060,,Kristi L. Noem,6
+HSWM06,R000586,majority,02048,,James B. Renacci,7
+HSWM06,L000287,minority,00688,Ranking Member,John Lewis,1
+HSWM06,C001038,minority,01604,,Joseph Crowley,2
+HSWM06,R000053,minority,00944,,Charles B. Rangel,3
+HSWM06,D000399,minority,00303,,Lloyd Doggett,4
+HSGO28,L000571,majority,01960,Chair,Cynthia M. Lummis,1
+HSGO28,G000565,majority,01992,,Paul A. Gosar,2
+HSGO28,F000460,majority,02067,,Blake Farenthold,3
+HSGO28,B001297,majority,02233,Vice Chair,Ken Buck,4
+HSGO28,R000604,majority,02265,,Steve Russell,5
+HSGO28,P000609,majority,02221,,Gary J. Palmer,6
+HSGO28,L000581,minority,02252,Ranking Member,Brenda L. Lawrence,1
+HSGO28,C001090,minority,02159,,Matt Cartwright,2
+HSGO28,P000610,minority,02274,,Stacey E. Plaskett,3
+HSGO28,C000754,minority,00231,,Jim Cooper,4
+HSIF03,W000413,majority,01222,Chair,Ed Whitfield,1
+HSIF03,O000168,majority,01955,Vice Chair,Pete Olson,2
+HSIF03,S000364,majority,01527,,John Shimkus,3
+HSIF03,P000373,majority,01514,,Joseph R. Pitts,4
+HSIF03,L000566,majority,01885,,Robert E. Latta,5
+HSIF03,H001045,majority,01933,,Gregg Harper,6
+HSIF03,M001180,majority,02074,,David B. McKinley,7
+HSIF03,P000602,majority,02022,,Mike Pompeo,8
+HSIF03,K000378,majority,02014,,Adam Kinzinger,9
+HSIF03,G000568,majority,02070,,H. Morgan Griffith,10
+HSIF03,J000292,majority,02046,,Bill Johnson,11
+HSIF03,L000576,majority,02033,,Billy Long,12
+HSIF03,E000291,majority,02036,,Renee L. Ellmers,13
+HSIF03,F000461,majority,02065,,Bill Flores,14
+HSIF03,M001190,majority,02156,,Markwayne Mullin,15
+HSIF03,H001067,majority,02140,,Richard Hudson,16
+HSIF03,B000213,majority,00062,,Joe Barton,17
+HSIF03,U000031,majority,01177,Ex Officio,Fred Upton,18
+HSIF03,R000515,minority,01003,Ranking Member,Bobby L. Rush,1
+HSIF03,M001166,minority,01832,,Jerry McNerney,2
+HSIF03,T000469,minority,01942,,Paul Tonko,3
+HSIF03,E000179,minority,00344,,Eliot L. Engel,4
+HSIF03,G000410,minority,00462,,Gene Green,5
+HSIF03,C001036,minority,01471,,Lois Capps,6
+HSIF03,D000482,minority,00316,,Michael F. Doyle,7
+HSIF03,C001066,minority,01839,,Kathy Castor,8
+HSIF03,S001168,minority,01854,,John P. Sarbanes,9
+HSIF03,W000800,minority,01879,,Peter Welch,10
+HSIF03,Y000062,minority,01853,,John A. Yarmuth,11
+HSIF03,L000565,minority,01846,,David Loebsack,12
+HSIF03,P000034,minority,00887,Ex Officio,Frank Pallone Jr.,13
+HSIF02,M001151,majority,01744,Chair,Tim Murphy,1
+HSIF02,M001180,majority,02074,Vice Chair,David B. McKinley,2
+HSIF02,B001248,majority,01751,,Michael C. Burgess,3
+HSIF02,B001243,majority,01748,,Marsha Blackburn,4
+HSIF02,G000568,majority,02070,,H. Morgan Griffith,5
+HSIF02,B001275,majority,02018,,Larry Bucshon,6
+HSIF02,F000461,majority,02065,,Bill Flores,7
+HSIF02,B001284,majority,02129,,Susan W. Brooks,8
+HSIF02,M001190,majority,02156,,Markwayne Mullin,9
+HSIF02,H001067,majority,02140,,Richard Hudson,10
+HSIF02,C001092,majority,02151,,Chris Collins,11
+HSIF02,C001096,majority,02144,,Kevin Cramer,12
+HSIF02,B000213,majority,00062,,Joe Barton,13
+HSIF02,U000031,majority,01177,Ex Officio,Fred Upton,14
+HSIF02,D000197,minority,01479,Ranking Member,Diana DeGette,1
+HSIF02,S001145,minority,01588,,Janice D. Schakowsky,2
+HSIF02,C001066,minority,01839,,Kathy Castor,3
+HSIF02,T000469,minority,01942,,Paul Tonko,4
+HSIF02,Y000062,minority,01853,,John A. Yarmuth,5
+HSIF02,C001067,minority,01864,,Yvette D. Clarke,6
+HSIF02,K000379,minority,02172,,Joseph P. Kennedy III,7
+HSIF02,G000410,minority,00462,,Gene Green,8
+HSIF02,W000800,minority,01879,,Peter Welch,9
+HSIF02,P000034,minority,00887,Ex Officio,Frank Pallone Jr.,10
+HSWM05,R000578,majority,01810,Chair,David G. Reichert,1
+HSWM05,T000462,majority,01664,,Patrick J. Tiberi,2
+HSWM05,P000594,majority,01930,,Erik Paulsen,3
+HSWM05,R000585,majority,01982,,Tom Reed,4
+HSWM05,Y000064,majority,02019,,Todd C. Young,5
+HSWM05,K000376,majority,02051,,Mike Kelly,6
+HSWM05,R000586,majority,02048,,James B. Renacci,7
+HSWM05,N000015,minority,00854,Ranking Member,Richard E. Neal,1
+HSWM05,L000557,minority,01583,,John B. Larson,2
+HSWM05,S001156,minority,01757,,Linda T. Sánchez,3
+HSWM05,T000460,minority,01593,,Mike Thompson,4
+HSBA,H001036,majority,01749,Chair,Jeb Hensarling,1
+HSBA,K000210,majority,00635,,Peter T. King,2
+HSBA,R000487,majority,00998,,Edward R. Royce,3
+HSBA,L000491,majority,00711,,Frank D. Lucas,4
+HSBA,G000548,majority,01737,,Scott Garrett,5
+HSBA,N000182,majority,01758,,Randy Neugebauer,6
+HSBA,M001156,majority,01792,Vice Chair,Patrick T. McHenry,7
+HSBA,P000588,majority,01738,,Stevan Pearce,8
+HSBA,P000599,majority,01915,,Bill Posey,9
+HSBA,F000451,majority,01797,,Michael G. Fitzpatrick,10
+HSBA,W000796,majority,01779,,Lynn A. Westmoreland,11
+HSBA,L000569,majority,01931,,Blaine Luetkemeyer,12
+HSBA,H001058,majority,02028,,Bill Huizenga,13
+HSBA,D000614,majority,02072,,Sean P. Duffy,14
+HSBA,H001060,majority,02069,,Robert Hurt,15
+HSBA,S001187,majority,02047,,Steve Stivers,16
+HSBA,F000458,majority,02064,,Stephen Lee Fincher,17
+HSBA,S001188,majority,01981,,Marlin A. Stutzman,18
+HSBA,M001182,majority,02059,,Mick Mulvaney,19
+HSBA,H001059,majority,02015,,Randy Hultgren,20
+HSBA,R000593,majority,02003,,Dennis A. Ross,21
+HSBA,P000606,majority,02141,,Robert Pittenger,22
+HSBA,W000812,majority,02137,,Ann Wagner,23
+HSBA,B001282,majority,02131,,Andy Barr,24
+HSBA,R000598,majority,02158,,Keith J. Rothfus,25
+HSBA,M001189,majority,02130,,Luke Messer,26
+HSBA,S001183,majority,01994,,David Schweikert,27
+HSBA,G000570,majority,02038,,Frank C. Guinta,28
+HSBA,T000470,majority,01997,,Scott R. Tipton,29
+HSBA,W000816,majority,02165,,Roger Williams,30
+HSBA,P000611,majority,02247,,Bruce Poliquin,31
+HSBA,L000584,majority,02271,,Mia B. Love,32
+HSBA,H001072,majority,02223,,J. French Hill,33
+HSBA,E000294,majority,02253,,Tom Emmer,34
+HSBA,W000187,minority,01205,Ranking Member,Maxine Waters,1
+HSBA,M000087,minority,00729,,Carolyn B. Maloney,2
+HSBA,V000081,minority,01184,,Nydia M. Velázquez,3
+HSBA,S000344,minority,01526,,Brad Sherman,4
+HSBA,M001137,minority,01506,,Gregory W. Meeks,5
+HSBA,C001037,minority,01564,,Michael E. Capuano,6
+HSBA,H000636,minority,01490,,Rubén Hinojosa,7
+HSBA,C001049,minority,01654,,Wm. Lacy Clay,8
+HSBA,L000562,minority,01686,,Stephen F. Lynch,9
+HSBA,S001157,minority,01722,,David Scott,10
+HSBA,G000553,minority,01803,,Al Green,11
+HSBA,C001061,minority,01790,,Emanuel Cleaver,12
+HSBA,M001160,minority,01811,,Gwen Moore,13
+HSBA,E000288,minority,01857,,Keith Ellison,14
+HSBA,P000593,minority,01835,,Ed Perlmutter,15
+HSBA,H001047,minority,01913,,James A. Himes,16
+HSBA,C001083,minority,01999,,John C. Carney Jr.,17
+HSBA,S001185,minority,01988,,Terri A. Sewell,18
+HSBA,F000454,minority,01888,,Bill Foster,19
+HSBA,K000380,minority,02134,,Daniel T. Kildee,20
+HSBA,M001191,minority,02117,,Patrick Murphy,21
+HSBA,D000620,minority,02133,,John K. Delaney,22
+HSBA,S001191,minority,02099,,Kyrsten Sinema,23
+HSBA,B001281,minority,02153,,Joyce Beatty,24
+HSBA,H001064,minority,02170,,Denny Heck,25
+HSBA,V000130,minority,02112,,Juan Vargas,26
+HSHM05,K000210,majority,00635,Chair,Peter T. King,1
+HSHM05,M001150,majority,01731,,Candice S. Miller,2
+HSHM05,B001269,majority,02054,,Lou Barletta,3
+HSHM05,K000386,majority,02264,,John Katko,4
+HSHM05,H001073,majority,02269,,Will Hurd,5
+HSHM05,M001157,majority,01804,Ex Officio,Michael T. McCaul,6
+HSHM05,H001038,minority,01794,Ranking Member,Brian Higgins,1
+HSHM05,K000375,minority,02025,,William R. Keating,2
+HSHM05,V000132,minority,02167,,Filemon Vela,3
+HSHM05,T000193,minority,01151,Ex Officio,Bennie G. Thompson,4
+SSHR,A000360,majority,01695,Chairman,Lamar Alexander,1
+SSHR,E000285,majority,01542,,Michael B. Enzi,2
+SSHR,B001135,majority,00153,,Richard Burr,3
+SSHR,I000055,majority,01608,,Johnny Isakson,4
+SSHR,P000603,majority,02082,,Rand Paul,5
+SSHR,C001035,majority,01541,,Susan M. Collins,6
+SSHR,M001153,majority,01694,,Lisa Murkowski,7
+SSHR,K000360,majority,01647,,Mark Kirk,8
+SSHR,S001184,majority,02056,,Tim Scott,9
+SSHR,H000338,majority,01351,,Orrin G. Hatch,10
+SSHR,R000307,majority,00968,,Pat Roberts,11
+SSHR,C001075,majority,01925,,Bill Cassidy,12
+SSHR,M001111,minority,01409,Ranking Member,Patty Murray,1
+SSHR,M000702,minority,00802,,Barbara A. Mikulski,2
+SSHR,S000033,minority,01010,,Bernard Sanders,3
+SSHR,C001070,minority,01828,,"Robert P. Casey, Jr.",4
+SSHR,F000457,minority,01969,,Al Franken,5
+SSHR,B001267,minority,01965,,Michael F. Bennet,6
+SSHR,W000802,minority,01823,,Sheldon Whitehouse,7
+SSHR,B001230,minority,01558,,Tammy Baldwin,8
+SSHR,M001169,minority,01837,,Christopher Murphy,9
+SSHR,W000817,minority,02182,,Elizabeth Warren,10
+HSSY16,B001291,majority,02270,Chair,Brian Babin,1
+HSSY16,R000409,majority,00979,,Dana Rohrabacher,2
+HSSY16,L000491,majority,00711,,Frank D. Lucas,3
+HSSY16,M001157,majority,01804,,Michael T. McCaul,4
+HSSY16,B001274,majority,01987,Vice Chair,Mo Brooks,5
+HSSY16,P000599,majority,01915,,Bill Posey,6
+HSSY16,B001283,majority,02155,,Jim Bridenstine,7
+HSSY16,J000292,majority,02046,,Bill Johnson,8
+HSSY16,K000387,majority,02228,,Stephen Knight,9
+HSSY16,S000583,majority,01075,Ex Officio,Lamar Smith,10
+HSSY16,E000290,minority,01894,Ranking Member,Donna F. Edwards,1
+HSSY16,B001287,minority,02102,,Ami Bera,2
+HSSY16,L000397,minority,00701,,Zoe Lofgren,3
+HSSY16,P000593,minority,01835,,Ed Perlmutter,4
+HSSY16,V000131,minority,02166,,Marc A. Veasey,5
+HSSY16,B001292,minority,02272,,Donald S. Beyer Jr.,6
+HSSY16,J000126,minority,00599,Ex Officio,Eddie Bernice Johnson,7
+HSAS26,W000795,majority,01688,Chair,Joe Wilson,1
+HSAS26,K000363,majority,01733,,John Kline,2
+HSAS26,S001154,majority,01681,,Bill Shuster,3
+HSAS26,H001048,majority,01909,,Duncan Hunter,4
+HSAS26,N000185,majority,02001,,Richard B. Nugent,5
+HSAS26,Z000018,majority,02254,,Ryan K. Zinke,6
+HSAS26,F000448,majority,01707,Vice Chair,Trent Franks,7
+HSAS26,L000564,majority,01834,,Doug Lamborn,8
+HSAS26,B001274,majority,01987,,Mo Brooks,9
+HSAS26,B001289,majority,02197,,Bradley Byrne,10
+HSAS26,S001196,majority,02263,,Elise M. Stefanik,11
+HSAS26,L000559,minority,01668,Ranking Member,James R. Langevin,1
+HSAS26,C000754,minority,00231,,Jim Cooper,2
+HSAS26,G000559,minority,01973,,John Garamendi,3
+HSAS26,C001091,minority,02163,,Joaquin Castro,4
+HSAS26,V000131,minority,02166,,Marc A. Veasey,5
+HSAS26,N000188,minority,02202,,Donald Norcross,6
+HSAS26,A000373,minority,02257,,Brad Ashford,7
+HSAS26,A000371,minority,02229,,Pete Aguilar,8
+HSHM09,P000605,majority,02157,Chair,Scott Perry,1
+HSHM09,D000615,majority,02057,,Jeff Duncan,2
+HSHM09,C001102,majority,02200,,Curt Clawson,3
+HSHM09,C001103,majority,02236,,"Earl L. ""Buddy"" Carter",4
+HSHM09,L000583,majority,02238,,Barry Loudermilk,5
+HSHM09,M001157,majority,01804,Ex Officio,Michael T. McCaul,6
+HSHM09,W000822,minority,02259,Ranking Member,Bonnie Watson Coleman,1
+HSHM09,R000588,minority,02023,,Cedric L. Richmond,2
+HSHM09,T000474,minority,02231,,Norma J. Torres,3
+HSHM09,T000193,minority,01151,Ex Officio,Bennie G. Thompson,4
+HSJU01,G000566,majority,02058,Chair,Trey Gowdy,1
+HSJU01,L000573,majority,02011,Vice Chair,Raúl R. Labrador,2
+HSJU01,S000583,majority,01075,,Lamar Smith,3
+HSJU01,K000362,majority,01724,,Steve King,4
+HSJU01,B001297,majority,02233,,Ken Buck,5
+HSJU01,R000601,majority,02268,,John Ratcliffe,6
+HSJU01,T000475,majority,02250,,David A. Trott,7
+HSJU01,L000397,minority,00701,Ranking Member,Zoe Lofgren,1
+HSJU01,G000535,minority,00478,,Luis V. Gutiérrez,2
+HSJU01,J000032,minority,00588,,Sheila Jackson Lee,3
+HSJU01,P000596,minority,01953,,Pedro R. Pierluisi,4
+HSWM03,B001255,majority,01787,Chair,Charles W. Boustany Jr.,1
+HSWM03,Y000064,majority,02019,,Todd C. Young,2
+HSWM03,N000184,majority,02060,,Kristi L. Noem,3
+HSWM03,M001181,majority,02052,,Patrick Meehan,4
+HSWM03,H001065,majority,02143,,George Holding,5
+HSWM03,S001195,majority,02191,,Jason Smith,6
+HSWM03,D000613,majority,02013,,Robert J. Dold,7
+HSWM03,D000399,minority,00303,Ranking Member,Lloyd Doggett,1
+HSWM03,L000287,minority,00688,,John Lewis,2
+HSWM03,C001038,minority,01604,,Joseph Crowley,3
+HSWM03,D000096,minority,01477,,Danny K. Davis,4
+SSAS15,A000368,majority,02075,Chairman,Kelly Ayotte,1
+SSAS15,I000024,majority,00583,,James M. Inhofe,2
+SSAS15,F000463,majority,02179,,Deb Fischer,3
+SSAS15,R000605,majority,02288,,Mike Rounds,4
+SSAS15,E000295,majority,02283,,Joni Ernst,5
+SSAS15,L000577,majority,02080,,Mike Lee,6
+SSAS15,M000303,majority,00754,Ex Officio,John McCain,7
+SSAS15,K000384,minority,02176,Ranking Member,Tim Kaine,1
+SSAS15,M001170,minority,01820,,Claire McCaskill,2
+SSAS15,S001181,minority,01901,,Jeanne Shaheen,3
+SSAS15,H001042,minority,01844,,Mazie K. Hirono,4
+SSAS15,H001046,minority,01937,,Martin Heinrich,5
+SSAS15,R000122,minority,00949,Ex Officio,Jack Reed,6
+HSJU10,F000448,majority,01707,Chair,Trent Franks,1
+HSJU10,D000621,majority,02116,Vice Chair,Ron DeSantis,2
+HSJU10,K000362,majority,01724,,Steve King,3
+HSJU10,G000552,majority,01801,,Louie Gohmert,4
+HSJU10,J000289,majority,01868,,Jim Jordan,5
+HSJU10,C001068,minority,01878,Ranking Member,Steve Cohen,1
+HSJU10,N000002,minority,00850,,Jerrold Nadler,2
+HSJU10,D000610,minority,01976,,Theodore E. Deutch,3
+SSAF,R000307,majority,00968,Chairman,Pat Roberts,1
+SSAF,C000567,majority,00213,,Thad Cochran,2
+SSAF,M000355,majority,01395,,Mitch McConnell,3
+SSAF,B001236,majority,01687,,John Boozman,4
+SSAF,H001061,majority,02079,,John Hoeven,5
+SSAF,P000612,majority,02286,,David Perdue,6
+SSAF,E000295,majority,02283,,Joni Ernst,7
+SSAF,T000476,majority,02291,,Thom Tillis,8
+SSAF,S001197,majority,02289,,Ben Sasse,9
+SSAF,G000386,majority,00457,,Chuck Grassley,10
+SSAF,T000250,majority,01534,,John Thune,11
+SSAF,S000770,minority,01531,Ranking Member,Debbie Stabenow,1
+SSAF,L000174,minority,01383,,Patrick J. Leahy,2
+SSAF,B000944,minority,00136,,Sherrod Brown,3
+SSAF,K000367,minority,01826,,Amy Klobuchar,4
+SSAF,B001267,minority,01965,,Michael F. Bennet,5
+SSAF,G000555,minority,01866,,Kirsten E. Gillibrand,6
+SSAF,D000607,minority,01850,,Joe Donnelly,7
+SSAF,H001069,minority,02174,,Heidi Heitkamp,8
+SSAF,C001070,minority,01828,,"Robert P. Casey, Jr.",9
+HSFA18,P000592,majority,01802,Chair,Ted Poe,1
+HSFA18,W000795,majority,01688,,Joe Wilson,2
+HSFA18,I000056,majority,01640,,Darrell E. Issa,3
+HSFA18,C001094,majority,02103,,Paul Cook,4
+HSFA18,P000605,majority,02157,,Scott Perry,5
+HSFA18,R000587,majority,02073,,Reid J. Ribble,6
+HSFA18,Z000017,majority,02261,,Lee M. Zeldin,7
+HSFA18,K000375,minority,02025,Ranking Member,William R. Keating,1
+HSFA18,S000344,minority,01526,,Brad Sherman,2
+HSFA18,H001038,minority,01794,,Brian Higgins,3
+HSFA18,C001091,minority,02163,,Joaquin Castro,4
+HSFA18,K000385,minority,02190,,Robin L. Kelly,5
+HSAS03,W000804,majority,01886,Chair,Robert J. Wittman,1
+HSAS03,B001250,majority,01753,,Rob Bishop,2
+HSAS03,H001053,majority,02032,,Vicky Hartzler,3
+HSAS03,S001189,majority,02009,,Austin Scott,4
+HSAS03,S001196,majority,02263,Vice Chair,Elise M. Stefanik,5
+HSAS03,L000554,majority,00699,,Frank A. LoBiondo,6
+HSAS03,R000575,majority,01704,,Mike Rogers,7
+HSAS03,G000564,majority,02043,,Christopher P. Gibson,8
+HSAS03,N000185,majority,02001,,Richard B. Nugent,9
+HSAS03,W000815,majority,02152,,Brad R. Wenstrup,10
+HSAS03,G000546,majority,01656,,Sam Graves,11
+HSAS03,R000604,majority,02265,,Steve Russell,12
+HSAS03,B001245,minority,01723,Ranking Member,Madeleine Z. Bordallo,1
+HSAS03,D000598,minority,01641,,Susan A. Davis,2
+HSAS03,C001069,minority,01836,,Joe Courtney,3
+HSAS03,C001091,minority,02163,,Joaquin Castro,4
+HSAS03,D000622,minority,02123,,Tammy Duckworth,5
+HSAS03,P000608,minority,02113,,Scott H. Peters,6
+HSAS03,G000571,minority,02122,,Tulsi Gabbard,7
+HSAS03,O000170,minority,02162,,Beto O'Rourke,8
+HSAS03,G000574,minority,02226,,Ruben Gallego,9
+HLIG03,R000583,majority,01916,Chair,Thomas J. Rooney,1
+HLIG03,L000554,majority,00699,,Frank A. LoBiondo,2
+HLIG03,H001055,majority,02040,,Joseph J. Heck,3
+HLIG03,T000463,majority,01741,,Michael R. Turner,4
+HLIG03,W000815,majority,02152,,Brad R. Wenstrup,5
+HLIG03,S001192,majority,02168,,Chris Stewart,6
+HLIG03,Q000023,minority,01967,Ranking Member,Mike Quigley,1
+HLIG03,S001185,minority,01988,,Terri A. Sewell,2
+HLIG03,C001072,minority,01889,,André Carson,3
+HLIG03,S001175,minority,01890,,Jackie Speier,4
+HSBA09,D000614,majority,02072,Chair,Sean P. Duffy,1
+HSBA09,F000451,majority,01797,Vice Chair,Michael G. Fitzpatrick,2
+HSBA09,K000210,majority,00635,,Peter T. King,3
+HSBA09,M001156,majority,01792,,Patrick T. McHenry,4
+HSBA09,H001060,majority,02069,,Robert Hurt,5
+HSBA09,F000458,majority,02064,,Stephen Lee Fincher,6
+HSBA09,M001182,majority,02059,,Mick Mulvaney,7
+HSBA09,H001059,majority,02015,,Randy Hultgren,8
+HSBA09,W000812,majority,02137,,Ann Wagner,9
+HSBA09,T000470,majority,01997,,Scott R. Tipton,10
+HSBA09,P000611,majority,02247,,Bruce Poliquin,11
+HSBA09,H001072,majority,02223,,J. French Hill,12
+HSBA09,H001036,majority,01749,Ex Officio,Jeb Hensarling,13
+HSBA09,G000553,minority,01803,Ranking Member,Al Green,1
+HSBA09,C001037,minority,01564,,Michael E. Capuano,2
+HSBA09,C001061,minority,01790,,Emanuel Cleaver,3
+HSBA09,E000288,minority,01857,,Keith Ellison,4
+HSBA09,D000620,minority,02133,,John K. Delaney,5
+HSBA09,B001281,minority,02153,,Joyce Beatty,6
+HSBA09,H001064,minority,02170,,Denny Heck,7
+HSBA09,S001191,minority,02099,,Kyrsten Sinema,8
+HSBA09,V000130,minority,02112,,Juan Vargas,9
+HSBA09,W000187,minority,01205,Ex Officio,Maxine Waters,10
+HSII24,Y000033,majority,01256,Chair,Don Young,1
+HSII24,B001271,majority,02027,,Dan Benishek,2
+HSII24,G000565,majority,01992,,Paul A. Gosar,3
+HSII24,L000578,majority,02100,,Doug LaMalfa,4
+HSII24,D000612,majority,01995,,Jeff Denham,5
+HSII24,C001094,majority,02103,,Paul Cook,6
+HSII24,R000600,majority,02222,,Aumua Amata Coleman Radewagen,7
+HSII24,B001250,majority,01753,Ex Officio,Rob Bishop,8
+HSII24,R000599,minority,02109,Ranking Member,Raul Ruiz,1
+HSII24,B001245,minority,01723,,Madeleine Z. Bordallo,2
+HSII24,S001177,minority,01962,,Gregorio Kilili Camacho Sablan,3
+HSII24,P000596,minority,01953,,Pedro R. Pierluisi,4
+HSII24,T000474,minority,02231,,Norma J. Torres,5
+HSII24,G000551,minority,01708,Ex Officio,Raúl M. Grijalva,6
+HSII15,G000552,majority,01801,Chair,Louie Gohmert,1
+HSII15,L000564,majority,01834,,Doug Lamborn,2
+HSII15,L000573,majority,02011,,Raúl R. Labrador,3
+HSII15,W000821,majority,02224,,Bruce Westerman,4
+HSII15,H001071,majority,02237,,Jody B. Hice,5
+HSII15,R000600,majority,02222,,Aumua Amata Coleman Radewagen,6
+HSII15,M001195,majority,02277,,Alexander X. Mooney,7
+HSII15,B001250,majority,01753,Ex Officio,Rob Bishop,9
+HSII15,D000624,minority,02251,Ranking Member,Debbie Dingell,1
+HSII15,H001068,minority,02101,,Jared Huffman,2
+HSII15,G000574,minority,02226,,Ruben Gallego,3
+HSII15,P000598,minority,01910,,Jared Polis,4
+HSII15,G000551,minority,01708,Ex Officio,Raúl M. Grijalva,7
+HSAS,T000238,majority,01155,Chair,Mac Thornberry,1
+HSAS,J000255,majority,00612,,Walter B. Jones,2
+HSAS,F000445,majority,01683,,J. Randy Forbes,3
+HSAS,M001144,majority,01685,,Jeff Miller,4
+HSAS,W000795,majority,01688,,Joe Wilson,5
+HSAS,L000554,majority,00699,,Frank A. LoBiondo,6
+HSAS,B001250,majority,01753,,Rob Bishop,7
+HSAS,T000463,majority,01741,,Michael R. Turner,8
+HSAS,K000363,majority,01733,,John Kline,9
+HSAS,R000575,majority,01704,,Mike Rogers,10
+HSAS,F000448,majority,01707,,Trent Franks,11
+HSAS,S001154,majority,01681,,Bill Shuster,12
+HSAS,C001062,majority,01805,,K. Michael Conaway,13
+HSAS,L000564,majority,01834,,Doug Lamborn,14
+HSAS,W000804,majority,01886,,Robert J. Wittman,15
+HSAS,H001048,majority,01909,,Duncan Hunter,16
+HSAS,F000456,majority,01924,,John Fleming,17
+HSAS,C001077,majority,01912,,Mike Coffman,18
+HSAS,G000564,majority,02043,,Christopher P. Gibson,19
+HSAS,H001053,majority,02032,,Vicky Hartzler,20
+HSAS,H001055,majority,02040,,Joseph J. Heck,21
+HSAS,S001189,majority,02009,,Austin Scott,22
+HSAS,B001274,majority,01987,,Mo Brooks,23
+HSAS,N000185,majority,02001,,Richard B. Nugent,24
+HSAS,C001094,majority,02103,,Paul Cook,25
+HSAS,B001283,majority,02155,,Jim Bridenstine,26
+HSAS,W000815,majority,02152,,Brad R. Wenstrup,27
+HSAS,W000813,majority,02128,,Jackie Walorski,28
+HSAS,B001289,majority,02197,,Bradley Byrne,29
+HSAS,G000546,majority,01656,,Sam Graves,30
+HSAS,Z000018,majority,02254,,Ryan K. Zinke,31
+HSAS,S001196,majority,02263,,Elise M. Stefanik,32
+HSAS,M001197,majority,02225,,Martha McSally,33
+HSAS,K000387,majority,02228,,Stephen Knight,34
+HSAS,M001193,majority,02258,,Thomas MacArthur,35
+HSAS,R000604,majority,02265,,Steve Russell,36
+HSAS,S000510,minority,01528,Ranking Member,Adam Smith,1
+HSAS,S000030,minority,01522,,Loretta Sanchez,2
+HSAS,B001227,minority,01469,,Robert A. Brady,3
+HSAS,D000598,minority,01641,,Susan A. Davis,4
+HSAS,L000559,minority,01668,,James R. Langevin,5
+HSAS,L000560,minority,01675,,Rick Larsen,6
+HSAS,C000754,minority,00231,,Jim Cooper,7
+HSAS,B001245,minority,01723,,Madeleine Z. Bordallo,8
+HSAS,C001069,minority,01836,,Joe Courtney,9
+HSAS,T000465,minority,01884,,Niki Tsongas,10
+HSAS,G000559,minority,01973,,John Garamendi,11
+HSAS,J000288,minority,01843,,"Henry C. ""Hank"" Johnson Jr.",12
+HSAS,S001175,minority,01890,,Jackie Speier,13
+HSAS,C001091,minority,02163,,Joaquin Castro,14
+HSAS,D000622,minority,02123,,Tammy Duckworth,15
+HSAS,P000608,minority,02113,,Scott H. Peters,16
+HSAS,V000131,minority,02166,,Marc A. Veasey,17
+HSAS,G000571,minority,02122,,Tulsi Gabbard,18
+HSAS,W000799,minority,01856,,Timothy J. Walz,19
+HSAS,O000170,minority,02162,,Beto O'Rourke,20
+HSAS,N000188,minority,02202,,Donald Norcross,21
+HSAS,G000574,minority,02226,,Ruben Gallego,22
+HSAS,T000473,minority,02240,,Mark Takai,23
+HSAS,G000575,minority,02234,,Gwen Graham,24
+HSAS,A000373,minority,02257,,Brad Ashford,25
+HSAS,M001196,minority,02246,,Seth Moulton,26
+HSAS,A000371,minority,02229,,Pete Aguilar,27
+HSSM25,C001107,majority,02235,Chair,Carlos Curbelo,1
+HSSM25,K000362,majority,01724,,Steve King,2
+HSSM25,L000569,majority,01931,,Blaine Luetkemeyer,3
+HSSM25,H001057,majority,02020,,Tim Huelskamp,4
+HSSM25,G000564,majority,02043,,Christopher P. Gibson,5
+HSSM25,B001290,majority,02203,,Dave Brat,6
+HSSM25,M001188,minority,02148,Ranking Member,Grace Meng,1
+HSIF17,B001248,majority,01751,Chair,Michael C. Burgess,1
+HSIF17,L000567,majority,01936,Vice Chair,Leonard Lance,2
+HSIF17,B001243,majority,01748,,Marsha Blackburn,3
+HSIF17,H001045,majority,01933,,Gregg Harper,4
+HSIF17,G000558,majority,01922,,Brett Guthrie,5
+HSIF17,O000168,majority,01955,,Pete Olson,6
+HSIF17,P000602,majority,02022,,Mike Pompeo,7
+HSIF17,K000378,majority,02014,,Adam Kinzinger,8
+HSIF17,B001257,majority,01838,,Gus M. Bilirakis,9
+HSIF17,B001284,majority,02129,,Susan W. Brooks,10
+HSIF17,M001190,majority,02156,,Markwayne Mullin,11
+HSIF17,U000031,majority,01177,Ex Officio,Fred Upton,12
+HSIF17,S001145,minority,01588,Ranking Member,Janice D. Schakowsky,1
+HSIF17,C001067,minority,01864,,Yvette D. Clarke,2
+HSIF17,K000379,minority,02172,,Joseph P. Kennedy III,3
+HSIF17,C001097,minority,02107,,Tony Cárdenas,4
+HSIF17,R000515,minority,01003,,Bobby L. Rush,5
+HSIF17,B001251,minority,01761,,G. K. Butterfield,6
+HSIF17,W000800,minority,01879,,Peter Welch,7
+HSIF17,P000034,minority,00887,Ex Officio,Frank Pallone Jr.,8
+HSAG22,S001189,majority,02009,Chair,Austin Scott,1
+HSAG22,G000289,majority,00446,,Bob Goodlatte,2
+HSAG22,L000491,majority,00711,,Frank D. Lucas,3
+HSAG22,N000182,majority,01758,,Randy Neugebauer,4
+HSAG22,R000575,majority,01704,,Mike Rogers,5
+HSAG22,L000578,majority,02100,,Doug LaMalfa,6
+HSAG22,D000619,majority,02126,,Rodney Davis,7
+HSAG22,K000388,majority,02294,,Trent Kelly,8
+HSAG22,S001157,minority,01722,Ranking Member,David Scott,1
+HSAG22,V000132,minority,02167,,Filemon Vela,2
+HSAG22,M001185,minority,02150,,Sean Patrick Maloney,3
+HSAG22,K000368,minority,01907,,Ann Kirkpatrick,4
+HSAG22,A000371,minority,02229,,Pete Aguilar,5
+SSAF13,B001236,majority,01687,Chairman,John Boozman,1
+SSAF13,C000567,majority,00213,,Thad Cochran,2
+SSAF13,H001061,majority,02079,,John Hoeven,3
+SSAF13,P000612,majority,02286,,David Perdue,4
+SSAF13,G000386,majority,00457,,Chuck Grassley,5
+SSAF13,T000250,majority,01534,,John Thune,6
+SSAF13,R000307,majority,00968,Ex Officio,Pat Roberts,7
+SSAF13,D000607,minority,01850,Ranking Member,Joe Donnelly,1
+SSAF13,H001069,minority,02174,,Heidi Heitkamp,2
+SSAF13,B000944,minority,00136,,Sherrod Brown,3
+SSAF13,G000555,minority,01866,,Kirsten E. Gillibrand,4
+SSAF13,B001267,minority,01965,,Michael F. Bennet,5
+SSAF13,S000770,minority,01531,Ex Officio,Debbie Stabenow,6
+HSJU08,S000244,majority,01041,Chair,F. James Sensenbrenner Jr.,1
+HSJU08,G000552,majority,01801,Vice Chair,Louie Gohmert,2
+HSJU08,C000266,majority,00186,,Steve Chabot,3
+HSJU08,F000445,majority,01683,,J. Randy Forbes,4
+HSJU08,P000592,majority,01802,,Ted Poe,5
+HSJU08,C001076,majority,01956,,Jason Chaffetz,6
+HSJU08,G000566,majority,02058,,Trey Gowdy,7
+HSJU08,L000573,majority,02011,,Raúl R. Labrador,8
+HSJU08,B001297,majority,02233,,Ken Buck,9
+HSJU08,B001293,majority,02249,,Mike Bishop,10
+HSJU08,J000032,minority,00588,Ranking Member,Sheila Jackson Lee,1
+HSJU08,P000596,minority,01953,,Pedro R. Pierluisi,2
+HSJU08,C001080,minority,01970,,Judy Chu,3
+HSJU08,G000535,minority,00478,,Luis V. Gutiérrez,4
+HSJU08,B001270,minority,01996,,Karen Bass,5
+HSJU08,R000588,minority,02023,,Cedric L. Richmond,6
+HSII13,F000456,majority,01924,Chair,John Fleming,1
+HSII13,Y000033,majority,01256,,Don Young,2
+HSII13,W000804,majority,01886,,Robert J. Wittman,3
+HSII13,M001177,majority,01908,,Tom McClintock,4
+HSII13,L000571,majority,01960,,Cynthia M. Lummis,5
+HSII13,D000615,majority,02057,,Jeff Duncan,6
+HSII13,G000565,majority,01992,,Paul A. Gosar,7
+HSII13,L000578,majority,02100,,Doug LaMalfa,8
+HSII13,D000612,majority,01995,,Jeff Denham,9
+HSII13,G000577,majority,02245,,Garret Graves,10
+HSII13,N000189,majority,02275,,Dan Newhouse,11
+HSII13,M001193,majority,02258,,Thomas MacArthur,12
+HSII13,B001250,majority,01753,Ex Officio,Rob Bishop,13
+HSII13,H001068,minority,02101,Ranking Member,Jared Huffman,1
+HSII13,N000179,minority,01602,,Grace F. Napolitano,2
+HSII13,C001059,minority,01774,,Jim Costa,3
+HSII13,G000574,minority,02226,,Ruben Gallego,4
+HSII13,B001245,minority,01723,,Madeleine Z. Bordallo,5
+HSII13,S001177,minority,01962,,Gregorio Kilili Camacho Sablan,6
+HSII13,R000599,minority,02109,,Raul Ruiz,7
+HSII13,L000579,minority,02111,,Alan S. Lowenthal,8
+HSII13,T000474,minority,02231,,Norma J. Torres,9
+HSII13,D000624,minority,02251,,Debbie Dingell,10
+HSII13,G000551,minority,01708,Ex Officio,Raúl M. Grijalva,11
+SSJU04,S001141,majority,01548,Chairman,Jeff Sessions,1
+SSJU04,V000127,majority,01609,,David Vitter,2
+SSJU04,P000612,majority,02286,,David Perdue,3
+SSJU04,G000386,majority,00457,,Chuck Grassley,4
+SSJU04,C001056,majority,01692,,John Cornyn,5
+SSJU04,L000577,majority,02080,,Mike Lee,6
+SSJU04,C001098,majority,02175,,Ted Cruz,7
+SSJU04,T000476,majority,02291,,Thom Tillis,8
+SSJU04,S000148,minority,01036,Ranking Member,Charles E. Schumer,1
+SSJU04,L000174,minority,01383,,Patrick J. Leahy,2
+SSJU04,F000062,minority,01332,,Dianne Feinstein,3
+SSJU04,D000563,minority,00326,,Richard J. Durbin,4
+SSJU04,K000367,minority,01826,,Amy Klobuchar,5
+SSJU04,F000457,minority,01969,,Al Franken,6
+SSJU04,B001277,minority,02076,,Richard Blumenthal,7
+SSJU22,G000359,majority,00452,Chairman,Lindsey Graham,1
+SSJU22,V000127,majority,01609,,David Vitter,2
+SSJU22,S001141,majority,01548,,Jeff Sessions,3
+SSJU22,C001056,majority,01692,,John Cornyn,4
+SSJU22,F000444,majority,01633,,Jeff Flake,5
+SSJU22,W000802,minority,01823,Ranking Member,Sheldon Whitehouse,1
+SSJU22,S000148,minority,01036,,Charles E. Schumer,2
+SSJU22,K000367,minority,01826,,Amy Klobuchar,3
+SSJU22,F000457,minority,01969,,Al Franken,4
+HSHM12,M001197,majority,02225,Chair,Martha McSally,1
+HSHM12,M001179,majority,02053,,Tom Marino,2
+HSHM12,W000819,majority,02255,,Mark Walker,3
+HSHM12,L000583,majority,02238,,Barry Loudermilk,4
+HSHM12,D000625,majority,02293,,Daniel M. Donovan Jr.,5
+HSHM12,M001157,majority,01804,Ex Officio,Michael T. McCaul,6
+HSHM12,P000604,minority,02097,Ranking Member,Donald M. Payne Jr.,1
+HSHM12,W000822,minority,02259,,Bonnie Watson Coleman,2
+HSHM12,R000602,minority,02262,,Kathleen M. Rice,3
+HSHM12,T000193,minority,01151,Ex Officio,Bennie G. Thompson,4
+HSED14,R000592,majority,02017,Chair,Todd Rokita,1
+HSED14,H001048,majority,01909,,Duncan Hunter,2
+HSED14,T000467,majority,01952,,Glenn Thompson,3
+HSED14,B001290,majority,02203,,Dave Brat,4
+HSED14,C001103,majority,02236,,"Earl L. ""Buddy"" Carter",5
+HSED14,B001293,majority,02249,,Mike Bishop,6
+HSED14,G000576,majority,02276,,Glenn Grothman,7
+HSED14,R000604,majority,02265,,Steve Russell,8
+HSED14,C001107,majority,02235,,Carlos Curbelo,9
+HSED14,F000455,minority,01895,Ranking Member,Marcia L. Fudge,1
+HSED14,D000598,minority,01641,,Susan A. Davis,2
+HSED14,G000551,minority,01708,,Raúl M. Grijalva,3
+HSED14,S001177,minority,01962,,Gregorio Kilili Camacho Sablan,4
+HSED14,B001278,minority,02092,,Suzanne Bonamici,5
+HSED14,T000472,minority,02110,,Mark Takano,6
+HSED14,C001101,minority,02196,,Katherine M. Clark,7
+HSAP02,F000372,majority,00414,Chair,Rodney P. Frelinghuysen,1
+HSAP02,G000377,majority,01487,Vice Chair,Kay Granger,2
+HSAP02,C001045,majority,01643,,Ander Crenshaw,3
+HSAP02,C000059,majority,00165,,Ken Calvert,4
+HSAP02,C001053,majority,01742,,Tom Cole,5
+HSAP02,W000809,majority,01991,,Steve Womack,6
+HSAP02,A000055,majority,01460,,Robert B. Aderholt,7
+HSAP02,C001051,majority,01752,,John R. Carter,8
+HSAP02,D000600,majority,01717,,Mario Diaz-Balart,9
+HSAP02,G000560,majority,01979,,Tom Graves,10
+HSAP02,V000108,minority,01188,Ranking Member,Peter J. Visclosky,1
+HSAP02,M001143,minority,01653,,Betty McCollum,2
+HSAP02,I000057,minority,01663,,Steve Israel,3
+HSAP02,R000577,minority,01756,,Tim Ryan,4
+HSAP02,R000576,minority,01728,,C. A. Dutch Ruppersberger,5
+HSAP02,K000009,minority,00616,,Marcy Kaptur,6
+SSEV10,C001047,majority,01676,Chairman,Shelley Moore Capito,1
+SSEV10,V000127,majority,01609,,David Vitter,2
+SSEV10,B001261,majority,01881,,John Barrasso,3
+SSEV10,C000880,majority,00250,,Mike Crapo,4
+SSEV10,S001141,majority,01548,,Jeff Sessions,5
+SSEV10,W000437,majority,01226,,Roger F. Wicker,6
+SSEV10,F000463,majority,02179,,Deb Fischer,7
+SSEV10,I000024,majority,00583,Ex Officio,James M. Inhofe,8
+SSEV10,C000174,minority,00179,Ranking Member,Thomas R. Carper,1
+SSEV10,C000141,minority,00174,,Benjamin L. Cardin,2
+SSEV10,S000033,minority,01010,,Bernard Sanders,3
+SSEV10,W000802,minority,01823,,Sheldon Whitehouse,4
+SSEV10,M001176,minority,01900,,Jeff Merkley,5
+SSEV10,M000133,minority,00735,,Edward J. Markey,6
+SSEV10,B000711,minority,00116,Ex Officio,Barbara Boxer,7
+SSAP01,M000934,majority,01507,Chairman,Jerry Moran,1
+SSAP01,B000575,majority,01464,,Roy Blunt,2
+SSAP01,C000567,majority,00213,,Thad Cochran,3
+SSAP01,M000355,majority,01395,,Mitch McConnell,4
+SSAP01,C001035,majority,01541,,Susan M. Collins,5
+SSAP01,H001061,majority,02079,,John Hoeven,6
+SSAP01,D000618,majority,02138,,Steve Daines,7
+SSAP01,M001176,minority,01900,Ranking Member,Jeff Merkley,1
+SSAP01,F000062,minority,01332,,Dianne Feinstein,2
+SSAP01,T000464,minority,01829,,Jon Tester,3
+SSAP01,U000039,minority,01567,,Tom Udall,4
+SSAP01,L000174,minority,01383,,Patrick J. Leahy,5
+SSAP01,B001230,minority,01558,,Tammy Baldwin,6
+SSAP01,M000702,minority,00802,Ex Officio,Barbara A. Mikulski,7
+HSGO,C001076,majority,01956,Chair,Jason Chaffetz,1
+HSGO,M000689,majority,00800,,John L. Mica,2
+HSGO,T000463,majority,01741,,Michael R. Turner,3
+HSGO,D000533,majority,00322,,John J. Duncan Jr.,4
+HSGO,J000289,majority,01868,,Jim Jordan,5
+HSGO,W000798,majority,01855,,Tim Walberg,6
+HSGO,A000367,majority,02029,,Justin Amash,7
+HSGO,G000565,majority,01992,,Paul A. Gosar,8
+HSGO,D000616,majority,02062,,Scott DesJarlais,9
+HSGO,G000566,majority,02058,,Trey Gowdy,10
+HSGO,F000460,majority,02067,,Blake Farenthold,11
+HSGO,L000571,majority,01960,,Cynthia M. Lummis,12
+HSGO,M001184,majority,02094,,Thomas Massie,13
+HSGO,M001187,majority,02142,,Mark Meadows,14
+HSGO,D000621,majority,02116,,Ron DeSantis,15
+HSGO,M001182,majority,02059,,Mick Mulvaney,16
+HSGO,B001297,majority,02233,,Ken Buck,17
+HSGO,W000819,majority,02255,,Mark Walker,18
+HSGO,B001294,majority,02241,,Rod Blum,19
+HSGO,H001071,majority,02237,,Jody B. Hice,20
+HSGO,R000604,majority,02265,,Steve Russell,21
+HSGO,C001103,majority,02236,,"Earl L. ""Buddy"" Carter",22
+HSGO,G000576,majority,02276,,Glenn Grothman,23
+HSGO,H001073,majority,02269,,Will Hurd,24
+HSGO,P000609,majority,02221,,Gary J. Palmer,25
+HSGO,C000984,minority,00256,Ranking Member,Elijah E. Cummings,1
+HSGO,M000087,minority,00729,,Carolyn B. Maloney,2
+HSGO,N000147,minority,00868,,Eleanor Holmes Norton,3
+HSGO,C001049,minority,01654,,Wm. Lacy Clay,4
+HSGO,L000562,minority,01686,,Stephen F. Lynch,5
+HSGO,C000754,minority,00231,,Jim Cooper,6
+HSGO,C001078,minority,01959,,Gerald E. Connolly,7
+HSGO,C001090,minority,02159,,Matt Cartwright,8
+HSGO,D000622,minority,02123,,Tammy Duckworth,9
+HSGO,K000385,minority,02190,,Robin L. Kelly,10
+HSGO,L000581,minority,02252,,Brenda L. Lawrence,11
+HSGO,L000582,minority,02230,,Ted Lieu,12
+HSGO,W000822,minority,02259,,Bonnie Watson Coleman,13
+HSGO,P000610,minority,02274,,Stacey E. Plaskett,14
+HSGO,D000623,minority,02227,,Mark DeSaulnier,15
+HSGO,B001296,minority,02267,,Brendan F. Boyle,16
+HSGO,W000800,minority,01879,,Peter Welch,17
+HSGO,L000580,minority,02146,,Michelle Lujan Grisham,18
+HSAP20,D000600,majority,01717,Chair,Mario Diaz-Balart,1
+HSAP20,J000295,majority,02154,,David P. Joyce,2
+HSAP20,C001048,majority,01670,,John Abney Culberson,3
+HSAP20,Y000063,majority,02021,Vice Chair,Kevin Yoder,4
+HSAP20,J000296,majority,02199,,David W. Jolly,5
+HSAP20,Y000066,majority,02242,,David Young,6
+HSAP20,J000297,majority,02278,,Evan H. Jenkins,7
+HSAP20,P000523,minority,00930,Ranking Member,David E. Price,1
+HSAP20,Q000023,minority,01967,,Mike Quigley,2
+HSAP20,R000577,minority,01756,,Tim Ryan,3
+HSAP20,C001063,minority,01807,,Henry Cuellar,4
+HSWM04,T000462,majority,01664,Chair,Patrick J. Tiberi,1
+HSWM04,N000181,majority,01710,,Devin Nunes,2
+HSWM04,B000755,majority,01468,,Kevin Brady,3
+HSWM04,R000578,majority,01810,,David G. Reichert,4
+HSWM04,B001260,majority,01840,,Vern Buchanan,5
+HSWM04,S001172,majority,01860,,Adrian Smith,6
+HSWM04,J000290,majority,01921,,Lynn Jenkins,7
+HSWM04,B001255,majority,01787,,Charles W. Boustany Jr.,8
+HSWM04,P000594,majority,01930,,Erik Paulsen,9
+HSWM04,M001158,majority,01806,,Kenny Marchant,10
+HSWM04,R000053,minority,00944,Ranking Member,Charles B. Rangel,1
+HSWM04,N000015,minority,00854,,Richard E. Neal,2
+HSWM04,B000574,minority,00099,,Earl Blumenauer,3
+HSWM04,K000188,minority,01498,,Ron Kind,4
+HSWM04,B000287,minority,00070,,Xavier Becerra,5
+HSWM04,P000096,minority,01510,,Bill Pascrell Jr.,6
+SSFR15,B001261,majority,01881,Chairman,John Barrasso,1
+SSFR15,P000612,majority,02286,,David Perdue,2
+SSFR15,R000584,majority,01896,,James E. Risch,3
+SSFR15,F000444,majority,01633,,Jeff Flake,4
+SSFR15,G000562,majority,01998,,Cory Gardner,5
+SSFR15,C001071,majority,01825,Ex Officio,Bob Corker,6
+SSFR15,U000039,minority,01567,Ranking Member,Tom Udall,1
+SSFR15,B000711,minority,00116,,Barbara Boxer,2
+SSFR15,S001181,minority,01901,,Jeanne Shaheen,3
+SSFR15,M000133,minority,00735,,Edward J. Markey,4
+SSFR15,C000141,minority,00174,Ex Officio,Benjamin L. Cardin,5
+SSAP14,H001061,majority,02079,Chairman,John Hoeven,1
+SSAP14,C000567,majority,00213,,Thad Cochran,2
+SSAP14,S000320,majority,01049,,Richard C. Shelby,3
+SSAP14,M001153,majority,01694,,Lisa Murkowski,4
+SSAP14,G000359,majority,00452,,Lindsey Graham,5
+SSAP14,C001075,majority,01925,,Bill Cassidy,6
+SSAP14,S001181,minority,01901,Ranking Member,Jeanne Shaheen,1
+SSAP14,L000174,minority,01383,,Patrick J. Leahy,2
+SSAP14,M001111,minority,01409,,Patty Murray,3
+SSAP14,T000464,minority,01829,,Jon Tester,4
+SSAP14,B001230,minority,01558,,Tammy Baldwin,5
+SSAP14,M000702,minority,00802,Ex Officio,Barbara A. Mikulski,6
+SPAG,C001035,majority,01541,Chairman,Susan M. Collins,1
+SPAG,H000338,majority,01351,,Orrin G. Hatch,2
+SPAG,K000360,majority,01647,,Mark Kirk,3
+SPAG,F000444,majority,01633,,Jeff Flake,4
+SPAG,S001184,majority,02056,,Tim Scott,5
+SPAG,C001071,majority,01825,,Bob Corker,6
+SPAG,H001041,majority,01863,,Dean Heller,7
+SPAG,C001095,majority,02098,,Tom Cotton,8
+SPAG,P000612,majority,02286,,David Perdue,9
+SPAG,T000476,majority,02291,,Thom Tillis,10
+SPAG,S001197,majority,02289,,Ben Sasse,11
+SPAG,M001170,minority,01820,Ranking Member,Claire McCaskill,1
+SPAG,N000032,minority,00859,,Bill Nelson,2
+SPAG,C001070,minority,01828,,"Robert P. Casey, Jr.",3
+SPAG,W000802,minority,01823,,Sheldon Whitehouse,4
+SPAG,G000555,minority,01866,,Kirsten E. Gillibrand,5
+SPAG,B001277,minority,02076,,Richard Blumenthal,6
+SPAG,D000607,minority,01850,,Joe Donnelly,7
+SPAG,W000817,minority,02182,,Elizabeth Warren,8
+SPAG,K000384,minority,02176,,Tim Kaine,9
+HSAS25,T000463,majority,01741,Chair,Michael R. Turner,1
+HSAS25,L000554,majority,00699,,Frank A. LoBiondo,2
+HSAS25,F000456,majority,01924,,John Fleming,3
+HSAS25,G000564,majority,02043,,Christopher P. Gibson,4
+HSAS25,C001094,majority,02103,Vice Chair,Paul Cook,5
+HSAS25,W000815,majority,02152,,Brad R. Wenstrup,6
+HSAS25,W000813,majority,02128,,Jackie Walorski,7
+HSAS25,G000546,majority,01656,,Sam Graves,8
+HSAS25,M001197,majority,02225,,Martha McSally,9
+HSAS25,K000387,majority,02228,,Stephen Knight,10
+HSAS25,M001193,majority,02258,,Thomas MacArthur,11
+HSAS25,J000255,majority,00612,,Walter B. Jones,12
+HSAS25,W000795,majority,01688,,Joe Wilson,13
+HSAS25,S000030,minority,01522,Ranking Member,Loretta Sanchez,1
+HSAS25,T000465,minority,01884,,Niki Tsongas,2
+HSAS25,J000288,minority,01843,,"Henry C. ""Hank"" Johnson Jr.",3
+HSAS25,D000622,minority,02123,,Tammy Duckworth,4
+HSAS25,V000131,minority,02166,,Marc A. Veasey,5
+HSAS25,W000799,minority,01856,,Timothy J. Walz,6
+HSAS25,N000188,minority,02202,,Donald Norcross,7
+HSAS25,G000574,minority,02226,,Ruben Gallego,8
+HSAS25,T000473,minority,02240,,Mark Takai,9
+HSAS25,G000575,minority,02234,,Gwen Graham,10
+HSAS25,M001196,minority,02246,,Seth Moulton,11
+SSJU23,F000444,majority,01633,Chairman,Jeff Flake,1
+SSJU23,H000338,majority,01351,,Orrin G. Hatch,2
+SSJU23,P000612,majority,02286,,David Perdue,3
+SSJU23,L000577,majority,02080,,Mike Lee,4
+SSJU23,T000476,majority,02291,,Thom Tillis,5
+SSJU23,G000359,majority,00452,,Lindsey Graham,6
+SSJU23,F000457,minority,01969,Ranking Member,Al Franken,1
+SSJU23,F000062,minority,01332,,Dianne Feinstein,2
+SSJU23,S000148,minority,01036,,Charles E. Schumer,3
+SSJU23,W000802,minority,01823,,Sheldon Whitehouse,4
+SSJU23,C001088,minority,01984,,Christopher A. Coons,5
+SSHR12,E000285,majority,01542,Chairman,Michael B. Enzi,1
+SSHR12,B001135,majority,00153,,Richard Burr,2
+SSHR12,C001035,majority,01541,,Susan M. Collins,3
+SSHR12,K000360,majority,01647,,Mark Kirk,4
+SSHR12,S001184,majority,02056,,Tim Scott,5
+SSHR12,H000338,majority,01351,,Orrin G. Hatch,6
+SSHR12,R000307,majority,00968,,Pat Roberts,7
+SSHR12,C001075,majority,01925,,Bill Cassidy,8
+SSHR12,M001153,majority,01694,,Lisa Murkowski,9
+SSHR12,A000360,majority,01695,Ex Officio,Lamar Alexander,10
+SSHR12,S000033,minority,01010,Ranking Member,Bernard Sanders,1
+SSHR12,M000702,minority,00802,,Barbara A. Mikulski,2
+SSHR12,B001267,minority,01965,,Michael F. Bennet,3
+SSHR12,W000802,minority,01823,,Sheldon Whitehouse,4
+SSHR12,B001230,minority,01558,,Tammy Baldwin,5
+SSHR12,M001169,minority,01837,,Christopher Murphy,6
+SSHR12,W000817,minority,02182,,Elizabeth Warren,7
+SSHR12,M001111,minority,01409,Ex Officio,Patty Murray,8
+HLIG04,H001055,majority,02040,Chair,Joseph J. Heck,1
+HLIG04,M001144,majority,01685,,Jeff Miller,2
+HLIG04,R000435,majority,00985,,Ileana Ros-Lehtinen,3
+HLIG04,T000463,majority,01741,,Michael R. Turner,4
+HLIG04,W000815,majority,02152,,Brad R. Wenstrup,5
+HLIG04,S001192,majority,02168,,Chris Stewart,6
+HLIG04,S001185,minority,01988,Ranking Member,Terri A. Sewell,1
+HLIG04,G000535,minority,00478,,Luis V. Gutiérrez,2
+HLIG04,S001193,minority,02104,,Eric Swalwell,3
+HLIG04,M001191,minority,02117,,Patrick Murphy,4
+SSEV15,S001198,majority,02290,Chairman,Daniel Sullivan,1
+SSEV15,B001261,majority,01881,,John Barrasso,2
+SSEV15,C001047,majority,01676,,Shelley Moore Capito,3
+SSEV15,B001236,majority,01687,,John Boozman,4
+SSEV15,S001141,majority,01548,,Jeff Sessions,5
+SSEV15,W000437,majority,01226,,Roger F. Wicker,6
+SSEV15,F000463,majority,02179,,Deb Fischer,7
+SSEV15,R000605,majority,02288,,Mike Rounds,8
+SSEV15,I000024,majority,00583,Ex Officio,James M. Inhofe,9
+SSEV15,W000802,minority,01823,Ranking Member,Sheldon Whitehouse,1
+SSEV15,C000174,minority,00179,,Thomas R. Carper,2
+SSEV15,C000141,minority,00174,,Benjamin L. Cardin,3
+SSEV15,S000033,minority,01010,,Bernard Sanders,4
+SSEV15,G000555,minority,01866,,Kirsten E. Gillibrand,5
+SSEV15,B001288,minority,02194,,Cory A. Booker,6
+SSEV15,M000133,minority,00735,,Edward J. Markey,7
+SSEV15,B000711,minority,00116,Ex Officio,Barbara Boxer,8
+HSIF18,S000364,majority,01527,Chair,John Shimkus,1
+HSIF18,H001045,majority,01933,Vice Chair,Gregg Harper,2
+HSIF18,W000413,majority,01222,,Ed Whitfield,3
+HSIF18,P000373,majority,01514,,Joseph R. Pitts,4
+HSIF18,M001151,majority,01744,,Tim Murphy,5
+HSIF18,L000566,majority,01885,,Robert E. Latta,6
+HSIF18,M001180,majority,02074,,David B. McKinley,7
+HSIF18,J000292,majority,02046,,Bill Johnson,8
+HSIF18,B001275,majority,02018,,Larry Bucshon,9
+HSIF18,F000461,majority,02065,,Bill Flores,10
+HSIF18,H001067,majority,02140,,Richard Hudson,11
+HSIF18,C001096,majority,02144,,Kevin Cramer,12
+HSIF18,U000031,majority,01177,Ex Officio,Fred Upton,13
+HSIF18,T000469,minority,01942,Ranking Member,Paul Tonko,1
+HSIF18,S001180,minority,01950,,Kurt Schrader,2
+HSIF18,G000410,minority,00462,,Gene Green,3
+HSIF18,D000197,minority,01479,,Diana DeGette,4
+HSIF18,C001036,minority,01471,,Lois Capps,5
+HSIF18,D000482,minority,00316,,Michael F. Doyle,6
+HSIF18,M001166,minority,01832,,Jerry McNerney,7
+HSIF18,C001097,minority,02107,,Tony Cárdenas,8
+HSIF18,P000034,minority,00887,Ex Officio,Frank Pallone Jr.,9
+SSAP16,S000320,majority,01049,Chairman,Richard C. Shelby,1
+SSAP16,A000360,majority,01695,,Lamar Alexander,2
+SSAP16,M001153,majority,01694,,Lisa Murkowski,3
+SSAP16,C001035,majority,01541,,Susan M. Collins,4
+SSAP16,G000359,majority,00452,,Lindsey Graham,5
+SSAP16,K000360,majority,01647,,Mark Kirk,6
+SSAP16,B001236,majority,01687,,John Boozman,7
+SSAP16,C001047,majority,01676,,Shelley Moore Capito,8
+SSAP16,L000575,majority,02050,,James Lankford,9
+SSAP16,C000567,majority,00213,Ex Officio,Thad Cochran,10
+SSAP16,M000702,minority,00802,Ranking Member,Barbara A. Mikulski,1
+SSAP16,L000174,minority,01383,,Patrick J. Leahy,2
+SSAP16,F000062,minority,01332,,Dianne Feinstein,3
+SSAP16,R000122,minority,00949,,Jack Reed,4
+SSAP16,S001181,minority,01901,,Jeanne Shaheen,5
+SSAP16,C001088,minority,01984,,Christopher A. Coons,6
+SSAP16,B001230,minority,01558,,Tammy Baldwin,7
+SSAP16,M001169,minority,01837,,Christopher Murphy,8
+SSFR14,P000612,majority,02286,Chairman,David Perdue,1
+SSFR14,R000584,majority,01896,,James E. Risch,2
+SSFR14,I000055,majority,01608,,Johnny Isakson,3
+SSFR14,J000293,majority,02086,,Ron Johnson,4
+SSFR14,P000603,majority,02082,,Rand Paul,5
+SSFR14,C001071,majority,01825,Ex Officio,Bob Corker,6
+SSFR14,K000384,minority,02176,Ranking Member,Tim Kaine,1
+SSFR14,B000711,minority,00116,,Barbara Boxer,2
+SSFR14,C001088,minority,01984,,Christopher A. Coons,3
+SSFR14,M001169,minority,01837,,Christopher Murphy,4
+SSFR14,C000141,minority,00174,Ex Officio,Benjamin L. Cardin,5
+HSJU,G000289,majority,00446,Chair,Bob Goodlatte,1
+HSJU,S000244,majority,01041,,F. James Sensenbrenner Jr.,2
+HSJU,S000583,majority,01075,,Lamar Smith,3
+HSJU,C000266,majority,00186,,Steve Chabot,4
+HSJU,I000056,majority,01640,,Darrell E. Issa,5
+HSJU,F000445,majority,01683,,J. Randy Forbes,6
+HSJU,K000362,majority,01724,,Steve King,7
+HSJU,F000448,majority,01707,,Trent Franks,8
+HSJU,G000552,majority,01801,,Louie Gohmert,9
+HSJU,J000289,majority,01868,,Jim Jordan,10
+HSJU,P000592,majority,01802,,Ted Poe,11
+HSJU,C001076,majority,01956,,Jason Chaffetz,12
+HSJU,M001179,majority,02053,,Tom Marino,13
+HSJU,G000566,majority,02058,,Trey Gowdy,14
+HSJU,L000573,majority,02011,,Raúl R. Labrador,15
+HSJU,F000460,majority,02067,,Blake Farenthold,16
+HSJU,C001093,majority,02121,,Doug Collins,17
+HSJU,D000621,majority,02116,,Ron DeSantis,18
+HSJU,W000820,majority,02232,,Mimi Walters,19
+HSJU,B001297,majority,02233,,Ken Buck,20
+HSJU,R000601,majority,02268,,John Ratcliffe,21
+HSJU,T000475,majority,02250,,David A. Trott,22
+HSJU,B001293,majority,02249,,Mike Bishop,23
+HSJU,C000714,minority,00229,Ranking Member,John Conyers Jr.,1
+HSJU,N000002,minority,00850,,Jerrold Nadler,2
+HSJU,L000397,minority,00701,,Zoe Lofgren,3
+HSJU,J000032,minority,00588,,Sheila Jackson Lee,4
+HSJU,C001068,minority,01878,,Steve Cohen,5
+HSJU,J000288,minority,01843,,"Henry C. ""Hank"" Johnson Jr.",6
+HSJU,P000596,minority,01953,,Pedro R. Pierluisi,7
+HSJU,C001080,minority,01970,,Judy Chu,8
+HSJU,D000610,minority,01976,,Theodore E. Deutch,9
+HSJU,G000535,minority,00478,,Luis V. Gutiérrez,10
+HSJU,B001270,minority,01996,,Karen Bass,11
+HSJU,R000588,minority,02023,,Cedric L. Richmond,12
+HSJU,D000617,minority,02096,,Suzan K. DelBene,13
+HSJU,J000294,minority,02149,,Hakeem S. Jeffries,14
+HSJU,C001084,minority,02055,,David N. Cicilline,15
+HSJU,P000608,minority,02113,,Scott H. Peters,16
+SSAS14,C001095,majority,02098,Chairman,Tom Cotton,1
+SSAS14,I000024,majority,00583,,James M. Inhofe,2
+SSAS14,S001141,majority,01548,,Jeff Sessions,3
+SSAS14,W000437,majority,01226,,Roger F. Wicker,4
+SSAS14,R000605,majority,02288,,Mike Rounds,5
+SSAS14,E000295,majority,02283,,Joni Ernst,6
+SSAS14,S001198,majority,02290,,Daniel Sullivan,7
+SSAS14,L000577,majority,02080,,Mike Lee,8
+SSAS14,M000303,majority,00754,Ex Officio,John McCain,9
+SSAS14,M001183,minority,01983,Ranking Member,"Joe Manchin, III",1
+SSAS14,M001170,minority,01820,,Claire McCaskill,2
+SSAS14,G000555,minority,01866,,Kirsten E. Gillibrand,3
+SSAS14,B001277,minority,02076,,Richard Blumenthal,4
+SSAS14,D000607,minority,01850,,Joe Donnelly,5
+SSAS14,H001042,minority,01844,,Mazie K. Hirono,6
+SSAS14,H001046,minority,01937,,Martin Heinrich,7
+SSAS14,R000122,minority,00949,Ex Officio,Jack Reed,8
+HSGO27,J000289,majority,01868,Chair,Jim Jordan,1
+HSGO27,W000798,majority,01855,,Tim Walberg,2
+HSGO27,D000616,majority,02062,,Scott DesJarlais,3
+HSGO27,G000566,majority,02058,,Trey Gowdy,4
+HSGO27,L000571,majority,01960,,Cynthia M. Lummis,5
+HSGO27,M001187,majority,02142,,Mark Meadows,6
+HSGO27,D000621,majority,02116,,Ron DeSantis,7
+HSGO27,M001182,majority,02059,Vice Chair,Mick Mulvaney,8
+HSGO27,W000819,majority,02255,,Mark Walker,9
+HSGO27,H001071,majority,02237,,Jody B. Hice,10
+HSGO27,C001103,majority,02236,,"Earl L. ""Buddy"" Carter",11
+HSGO27,C001090,minority,02159,Ranking Member,Matt Cartwright,1
+HSGO27,N000147,minority,00868,,Eleanor Holmes Norton,2
+HSGO27,B001296,minority,02267,,Brendan F. Boyle,3
+HSGO27,W000822,minority,02259,,Bonnie Watson Coleman,4
+HSGO27,D000623,minority,02227,,Mark DeSaulnier,5
+HSGO27,C000754,minority,00231,,Jim Cooper,6
+HSGO27,L000580,minority,02146,,Michelle Lujan Grisham,7
+HSFA07,D000615,majority,02057,Chair,Jeff Duncan,1
+HSFA07,S000522,majority,01071,,Christopher H. Smith,2
+HSFA07,R000435,majority,00985,,Ileana Ros-Lehtinen,3
+HSFA07,M001157,majority,01804,,Michael T. McCaul,4
+HSFA07,S000018,majority,01009,,Matt Salmon,5
+HSFA07,D000621,majority,02116,,Ron DeSantis,6
+HSFA07,Y000065,majority,02115,,Ted S. Yoho,7
+HSFA07,D000625,majority,02293,,Daniel M. Donovan Jr.,8
+HSFA07,S001165,minority,01818,Ranking Member,Albio Sires,1
+HSFA07,C001091,minority,02163,,Joaquin Castro,2
+HSFA07,K000385,minority,02190,,Robin L. Kelly,3
+HSFA07,M001137,minority,01506,,Gregory W. Meeks,4
+HSFA07,G000556,minority,01914,,Alan Grayson,5
+HSFA07,L000579,minority,02111,,Alan S. Lowenthal,6
+SSCM20,M000934,majority,01507,Chairman,Jerry Moran,1
+SSCM20,B000575,majority,01464,,Roy Blunt,2
+SSCM20,C001098,majority,02175,,Ted Cruz,3
+SSCM20,F000463,majority,02179,,Deb Fischer,4
+SSCM20,H001041,majority,01863,,Dean Heller,5
+SSCM20,G000562,majority,01998,,Cory Gardner,6
+SSCM20,D000618,majority,02138,,Steve Daines,7
+SSCM20,T000250,majority,01534,Ex Officio,John Thune,8
+SSCM20,B001277,minority,02076,Ranking Member,Richard Blumenthal,1
+SSCM20,M001170,minority,01820,,Claire McCaskill,2
+SSCM20,K000367,minority,01826,,Amy Klobuchar,3
+SSCM20,M000133,minority,00735,,Edward J. Markey,4
+SSCM20,B001288,minority,02194,,Cory A. Booker,5
+SSCM20,U000039,minority,01567,,Tom Udall,6
+SSCM20,N000032,minority,00859,Ex Officio,Bill Nelson,7
+HSPW05,L000554,majority,00699,Chair,Frank A. LoBiondo,1
+HSPW05,Y000033,majority,01256,,Don Young,2
+HSPW05,D000533,majority,00322,,John J. Duncan Jr.,3
+HSPW05,M000689,majority,00800,,John L. Mica,4
+HSPW05,G000546,majority,01656,,Sam Graves,5
+HSPW05,M001150,majority,01731,,Candice S. Miller,6
+HSPW05,F000460,majority,02067,,Blake Farenthold,7
+HSPW05,H001051,majority,02044,,Richard L. Hanna,8
+HSPW05,R000587,majority,02073,,Reid J. Ribble,9
+HSPW05,M001187,majority,02142,,Mark Meadows,10
+HSPW05,D000619,majority,02126,,Rodney Davis,11
+HSPW05,S000051,majority,01012,,Mark Sanford,12
+HSPW05,W000810,majority,02008,,Rob Woodall,13
+HSPW05,R000592,majority,02017,,Todd Rokita,14
+HSPW05,C001106,majority,02266,,Ryan A. Costello,15
+HSPW05,W000820,majority,02232,,Mimi Walters,16
+HSPW05,C001105,majority,02273,,Barbara Comstock,17
+HSPW05,C001107,majority,02235,,Carlos Curbelo,18
+HSPW05,Z000017,majority,02261,,Lee M. Zeldin,19
+HSPW05,S001154,majority,01681,Ex Officio,Bill Shuster,20
+HSPW05,L000560,minority,01675,Ranking Member,Rick Larsen,1
+HSPW05,N000147,minority,00868,,Eleanor Holmes Norton,2
+HSPW05,J000126,minority,00599,,Eddie Bernice Johnson,3
+HSPW05,L000563,minority,01781,,Daniel Lipinski,4
+HSPW05,C001072,minority,01889,,André Carson,5
+HSPW05,K000368,minority,01907,,Ann Kirkpatrick,6
+HSPW05,T000468,minority,01940,,Dina Titus,7
+HSPW05,M001185,minority,02150,,Sean Patrick Maloney,8
+HSPW05,B001286,minority,02127,,Cheri Bustos,9
+HSPW05,B001285,minority,02106,,Julia Brownley,10
+HSPW05,C001037,minority,01564,,Michael E. Capuano,11
+HSPW05,C001068,minority,01878,,Steve Cohen,12
+HSPW05,N000127,minority,00867,,Richard M. Nolan,13
+HSPW05,G000559,minority,01973,,John Garamendi,14
+HSPW05,D000191,minority,00279,Ex Officio,Peter A. DeFazio,15
+SSAP17,M001153,majority,01694,Chairman,Lisa Murkowski,1
+SSAP17,A000360,majority,01695,,Lamar Alexander,2
+SSAP17,C000567,majority,00213,,Thad Cochran,3
+SSAP17,B000575,majority,01464,,Roy Blunt,4
+SSAP17,H001061,majority,02079,,John Hoeven,5
+SSAP17,M000355,majority,01395,,Mitch McConnell,6
+SSAP17,D000618,majority,02138,,Steve Daines,7
+SSAP17,C001075,majority,01925,,Bill Cassidy,8
+SSAP17,U000039,minority,01567,Ranking Member,Tom Udall,1
+SSAP17,F000062,minority,01332,,Dianne Feinstein,2
+SSAP17,L000174,minority,01383,,Patrick J. Leahy,3
+SSAP17,R000122,minority,00949,,Jack Reed,4
+SSAP17,T000464,minority,01829,,Jon Tester,5
+SSAP17,M001176,minority,01900,,Jeff Merkley,6
+SSAP17,M000702,minority,00802,Ex Officio,Barbara A. Mikulski,7
+HLZI,G000566,majority,02058,Chair,Trey Gowdy,1
+HLZI,W000796,majority,01779,,Lynn A. Westmoreland,2
+HLZI,J000289,majority,01868,,Jim Jordan,3
+HLZI,R000580,majority,01848,,Peter J. Roskam,4
+HLZI,P000602,majority,02022,,Mike Pompeo,5
+HLZI,R000591,majority,01986,,Martha Roby,6
+HLZI,B001284,majority,02129,,Susan W. Brooks,7
+HLZI,C000984,minority,00256,Ranking Member,Elijah E. Cummings,1
+HLZI,S000510,minority,01528,,Adam Smith,2
+HLZI,S001150,minority,01635,,Adam B. Schiff,3
+HLZI,S001156,minority,01757,,Linda T. Sánchez,4
+HLZI,D000622,minority,02123,,Tammy Duckworth,5
+HSAP06,C000059,majority,00165,Chair,Ken Calvert,1
+HSAP06,S001148,majority,01590,Vice Chair,Michael K. Simpson,2
+HSAP06,C001053,majority,01742,,Tom Cole,3
+HSAP06,J000295,majority,02154,,David P. Joyce,4
+HSAP06,S001192,majority,02168,,Chris Stewart,5
+HSAP06,A000369,majority,02090,,Mark E. Amodei,6
+HSAP06,J000297,majority,02278,,Evan H. Jenkins,7
+HSAP06,M001143,minority,01653,Ranking Member,Betty McCollum,1
+HSAP06,P000597,minority,01927,,Chellie Pingree,2
+HSAP06,K000381,minority,02169,,Derek Kilmer,3
+HSAP06,I000057,minority,01663,,Steve Israel,4
+HSSM26,R000600,majority,02222,Chair,Aumua Amata Coleman Radewagen,1
+HSSM26,L000569,majority,01931,,Blaine Luetkemeyer,2
+HSSM26,R000597,majority,02160,,Tom Rice,3
+HSSM26,C001107,majority,02235,,Carlos Curbelo,4
+HSSM26,B001295,majority,02243,,Mike Bost,5
+HSSM26,M001196,minority,02246,Ranking Member,Seth Moulton,1
+SSBK04,C000880,majority,00250,Chairman,Mike Crapo,1
+SSBK04,C001071,majority,01825,,Bob Corker,2
+SSBK04,V000127,majority,01609,,David Vitter,3
+SSBK04,T000461,majority,02085,,Patrick J. Toomey,4
+SSBK04,K000360,majority,01647,,Mark Kirk,5
+SSBK04,S001184,majority,02056,,Tim Scott,6
+SSBK04,S001197,majority,02289,,Ben Sasse,7
+SSBK04,M000934,majority,01507,,Jerry Moran,8
+SSBK04,S000320,majority,01049,Ex Officio,Richard C. Shelby,9
+SSBK04,W000805,minority,01897,Ranking Member,Mark R. Warner,1
+SSBK04,R000122,minority,00949,,Jack Reed,2
+SSBK04,S000148,minority,01036,,Charles E. Schumer,3
+SSBK04,M000639,minority,00791,,Robert Menendez,4
+SSBK04,T000464,minority,01829,,Jon Tester,5
+SSBK04,W000817,minority,02182,,Elizabeth Warren,6
+SSBK04,D000607,minority,01850,,Joe Donnelly,7
+SSBK04,B000944,minority,00136,Ex Officio,Sherrod Brown,8
+SSAS17,G000359,majority,00452,Chairman,Lindsey Graham,1
+SSAS17,W000437,majority,01226,,Roger F. Wicker,2
+SSAS17,C001095,majority,02098,,Tom Cotton,3
+SSAS17,T000476,majority,02291,,Thom Tillis,4
+SSAS17,S001198,majority,02290,,Daniel Sullivan,5
+SSAS17,M000303,majority,00754,Ex Officio,John McCain,6
+SSAS17,G000555,minority,01866,Ranking Member,Kirsten E. Gillibrand,1
+SSAS17,M001170,minority,01820,,Claire McCaskill,2
+SSAS17,B001277,minority,02076,,Richard Blumenthal,3
+SSAS17,K000383,minority,02185,,"Angus S. King, Jr.",4
+SSAS17,R000122,minority,00949,Ex Officio,Jack Reed,5
+SSJU21,C001056,majority,01692,Chairman,John Cornyn,1
+SSJU21,T000476,majority,02291,,Thom Tillis,2
+SSJU21,G000359,majority,00452,,Lindsey Graham,3
+SSJU21,C001098,majority,02175,,Ted Cruz,4
+SSJU21,V000127,majority,01609,,David Vitter,5
+SSJU21,D000563,minority,00326,Ranking Member,Richard J. Durbin,1
+SSJU21,W000802,minority,01823,,Sheldon Whitehouse,2
+SSJU21,C001088,minority,01984,,Christopher A. Coons,3
+SSJU21,F000457,minority,01969,,Al Franken,4
+SCNC,G000386,majority,00457,Chairman,Chuck Grassley,1
+SCNC,C001056,majority,01692,,John Cornyn,2
+SCNC,R000584,majority,01896,,James E. Risch,3
+SCNC,S001141,majority,01548,,Jeff Sessions,4
+SCNC,F000062,minority,01332,,Dianne Feinstein,1
+SCNC,S000148,minority,01036,,Charles E. Schumer,2
+SCNC,W000802,minority,01823,,Sheldon Whitehouse,3
+HSBA20,H001058,majority,02028,Chair,Bill Huizenga,1
+HSBA20,M001182,majority,02059,Vice Chair,Mick Mulvaney,2
+HSBA20,L000491,majority,00711,,Frank D. Lucas,3
+HSBA20,P000588,majority,01738,,Stevan Pearce,4
+HSBA20,W000796,majority,01779,,Lynn A. Westmoreland,5
+HSBA20,S001188,majority,01981,,Marlin A. Stutzman,6
+HSBA20,P000606,majority,02141,,Robert Pittenger,7
+HSBA20,M001189,majority,02130,,Luke Messer,8
+HSBA20,S001183,majority,01994,,David Schweikert,9
+HSBA20,G000570,majority,02038,,Frank C. Guinta,10
+HSBA20,L000584,majority,02271,,Mia B. Love,11
+HSBA20,E000294,majority,02253,,Tom Emmer,12
+HSBA20,H001036,majority,01749,Ex Officio,Jeb Hensarling,13
+HSBA20,M001160,minority,01811,Ranking Member,Gwen Moore,1
+HSBA20,F000454,minority,01888,,Bill Foster,2
+HSBA20,P000593,minority,01835,,Ed Perlmutter,3
+HSBA20,H001047,minority,01913,,James A. Himes,4
+HSBA20,C001083,minority,01999,,John C. Carney Jr.,5
+HSBA20,S001185,minority,01988,,Terri A. Sewell,6
+HSBA20,M001191,minority,02117,,Patrick Murphy,7
+HSBA20,K000380,minority,02134,,Daniel T. Kildee,8
+HSBA20,H001064,minority,02170,,Denny Heck,9
+HSBA20,W000187,minority,01205,Ex Officio,Maxine Waters,10
+SSFI12,C000542,majority,00209,Chairman,Daniel Coats,1
+SSFI12,G000386,majority,00457,,Chuck Grassley,2
+SSFI12,C000880,majority,00250,,Mike Crapo,3
+SSFI12,E000285,majority,01542,,Michael B. Enzi,4
+SSFI12,C001056,majority,01692,,John Cornyn,5
+SSFI12,T000250,majority,01534,,John Thune,6
+SSFI12,B001135,majority,00153,,Richard Burr,7
+SSFI12,H000338,majority,01351,Ex Officio,Orrin G. Hatch,8
+SSFI12,B001267,minority,01965,Ranking Member,Michael F. Bennet,1
+SSFI12,C000127,minority,00172,,Maria Cantwell,2
+SSFI12,N000032,minority,00859,,Bill Nelson,3
+SSFI12,C000174,minority,00179,,Thomas R. Carper,4
+SSFI12,C001070,minority,01828,,"Robert P. Casey, Jr.",5
+SSFI12,W000779,minority,01247,Ex Officio,Ron Wyden,6
+SSCM26,W000437,majority,01226,Chairman,Roger F. Wicker,1
+SSCM26,B000575,majority,01464,,Roy Blunt,2
+SSCM26,R000595,majority,02084,,Marco Rubio,3
+SSCM26,A000368,majority,02075,,Kelly Ayotte,4
+SSCM26,C001098,majority,02175,,Ted Cruz,5
+SSCM26,F000463,majority,02179,,Deb Fischer,6
+SSCM26,M000934,majority,01507,,Jerry Moran,7
+SSCM26,S001198,majority,02290,,Daniel Sullivan,8
+SSCM26,J000293,majority,02086,,Ron Johnson,9
+SSCM26,H001041,majority,01863,,Dean Heller,10
+SSCM26,G000562,majority,01998,,Cory Gardner,11
+SSCM26,D000618,majority,02138,,Steve Daines,12
+SSCM26,T000250,majority,01534,Ex Officio,John Thune,13
+SSCM26,S001194,minority,02173,Ranking Member,Brian Schatz,1
+SSCM26,C000127,minority,00172,,Maria Cantwell,2
+SSCM26,M001170,minority,01820,,Claire McCaskill,3
+SSCM26,K000367,minority,01826,,Amy Klobuchar,4
+SSCM26,B001277,minority,02076,,Richard Blumenthal,5
+SSCM26,M000133,minority,00735,,Edward J. Markey,6
+SSCM26,B001288,minority,02194,,Cory A. Booker,7
+SSCM26,U000039,minority,01567,,Tom Udall,8
+SSCM26,M001183,minority,01983,,"Joe Manchin, III",9
+SSCM26,P000595,minority,01929,,Gary Peters,10
+SSCM26,N000032,minority,00859,Ex Officio,Bill Nelson,11
+HSVR08,C001077,majority,01912,Chair,Mike Coffman,1
+HSVR08,L000564,majority,01834,,Doug Lamborn,2
+HSVR08,R000582,majority,01954,,David P. Roe,3
+HSVR08,B001271,majority,02027,,Dan Benishek,4
+HSVR08,H001057,majority,02020,,Tim Huelskamp,5
+HSVR08,W000813,majority,02128,,Jackie Walorski,6
+HSVR08,K000382,minority,02145,Ranking Member,Ann M. Kuster,1
+HSVR08,O000170,minority,02162,,Beto O'Rourke,2
+HSVR08,R000602,minority,02262,,Kathleen M. Rice,3
+HSVR08,W000799,minority,01856,,Timothy J. Walz,4
+SSFI11,C000880,majority,00250,Chairman,Mike Crapo,1
+SSFI11,R000307,majority,00968,,Pat Roberts,2
+SSFI11,E000285,majority,01542,,Michael B. Enzi,3
+SSFI11,C001056,majority,01692,,John Cornyn,4
+SSFI11,T000250,majority,01534,,John Thune,5
+SSFI11,I000055,majority,01608,,Johnny Isakson,6
+SSFI11,P000449,majority,00924,,Rob Portman,7
+SSFI11,T000461,majority,02085,,Patrick J. Toomey,8
+SSFI11,C000542,majority,00209,,Daniel Coats,9
+SSFI11,H001041,majority,01863,,Dean Heller,10
+SSFI11,S001184,majority,02056,,Tim Scott,11
+SSFI11,H000338,majority,01351,Ex Officio,Orrin G. Hatch,12
+SSFI11,C001070,minority,01828,Ranking Member,"Robert P. Casey, Jr.",1
+SSFI11,S000148,minority,01036,,Charles E. Schumer,2
+SSFI11,N000032,minority,00859,,Bill Nelson,3
+SSFI11,M000639,minority,00791,,Robert Menendez,4
+SSFI11,C000174,minority,00179,,Thomas R. Carper,5
+SSFI11,C000141,minority,00174,,Benjamin L. Cardin,6
+SSFI11,B001267,minority,01965,,Michael F. Bennet,7
+SSFI11,W000805,minority,01897,,Mark R. Warner,8
+SSFI11,W000779,minority,01247,,Ron Wyden,9
+HSSY,S000583,majority,01075,Chair,Lamar Smith,1
+HSSY,S000244,majority,01041,,F. James Sensenbrenner Jr.,2
+HSSY,R000409,majority,00979,,Dana Rohrabacher,3
+HSSY,L000491,majority,00711,Vice Chair,Frank D. Lucas,4
+HSSY,N000182,majority,01758,,Randy Neugebauer,5
+HSSY,M001157,majority,01804,,Michael T. McCaul,6
+HSSY,B001274,majority,01987,,Mo Brooks,7
+HSSY,H001059,majority,02015,,Randy Hultgren,8
+HSSY,P000599,majority,01915,,Bill Posey,9
+HSSY,M001184,majority,02094,,Thomas Massie,10
+HSSY,B001283,majority,02155,,Jim Bridenstine,11
+HSSY,W000814,majority,02161,,Randy K. Weber Sr.,12
+HSSY,J000292,majority,02046,,Bill Johnson,13
+HSSY,M001194,majority,02248,,John R. Moolenaar,14
+HSSY,K000387,majority,02228,,Stephen Knight,15
+HSSY,B001291,majority,02270,,Brian Babin,16
+HSSY,W000821,majority,02224,,Bruce Westerman,17
+HSSY,C001105,majority,02273,,Barbara Comstock,18
+HSSY,N000189,majority,02275,,Dan Newhouse,19
+HSSY,P000609,majority,02221,,Gary J. Palmer,20
+HSSY,L000583,majority,02238,,Barry Loudermilk,21
+HSSY,A000374,majority,02244,,Ralph Lee Abraham,22
+HSSY,J000126,minority,00599,Ranking Member,Eddie Bernice Johnson,1
+HSSY,L000397,minority,00701,,Zoe Lofgren,2
+HSSY,L000563,minority,01781,,Daniel Lipinski,3
+HSSY,E000290,minority,01894,,Donna F. Edwards,4
+HSSY,B001278,minority,02092,,Suzanne Bonamici,5
+HSSY,S001193,minority,02104,,Eric Swalwell,6
+HSSY,G000556,minority,01914,,Alan Grayson,7
+HSSY,B001287,minority,02102,,Ami Bera,8
+HSSY,E000293,minority,02114,,Elizabeth H. Esty,9
+HSSY,V000131,minority,02166,,Marc A. Veasey,10
+HSSY,C001101,minority,02196,,Katherine M. Clark,11
+HSSY,B001292,minority,02272,,Donald S. Beyer Jr.,12
+HSSY,P000593,minority,01835,,Ed Perlmutter,13
+HSSY,T000469,minority,01942,,Paul Tonko,14
+HSSY,T000472,minority,02110,,Mark Takano,15
+HSSY,F000454,minority,01888,,Bill Foster,16
+SSJU,G000386,majority,00457,Chairman,Chuck Grassley,1
+SSJU,H000338,majority,01351,,Orrin G. Hatch,2
+SSJU,S001141,majority,01548,,Jeff Sessions,3
+SSJU,G000359,majority,00452,,Lindsey Graham,4
+SSJU,C001056,majority,01692,,John Cornyn,5
+SSJU,L000577,majority,02080,,Mike Lee,6
+SSJU,C001098,majority,02175,,Ted Cruz,7
+SSJU,V000127,majority,01609,,David Vitter,8
+SSJU,F000444,majority,01633,,Jeff Flake,9
+SSJU,P000612,majority,02286,,David Perdue,10
+SSJU,T000476,majority,02291,,Thom Tillis,11
+SSJU,L000174,minority,01383,Ranking Member,Patrick J. Leahy,1
+SSJU,F000062,minority,01332,,Dianne Feinstein,2
+SSJU,S000148,minority,01036,,Charles E. Schumer,3
+SSJU,D000563,minority,00326,,Richard J. Durbin,4
+SSJU,W000802,minority,01823,,Sheldon Whitehouse,5
+SSJU,K000367,minority,01826,,Amy Klobuchar,6
+SSJU,F000457,minority,01969,,Al Franken,7
+SSJU,C001088,minority,01984,,Christopher A. Coons,8
+SSJU,B001277,minority,02076,,Richard Blumenthal,9
+SSGA18,P000603,majority,02082,Chairman,Rand Paul,1
+SSGA18,L000575,majority,02050,,James Lankford,2
+SSGA18,E000285,majority,01542,,Michael B. Enzi,3
+SSGA18,A000368,majority,02075,,Kelly Ayotte,4
+SSGA18,E000295,majority,02283,,Joni Ernst,5
+SSGA18,S001197,majority,02289,,Ben Sasse,6
+SSGA18,J000293,majority,02086,Ex Officio,Ron Johnson,7
+SSGA18,B001230,minority,01558,Ranking Member,Tammy Baldwin,1
+SSGA18,M001170,minority,01820,,Claire McCaskill,2
+SSGA18,B001288,minority,02194,,Cory A. Booker,3
+SSGA18,P000595,minority,01929,,Gary Peters,4
+SSGA18,C000174,minority,00179,Ex Officio,Thomas R. Carper,5
+HSAG03,W000813,majority,02128,Chair,Jackie Walorski,1
+HSAG03,N000182,majority,01758,,Randy Neugebauer,2
+HSAG03,T000467,majority,01952,,Glenn Thompson,3
+HSAG03,G000563,majority,02049,,Bob Gibbs,4
+HSAG03,C001087,majority,01989,,"Eric A. ""Rick"" Crawford",5
+HSAG03,H001053,majority,02032,,Vicky Hartzler,6
+HSAG03,B001271,majority,02027,,Dan Benishek,7
+HSAG03,D000619,majority,02126,,Rodney Davis,8
+HSAG03,Y000065,majority,02115,,Ted S. Yoho,9
+HSAG03,R000603,majority,02256,,David Rouzer,10
+HSAG03,A000374,majority,02244,,Ralph Lee Abraham,11
+HSAG03,M001194,majority,02248,,John R. Moolenaar,12
+HSAG03,M000312,minority,01504,Ranking Member,James P. McGovern,1
+HSAG03,F000455,minority,01895,,Marcia L. Fudge,2
+HSAG03,A000370,minority,02201,,Alma S. Adams,3
+HSAG03,L000580,minority,02146,,Michelle Lujan Grisham,4
+HSAG03,A000371,minority,02229,,Pete Aguilar,5
+HSAG03,P000610,minority,02274,,Stacey E. Plaskett,6
+HSAG03,A000373,minority,02257,,Brad Ashford,7
+HSAG03,D000617,minority,02096,,Suzan K. DelBene,8
+HSSM23,H001051,majority,02044,Chair,Richard L. Hanna,1
+HSSM23,K000362,majority,01724,,Steve King,2
+HSSM23,G000564,majority,02043,,Christopher P. Gibson,3
+HSSM23,K000387,majority,02228,,Stephen Knight,4
+HSSM23,H001070,majority,02260,,Cresent Hardy,5
+HSSM23,K000388,majority,02294,,Trent Kelly,6
+HSSM23,T000473,minority,02240,Ranking Member,Mark Takai,1
+SSBK05,K000360,majority,01647,Chairman,Mark Kirk,1
+SSBK05,C001095,majority,02098,,Tom Cotton,2
+SSBK05,S001197,majority,02289,,Ben Sasse,3
+SSBK05,S000320,majority,01049,Ex Officio,Richard C. Shelby,4
+SSBK05,H001069,minority,02174,Ranking Member,Heidi Heitkamp,1
+SSBK05,W000805,minority,01897,,Mark R. Warner,2
+SSBK05,B000944,minority,00136,Ex Officio,Sherrod Brown,3
+HSPW,S001154,majority,01681,Chair,Bill Shuster,1
+HSPW,Y000033,majority,01256,,Don Young,2
+HSPW,D000533,majority,00322,Vice Chair,John J. Duncan Jr.,3
+HSPW,M000689,majority,00800,,John L. Mica,4
+HSPW,L000554,majority,00699,,Frank A. LoBiondo,5
+HSPW,G000546,majority,01656,,Sam Graves,6
+HSPW,M001150,majority,01731,,Candice S. Miller,7
+HSPW,H001048,majority,01909,,Duncan Hunter,8
+HSPW,C001087,majority,01989,,"Eric A. ""Rick"" Crawford",9
+HSPW,B001269,majority,02054,,Lou Barletta,10
+HSPW,F000460,majority,02067,,Blake Farenthold,11
+HSPW,G000563,majority,02049,,Bob Gibbs,12
+HSPW,H001051,majority,02044,,Richard L. Hanna,13
+HSPW,W000806,majority,02002,,Daniel Webster,14
+HSPW,D000612,majority,01995,,Jeff Denham,15
+HSPW,R000587,majority,02073,,Reid J. Ribble,16
+HSPW,M001184,majority,02094,,Thomas Massie,17
+HSPW,R000597,majority,02160,,Tom Rice,18
+HSPW,M001187,majority,02142,,Mark Meadows,19
+HSPW,P000605,majority,02157,,Scott Perry,20
+HSPW,D000619,majority,02126,,Rodney Davis,21
+HSPW,S000051,majority,01012,,Mark Sanford,22
+HSPW,W000810,majority,02008,,Rob Woodall,23
+HSPW,R000592,majority,02017,,Todd Rokita,24
+HSPW,K000386,majority,02264,,John Katko,25
+HSPW,B001291,majority,02270,,Brian Babin,26
+HSPW,H001070,majority,02260,,Cresent Hardy,27
+HSPW,C001106,majority,02266,,Ryan A. Costello,28
+HSPW,G000577,majority,02245,,Garret Graves,29
+HSPW,W000820,majority,02232,,Mimi Walters,30
+HSPW,C001105,majority,02273,,Barbara Comstock,31
+HSPW,C001107,majority,02235,,Carlos Curbelo,32
+HSPW,R000603,majority,02256,,David Rouzer,33
+HSPW,Z000017,majority,02261,,Lee M. Zeldin,34
+HSPW,D000191,minority,00279,Ranking Member,Peter A. DeFazio,1
+HSPW,N000147,minority,00868,,Eleanor Holmes Norton,2
+HSPW,N000002,minority,00850,,Jerrold Nadler,3
+HSPW,B000911,minority,00132,,Corrine Brown,4
+HSPW,J000126,minority,00599,,Eddie Bernice Johnson,5
+HSPW,C000984,minority,00256,,Elijah E. Cummings,6
+HSPW,L000560,minority,01675,,Rick Larsen,7
+HSPW,C001037,minority,01564,,Michael E. Capuano,8
+HSPW,N000179,minority,01602,,Grace F. Napolitano,9
+HSPW,L000563,minority,01781,,Daniel Lipinski,10
+HSPW,C001068,minority,01878,,Steve Cohen,11
+HSPW,S001165,minority,01818,,Albio Sires,12
+HSPW,E000290,minority,01894,,Donna F. Edwards,13
+HSPW,G000559,minority,01973,,John Garamendi,14
+HSPW,C001072,minority,01889,,André Carson,15
+HSPW,H001063,minority,02089,,Janice Hahn,16
+HSPW,N000127,minority,00867,,Richard M. Nolan,17
+HSPW,K000368,minority,01907,,Ann Kirkpatrick,18
+HSPW,T000468,minority,01940,,Dina Titus,19
+HSPW,M001185,minority,02150,,Sean Patrick Maloney,20
+HSPW,E000293,minority,02114,,Elizabeth H. Esty,21
+HSPW,F000462,minority,02119,,Lois Frankel,22
+HSPW,B001286,minority,02127,,Cheri Bustos,23
+HSPW,H001068,minority,02101,,Jared Huffman,24
+HSPW,B001285,minority,02106,,Julia Brownley,25
+HSVR,M001144,majority,01685,Chair,Jeff Miller,1
+HSVR,L000564,majority,01834,,Doug Lamborn,2
+HSVR,B001257,majority,01838,,Gus M. Bilirakis,3
+HSVR,R000582,majority,01954,,David P. Roe,4
+HSVR,B001271,majority,02027,,Dan Benishek,5
+HSVR,H001057,majority,02020,,Tim Huelskamp,6
+HSVR,C001077,majority,01912,,Mike Coffman,7
+HSVR,W000815,majority,02152,,Brad R. Wenstrup,8
+HSVR,W000813,majority,02128,,Jackie Walorski,9
+HSVR,A000374,majority,02244,,Ralph Lee Abraham,10
+HSVR,Z000017,majority,02261,,Lee M. Zeldin,11
+HSVR,C001106,majority,02266,,Ryan A. Costello,12
+HSVR,R000600,majority,02222,,Aumua Amata Coleman Radewagen,13
+HSVR,B001295,majority,02243,,Mike Bost,14
+HSVR,B000911,minority,00132,Ranking Member,Corrine Brown,1
+HSVR,T000472,minority,02110,,Mark Takano,2
+HSVR,B001285,minority,02106,,Julia Brownley,3
+HSVR,T000468,minority,01940,,Dina Titus,4
+HSVR,R000599,minority,02109,,Raul Ruiz,5
+HSVR,K000382,minority,02145,,Ann M. Kuster,6
+HSVR,O000170,minority,02162,,Beto O'Rourke,7
+HSVR,R000602,minority,02262,,Kathleen M. Rice,8
+HSVR,W000799,minority,01856,,Timothy J. Walz,9
+HSVR,M001166,minority,01832,,Jerry McNerney,10
+HSAG16,C001087,majority,01989,Chair,"Eric A. ""Rick"" Crawford",1
+HSAG16,L000491,majority,00711,,Frank D. Lucas,2
+HSAG16,N000182,majority,01758,,Randy Neugebauer,3
+HSAG16,R000575,majority,01704,,Mike Rogers,4
+HSAG16,G000563,majority,02049,,Bob Gibbs,5
+HSAG16,S001189,majority,02009,,Austin Scott,6
+HSAG16,D000612,majority,01995,,Jeff Denham,7
+HSAG16,L000578,majority,02100,,Doug LaMalfa,8
+HSAG16,W000813,majority,02128,,Jackie Walorski,9
+HSAG16,A000372,majority,02239,,Rick W. Allen,10
+HSAG16,B001295,majority,02243,,Mike Bost,11
+HSAG16,A000374,majority,02244,,Ralph Lee Abraham,12
+HSAG16,W000799,minority,01856,Ranking Member,Timothy J. Walz,1
+HSAG16,B001286,minority,02127,,Cheri Bustos,2
+HSAG16,G000575,minority,02234,,Gwen Graham,3
+HSAG16,A000373,minority,02257,,Brad Ashford,4
+HSAG16,S001157,minority,01722,,David Scott,5
+HSAG16,C001059,minority,01774,,Jim Costa,6
+HSAG16,M001185,minority,02150,,Sean Patrick Maloney,7
+HSAG16,K000368,minority,01907,,Ann Kirkpatrick,8
+SSFR07,R000584,majority,01896,Chairman,James E. Risch,1
+SSFR07,P000612,majority,02286,,David Perdue,2
+SSFR07,P000603,majority,02082,,Rand Paul,3
+SSFR07,R000595,majority,02084,,Marco Rubio,4
+SSFR07,J000293,majority,02086,,Ron Johnson,5
+SSFR07,C001071,majority,01825,Ex Officio,Bob Corker,6
+SSFR07,M001169,minority,01837,Ranking Member,Christopher Murphy,1
+SSFR07,C000141,minority,00174,,Benjamin L. Cardin,2
+SSFR07,S001181,minority,01901,,Jeanne Shaheen,3
+SSFR07,K000384,minority,02176,,Tim Kaine,4
+HSGO24,M001187,majority,02142,Chair,Mark Meadows,1
+HSGO24,J000289,majority,01868,,Jim Jordan,2
+HSGO24,W000798,majority,01855,Vice Chair,Tim Walberg,3
+HSGO24,G000566,majority,02058,,Trey Gowdy,4
+HSGO24,M001184,majority,02094,,Thomas Massie,5
+HSGO24,M001182,majority,02059,,Mick Mulvaney,6
+HSGO24,B001297,majority,02233,,Ken Buck,7
+HSGO24,C001103,majority,02236,,"Earl L. ""Buddy"" Carter",8
+HSGO24,G000576,majority,02276,,Glenn Grothman,9
+HSGO24,C001078,minority,01959,Ranking Member,Gerald E. Connolly,1
+HSGO24,M000087,minority,00729,,Carolyn B. Maloney,2
+HSGO24,N000147,minority,00868,,Eleanor Holmes Norton,3
+HSGO24,C001049,minority,01654,,Wm. Lacy Clay,4
+HSGO24,L000562,minority,01686,,Stephen F. Lynch,5
+HSGO24,P000610,minority,02274,,Stacey E. Plaskett,6
+SSAS16,S001141,majority,01548,Chairman,Jeff Sessions,1
+SSAS16,I000024,majority,00583,,James M. Inhofe,2
+SSAS16,F000463,majority,02179,,Deb Fischer,3
+SSAS16,L000577,majority,02080,,Mike Lee,4
+SSAS16,G000359,majority,00452,,Lindsey Graham,5
+SSAS16,C001098,majority,02175,,Ted Cruz,6
+SSAS16,M000303,majority,00754,Ex Officio,John McCain,7
+SSAS16,D000607,minority,01850,Ranking Member,Joe Donnelly,1
+SSAS16,N000032,minority,00859,,Bill Nelson,2
+SSAS16,M001183,minority,01983,,"Joe Manchin, III",3
+SSAS16,K000383,minority,02185,,"Angus S. King, Jr.",4
+SSAS16,H001046,minority,01937,,Martin Heinrich,5
+SSAS16,R000122,minority,00949,Ex Officio,Jack Reed,6
+SSFI,H000338,majority,01351,Chairman,Orrin G. Hatch,1
+SSFI,G000386,majority,00457,,Chuck Grassley,2
+SSFI,C000880,majority,00250,,Mike Crapo,3
+SSFI,R000307,majority,00968,,Pat Roberts,4
+SSFI,E000285,majority,01542,,Michael B. Enzi,5
+SSFI,C001056,majority,01692,,John Cornyn,6
+SSFI,T000250,majority,01534,,John Thune,7
+SSFI,B001135,majority,00153,,Richard Burr,8
+SSFI,I000055,majority,01608,,Johnny Isakson,9
+SSFI,P000449,majority,00924,,Rob Portman,10
+SSFI,T000461,majority,02085,,Patrick J. Toomey,11
+SSFI,C000542,majority,00209,,Daniel Coats,12
+SSFI,H001041,majority,01863,,Dean Heller,13
+SSFI,S001184,majority,02056,,Tim Scott,14
+SSFI,W000779,minority,01247,Ranking Member,Ron Wyden,1
+SSFI,S000148,minority,01036,,Charles E. Schumer,2
+SSFI,S000770,minority,01531,,Debbie Stabenow,3
+SSFI,C000127,minority,00172,,Maria Cantwell,4
+SSFI,N000032,minority,00859,,Bill Nelson,5
+SSFI,M000639,minority,00791,,Robert Menendez,6
+SSFI,C000174,minority,00179,,Thomas R. Carper,7
+SSFI,C000141,minority,00174,,Benjamin L. Cardin,8
+SSFI,B000944,minority,00136,,Sherrod Brown,9
+SSFI,B001267,minority,01965,,Michael F. Bennet,10
+SSFI,C001070,minority,01828,,"Robert P. Casey, Jr.",11
+SSFI,W000805,minority,01897,,Mark R. Warner,12
+SLIA,B001261,majority,01881,Chairman,John Barrasso,1
+SLIA,M000303,majority,00754,,John McCain,2
+SLIA,M001153,majority,01694,,Lisa Murkowski,3
+SLIA,H001061,majority,02079,,John Hoeven,4
+SLIA,L000575,majority,02050,,James Lankford,5
+SLIA,D000618,majority,02138,,Steve Daines,6
+SLIA,C000880,majority,00250,,Mike Crapo,7
+SLIA,M000934,majority,01507,,Jerry Moran,8
+SLIA,T000464,minority,01829,Vice Chairman,Jon Tester,1
+SLIA,C000127,minority,00172,,Maria Cantwell,2
+SLIA,U000039,minority,01567,,Tom Udall,3
+SLIA,F000457,minority,01969,,Al Franken,4
+SLIA,S001194,minority,02173,,Brian Schatz,5
+SLIA,H001069,minority,02174,,Heidi Heitkamp,6
+JSLC,B000575,majority,01464,Chairman,Roy Blunt,1
+JSLC,R000307,majority,00968,,Pat Roberts,2
+JSLC,C001047,majority,01676,,Shelley Moore Capito,3
+JSLC,S000148,minority,01036,,Charles E. Schumer,1
+JSLC,L000174,minority,01383,,Patrick J. Leahy,2
+JSLC,H001045,majority,01933,Chairman,Gregg Harper,1
+JSLC,M001150,majority,01731,,Candice S. Miller,2
+JSLC,C001053,majority,01742,,Tom Cole,3
+JSLC,B001227,minority,01469,,Robert A. Brady,1
+JSLC,L000397,minority,00701,,Zoe Lofgren,2
+HSED13,F000450,majority,01791,Chair,Virginia Foxx,1
+HSED13,R000582,majority,01954,,David P. Roe,2
+HSED13,S000018,majority,01009,,Matt Salmon,3
+HSED13,G000558,majority,01922,,Brett Guthrie,4
+HSED13,B001269,majority,02054,,Lou Barletta,5
+HSED13,H001055,majority,02040,,Joseph J. Heck,6
+HSED13,M001189,majority,02130,,Luke Messer,7
+HSED13,B001289,majority,02197,,Bradley Byrne,8
+HSED13,C001107,majority,02235,,Carlos Curbelo,9
+HSED13,S001196,majority,02263,,Elise M. Stefanik,10
+HSED13,A000372,majority,02239,,Rick W. Allen,11
+HSED13,H000636,minority,01490,Ranking Member,Rubén Hinojosa,1
+HSED13,J000294,minority,02149,,Hakeem S. Jeffries,2
+HSED13,A000370,minority,02201,,Alma S. Adams,3
+HSED13,D000623,minority,02227,,Mark DeSaulnier,4
+HSED13,D000598,minority,01641,,Susan A. Davis,5
+HSED13,G000551,minority,01708,,Raúl M. Grijalva,6
+HSED13,C001069,minority,01836,,Joe Courtney,7
+HSED13,P000598,minority,01910,,Jared Polis,8

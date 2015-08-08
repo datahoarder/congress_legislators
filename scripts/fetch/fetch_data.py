@@ -2,7 +2,7 @@
 run:
     $ python3 -m scripts.fetch.fetch_data
 
-Does a month-by-month query of the USGS site for earthquake data
+Fetches member, committee, and social media data from unitedstates/congress-legislators
 """
 from scripts.settings import setup_space
 from scripts.settings import FETCHED_DIR

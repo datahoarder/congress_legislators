@@ -7,7 +7,6 @@ from scripts.settings import COMPILED_DIR, FETCHED_DIR
 import os.path
 import yaml
 import csv
-from glob import glob
 from collections import OrderedDict
 
 def extract_terms(obj):
