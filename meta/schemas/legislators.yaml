@@ -39,7 +39,7 @@ columns:
       - "F"
   birthday:
     type: Date
-    date_format: '%Y-%m-%d'
+    format: '%Y-%m-%d'
   thomas_id:
     type: String
   govtrack_id:
@@ -49,12 +49,12 @@ columns:
 
 
 
-  start:
+  current_term_start:
     type: Date
-    date_format: "%Y-%m-%d"
-  end:
+    format: "%Y-%m-%d"
+  current_term_end:
     type: Date
-    date_format: "%Y-%m-%d"
+    format: "%Y-%m-%d"
     nullable: true
   party:
     type: String
@@ -71,7 +71,7 @@ columns:
       - 0
       - 5
       - 12
-  senator_class:
+  senate_class:
     type: String
     length: 1
     nullable: true
@@ -104,10 +104,10 @@ columns:
       - sen
   current_term_start:
     type: Date
-    date_format: "%Y-%m-%d"
+    format: "%Y-%m-%d"
   current_term_end:
     type: Date
-    date_format: "%Y-%m-%d"
+    format: "%Y-%m-%d"
     nullable: true
   party:
     type: String
