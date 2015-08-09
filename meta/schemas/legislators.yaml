@@ -24,10 +24,12 @@ columns:
 
   first_name:
     type: String
+    nullable: false
   middle_name:
     type: String
   last_name:
     type: String
+    nullable: false
   suffix_name:
     type: String
   nickname:
@@ -42,23 +44,23 @@ columns:
     format: '%Y-%m-%d'
   thomas_id:
     type: String
+    nullable: false
   govtrack_id:
     type: String
   opensecrets_id:
     type: String
 
-
-
   current_term_start:
     type: Date
     format: "%Y-%m-%d"
+    nullable: false
   current_term_end:
     type: Date
     format: "%Y-%m-%d"
-    nullable: true
   party:
     type: String
     length: 40
+    nullable: false
     examples:
       - "Republican"
       - "Independent"
@@ -99,30 +101,22 @@ columns:
   role:
     type: String
     length: 3
+    nullable: false
     enumerables:
       - rep
       - sen
+
   current_term_start:
     type: Date
     format: "%Y-%m-%d"
+    nullable: false
+
   current_term_end:
     type: Date
     format: "%Y-%m-%d"
     nullable: true
-  party:
-    type: String
-    length: 40
-    examples:
-      - "Republican"
-      - "Independent"
-  district:
-    type: String
-    length: 3
-    nullable: true
-    examples:
-      - 0
-      - 5
-      - 12
+
+
   senator_class:
     type: String
     length: 1
@@ -131,21 +125,6 @@ columns:
       - 1
       - 2
       - 3
-  state:
-    type: String
-    length: 2
-    nullable: false
-    examples:
-      - NY
-      - AK
-
-  state_rank:
-    type: String
-    length: 1
-    nullable: true
-    enumerables:
-      - "junior"
-      - "senior"
 
 ## Other things derived from terms
   url:
