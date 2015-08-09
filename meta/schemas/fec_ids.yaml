@@ -1,0 +1,14 @@
+name: fec_ids
+db:
+  primary_key:
+    - bioguide_id
+    - fec_id
+  indexes:
+    - fec_id
+columns:
+  bioguide_id:
+    type: String
+    length: 7
+  fec_id:
+    type: String
+    length: 9

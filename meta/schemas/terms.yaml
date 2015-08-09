@@ -8,7 +8,9 @@ db:
     - bioguide_id
     - start
   indexes:
-    - bioguide_id
+    - start
+    - end
+    - state
 
 columns:
   bioguide_id:
@@ -25,10 +27,10 @@ columns:
       - sen
   start:
     type: Date
-    date_format: "%Y-%m-%d"
+    format: "%Y-%m-%d"
   end:
     type: Date
-    date_format: "%Y-%m-%d"
+    format: "%Y-%m-%d"
     nullable: true
   party:
     type: String

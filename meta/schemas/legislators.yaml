@@ -5,8 +5,8 @@ source:
 db:
   primary_key: bioguide_id
   indexes:
-    - bioguide_id
     - senate_lis_id
+    - [state, district]
 
 columns:
   bioguide_id:

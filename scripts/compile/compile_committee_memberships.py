@@ -19,13 +19,13 @@ import yaml
 import csv
 from collections import OrderedDict
 
-MEMBER_FIELDS_MAP = OrderedDict({'bioguide_id': 'bioguide',
-    'member_thomas_id': 'thomas',
-    'rank': 'rank',
-    'member_name': 'name',
-    'party': 'party',
-    'title': 'title'
-    })
+MEMBER_FIELDS_MAP = OrderedDict([["bioguide_id", "bioguide"],
+    ["member_thomas_id", "thomas"],
+    ["rank", "rank"],
+    ["member_name", "name"],
+    ["party", "party"],
+    ["title", "title"]
+    ])
 def extract_memberships(comid, members):
     """
     `comid` is the Thomas ID of the committee, e.g. HLIG

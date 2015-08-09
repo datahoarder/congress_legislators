@@ -1,0 +1,26 @@
+name: committee_memberships
+db:
+  primary_key:
+    - committee_thomas_id
+    - bioguide_id
+  indexes:
+    - bioguide_id
+columns:
+  committee_thomas_id:
+    type: String
+  bioguide_id:
+    type: String
+  member_thomas_id:
+    type: String
+  rank:
+    type: Integer
+  member_name:
+    type: String
+  party:
+    type: String
+    enumerables:
+      - majority
+      - minority
+  title:
+    type: String
+

@@ -1,0 +1,38 @@
+name: committees
+db:
+  primary_key:
+    - committee_thomas_id
+  indexes:
+    - parent_committee_id
+
+columns:
+  committee_thomas_id:
+    type: String
+  parent_committee_id:
+    type: String
+  type:
+    type: String
+    enumerables:
+      - senate
+      - house
+      - joint
+  name:
+    type: String
+  thomas_id:
+    type: String
+  address:
+    type: String
+  phone:
+    type: String
+  url:
+    type: String
+  minority_url:
+    type: String
+  rss_url:
+    type: String
+  minority_rss_url:
+    type: String
+  jurisdiction:
+    type: String
+  jurisdiction_source:
+    type: String

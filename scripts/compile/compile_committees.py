@@ -29,7 +29,6 @@ from scripts.settings import COMPILED_DIR, FETCHED_DIR
 import os.path
 import yaml
 import csv
-from collections import OrderedDict
 
 LITERAL_FIELD_NAMES = ['type', 'name', 'thomas_id',
     'address', 'phone', 'url', 'minority_url', 'rss_url',

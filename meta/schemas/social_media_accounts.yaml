@@ -4,8 +4,6 @@ source:
   direct_url: https://raw.githubusercontent.com/dannguyen/congress-legislators/master/legislators-social-media.yaml
 db:
   primary_key: bioguide_id
-  indexes:
-    - bioguide_id
 
 columns:
   bioguide_id:
