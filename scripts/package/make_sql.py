@@ -26,6 +26,7 @@ for schema_name, data_fname in SCHEMA_TO_DATA_MAP.items():
     # Create legislators
     schema = rtyaml.load(open(os.path.join(SCHEMAS_DIR, schema_name + '.yaml')))
     schema_pkeys = schema['db'].get('primary_key')
+    schema_pkeys = schema_pkeys if type(schema_pkeys) is list else [schema_pkeys]
     # set up schema
     table_name = schema['name']
     table_cols = []
@@ -42,8 +43,6 @@ for schema_name, data_fname in SCHEMA_TO_DATA_MAP.items():
         primary_key = True if c_name in schema_pkeys else False
         table_cols.append(
                 Column(c_name, ctype, nullable = nullable, primary_key = primary_key ))
-
-
 
 
     # init table object

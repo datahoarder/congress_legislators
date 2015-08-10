@@ -12,3 +12,5 @@ columns:
   fec_id:
     type: String
     length: 9
+  legislator_name:
+    type: String
